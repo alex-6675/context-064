@@ -1,0 +1,96 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Параметры расшрения Context RepuTracker v0.6.4</title>
+<script defer="" type="text/javascript" src="FileSaver.js"></script>
+<script defer="" type="text/javascript" src="expimp.js"></script>
+<link rel="stylesheet" type="text/css" href="ddmenu.css">
+<link rel="stylesheet" type="text/css" href="tabs.css">
+
+</head>
+<body>
+<div id="dataimported" class="darkbackground">
+  <div class="eventwindow">
+    <span class="close">&times;</span>
+    <p id="eventmessage"></p>
+  </div>
+</div>
+<div class="pc-tab">
+<input checked="checked" id="tab1" type="radio" name="pct" />
+<input id="tab2" type="radio" name="pct" />
+  <nav>
+    <ul>
+      <li class="tab1">
+        <label for="tab1">__MSG_common_tab__</label>
+      </li>
+      <li class="tab2">
+        <label for="tab2">__MSG_tags_tab__</label>
+      </li>
+    </ul>
+  </nav>
+<section>
+<div class="tab1">
+<a href="#" id="expbtn"><button>__MSG_export_button__</button></a><br>
+<br>
+<br>__MSG_import_button__:<br><input type="file" id="impbtn" name="jsonfile" value="Импорт"><label><input type="checkbox" id="erasebeforeimport"/>__MSG_remove_before_import_sign__</label>
+<br>
+<hr>
+<p style="text-align: center;">__MSG_read_details_text__<a href="https://github.com/dmiandr/context/blob/master/README.md">__MSG_github_link_text__</a></p>
+<br>
+__MSG_totalevents_sign__ <label id="totaleventsplace"></label> __MSG_from_sign__ <label id="totaldiffuserssplace"></label> __MSG_different_users_sign__<br>
+<label id="totaldescripts"></label> __MSG_user_character_sign__.
+<br>
+__MSG_last_added_event_sign__<br>
+<table class="histable" id="lastevent">
+</table>
+<br>
+<hr>
+<label>__MSG_supported_socnets_sign__</label><br>
+<form id="socnets">
+<select id="socnetselection" multiple>
+</select>
+</form>
+<br>
+<label id="filtertitle">__MSG_user_statuses_sign__</label><br>
+<table class="histable" id="statuslist">
+</table>
+<br>
+__MSG_user_list_sign__<br>
+<table class="histable" id="overalltabid" width="50%">
+<th>N</th>
+<th>__MSG_name_columntitle__</th>
+<th>__MSG_nickname_columntitle__</th>
+<th>__MSG_eventsnumber_columntitle__</th>
+<th></th>
+</table>
+</div>
+<div class="tab2" id="tab2section">
+<ul class="tags">
+</ul>
+<table class="histable" id="taggedevents">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+</table>
+</div>
+
+</section>
+</div>
+<script defer="" type="text/javascript" src="initfirst.js"></script>
+<script defer="" type="text/javascript" src="uparse.js"></script>
+<script defer="" type="text/javascript" src="contws.js"></script>
+<script defer="" type="text/javascript" src="vkcom.js"></script>
+<script defer="" type="text/javascript" src="aftershock.js"></script>
+<script defer="" type="text/javascript" src="snettemplate.js"></script>
+<script defer="" type="text/javascript" src="ljcom.js"></script>
+<script defer="" type="text/javascript" src="youtubecom.js"></script>
+<script defer="" type="text/javascript" src="habrcom.js"></script>
+<script defer="" type="text/javascript" src="rutube_env.js"></script>
+<script defer="" type="text/javascript" src="contextlib.js"></script>
+<script defer="" type="text/javascript" src="userinfodialog.js"></script>
+<script defer="" type="text/javascript" src="datasummary.js"></script>
+</body>
+</html>

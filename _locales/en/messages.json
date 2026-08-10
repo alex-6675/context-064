@@ -1,0 +1,246 @@
+{
+   "add_status_button": {
+      "description": "Tooltip for add status bitton '+'",
+      "message": "Add new status"
+   },
+   "addevent_button": {
+      "description": "Add button",
+      "message": "Add"
+   },
+   "allevents_added_message": {
+      "description": "Message on adding all events from current page",
+      "message": "Events added from current page: "
+   },
+   "author_charact_sign": {
+      "description": "Place to enter yout text with characteristics of the author",
+      "message": "Author's characteristics"
+   },
+   "background_color_sign": {
+      "description": "Tooltip for background color control for user status",
+      "message": "Background color"
+   },
+   "cancel_button": {
+      "description": "Cancel button",
+      "message": "Cancel"
+   },
+   "changevent_button": {
+      "description": "Change button",
+      "message": "Change"
+   },
+   "close_useropt_button": {
+      "description": "Close user options without saving button",
+      "message": "Close"
+   },
+   "comment_type_name": {
+      "description": "Name of the comment event type",
+      "message": "Comment"
+   },
+   "common_tab": {
+      "description": "First tab title",
+      "message": "Common"
+   },
+   "context_menu_add": {
+      "description": "Menu item than opens event dialog to add new event",
+      "message": "Add event"
+   },
+   "context_menu_change": {
+      "description": "Menu item than opens event dialog to change existing event",
+      "message": "Change event"
+   },
+   "delete_status_button": {
+      "description": "Button for removing particular status",
+      "message": "Delete"
+   },
+   "delete_status_question": {
+      "description": "Request for confirmation on deleteing status",
+      "message": "Do you really want to remove this status?"
+   },
+   "deletevent_button": {
+      "description": "Delete button",
+      "message": "Delete"
+   },
+   "different_users_sign": {
+      "description": "Sign after a number of users",
+      "message": "different users"
+   },
+   "edit_status_button": {
+      "description": "Tooltip for edit status bitton '...'",
+      "message": "Edit status"
+   },
+   "empty_event_title": {
+      "description": "Printed instead of empty title",
+      "message": "(without title)"
+   },
+   "entertag_sign": {
+      "description": "Remark on tag field",
+      "message": "Type tag here"
+   },
+   "event_header": {
+      "description": "Header of the event URL column",
+      "message": "Event"
+   },
+   "event_text_sign": {
+      "description": "Remark on event text field",
+      "message": "Event text"
+   },
+   "event_title_sign": {
+      "description": "Remark on event title field",
+      "message": "Event title"
+   },
+   "event_type_comment": {
+      "description": "Comment event name",
+      "message": "Comment"
+   },
+   "event_type_post": {
+      "description": "Post event name",
+      "message": "Post"
+   },
+   "event_type_repostsign": {
+      "description": "Repost sign name",
+      "message": "repost"
+   },
+   "event_type_selector": {
+      "description": "Title of drop-down list that contains possible event types",
+      "message": "EVENT"
+   },
+   "event_type_unknown": {
+      "description": "Name of unknown event type",
+      "message": "Unknown"
+   },
+   "eventsnumber_columntitle": {
+      "description": "Header of the column containing number of events for this user",
+      "message": "Number of events"
+   },
+   "export_button": {
+      "description": "Export data button",
+      "message": "Export"
+   },
+   "font_color_sign": {
+      "description": "Tooltip for font color control for user status",
+      "message": "Font color"
+   },
+   "from_sign": {
+      "description": "Sign between number of events and number of users",
+      "message": "from"
+   },
+   "github_link_text": {
+      "description": "GitHub link text",
+      "message": "project page on GitHub"
+   },
+   "hide_author_sign": {
+      "description": "Checkbox that controls whether events from this author will be hidden",
+      "message": "hide author's events"
+   },
+   "import_button": {
+      "description": "Import data button",
+      "message": "Import"
+   },
+   "keep_status_button": {
+      "description": "Tooltip for keep status bitton after entering it's data",
+      "message": "Keep status added"
+   },
+   "keep_useropt_button": {
+      "description": "Save all changes and then close user options button",
+      "message": "Keep"
+   },
+   "last_added_event_sign": {
+      "description": "Sing near last added event",
+      "message": "Last added event: "
+   },
+   "name_columntitle": {
+      "description": "Header of the column containing user login",
+      "message": "Login"
+   },
+   "nickname_columntitle": {
+      "description": "Header of the column containing user name",
+      "message": "Nickname"
+   },
+   "parcerror_mandatoryabcent": {
+      "description": "Instruction fault - either query for obtaining potential events element (queryaz) or username extraction procedure (username) is abcent",
+      "message": "Mandatory members queryaz or username are abcent in instruction set"
+   },
+   "parent_notindicated": {
+      "description": "Name for not indicater parent event",
+      "message": "-- not indicated --"
+   },
+   "post_type_name": {
+      "description": "Name of the post event type",
+      "message": "Post"
+   },
+   "press_enter_toadd_tag": {
+      "description": "Floating txt above tag field",
+      "message": "Press Enter to add tag you typed"
+   },
+   "read_details_text": {
+      "description": "Sign near description link",
+      "message": "View detailed description on working with extension at "
+   },
+   "refresh_useropt_button": {
+      "description": "Refresh user options when changed",
+      "message": "Refresh"
+   },
+   "remove_all_marks_button": {
+      "description": "Remove marks from all tags button",
+      "message": "Clear selected"
+   },
+   "remove_before_import_sign": {
+      "description": "Sign on checkbox that clears existing data before importing new one",
+      "message": "Clear data before import"
+   },
+   "repost_text_sign": {
+      "description": "Place for original reference",
+      "message": "Place original URL or readable reference here"
+   },
+   "short_description": {
+      "description": "Short description of extension",
+      "message": "Your personal tracker for social networks users reputation"
+   },
+   "socnet_header": {
+      "description": "Column name containing social network",
+      "message": "Soc.Network"
+   },
+   "status_selector": {
+      "description": "Title of drop-down list that contains possible event user statuses",
+      "message": "Status"
+   },
+   "supported_socnets_sign": {
+      "description": "Title for a section with supported social networks list",
+      "message": "Supported social networks:"
+   },
+   "tags_tab": {
+      "description": "Second tab title",
+      "message": "Tags"
+   },
+   "time_header": {
+      "description": "Header of the time column",
+      "message": "Time"
+   },
+   "title_header": {
+      "description": "Header of the title column",
+      "message": "Title"
+   },
+   "totalevents_sign": {
+      "description": "Sign before total events number",
+      "message": "Total events stored: "
+   },
+   "unable_update_status_error": {
+      "description": "Error message when status update is fail",
+      "message": "Unable to update status"
+   },
+   "user_character_sign": {
+      "description": "Sing after number of users with non-empty characteristics",
+      "message": "overall characteristics"
+   },
+   "user_list_sign": {
+      "description": "Title for a section with selected user list",
+      "message": "Users list:"
+   },
+   "user_statuses_sign": {
+      "description": "Title for a section with status editor/filer",
+      "message": "Status editor/filter"
+   },
+   "without_status": {
+      "description": "First string of status filter, matches status-free users",
+      "message": "Without status"
+   }
+}
