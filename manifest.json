@@ -1,0 +1,51 @@
+{
+   "action": {
+      "default_icon": {
+         "48": "icons/context48.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "author": "dmitrevo",
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "commands": {
+      "store-all-events": {
+         "description": "Add all events on page to events base",
+         "suggested_key": {
+            "default": "Ctrl+Shift+1"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "ddmenu.css" ],
+      "js": [ "mutation.js", "userinfodialog.js", "contextlib.js", "initfirst.js", "uparse.js", "rutube_env.js", "contws.js", "vkcom.js", "ljcom.js", "youtubecom.js", "habrcom.js", "aftershock.js", "snettemplate.js", "content.js" ],
+      "matches": [ "*://*.rutube.ru/*", "*://*.cont.ws/*", "*://*.vk.com/*", "*://*.livejournal.com/*", "*://*.youtube.com/*", "*://*.habr.com/*", "*://*.aftershock.news/*", "file:///*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_short_description__",
+   "homepage_url": "https://github.com/dmiandr/context",
+   "icons": {
+      "48": "icons/context48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhz+WJaZZs221yNzRy9ogB0Rndm5dflxDiR1EMaLGsjPxYXuL3m6O9YCEvF281RfDJmKAozM93e/sng94it8061ZTzdGKoaA6U5yVSQ04O2umRZswsr4+F8KTVM3BM7iJs3SFYUz05Op4esmi1TNY4/1G1rp+DL0TepsOAAxwpVeiLliYrWNTb48tYSeFOO9y/cuyYCyMK/lBLvqFt9wmm5DdD0ikau8uTYqITUosfJfHcY71SkzVlh3aLi5G3muutP+Z7Zx1Xc6lc6nj9yhdJkPAjcugMHaYnLypbRKzE7sp2rf86wqGTNmWSarbX09NId6g9sV2JzRY7Ff5LnEInwIDAQAB",
+   "manifest_version": 3,
+   "name": "Context RepuTracker-users reputation tracker",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "short_name": "Context RepuTracker",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.64",
+   "web_accessible_resources": [ {
+      "extension_ids": [  ],
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "addhistorydialog.html", "userinfodialog.html", "userinfodialog.js", "contextlib.js", "icons/link32.png", "icons/rarr32.png" ]
+   } ]
+}
