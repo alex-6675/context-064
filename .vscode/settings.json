@@ -1,0 +1,83 @@
+{
+    // ===== ОСНОВНЫЕ НАСТРОЙКИ ПРОЕКТА =====
+    // Рабочая среда: Edge extension / Manifest V3 / JS / HTML / CSS / JSON.
+    // Эти настройки НЕ форматируют проект автоматически.
+
+    // ===== JAVASCRIPT =====
+    "[javascript]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnPaste": false,
+        "editor.quickSuggestions": {
+            "comments": false,
+            "strings": true,
+            "other": true
+        }
+    },
+
+    // ===== JSON =====
+    // ВАЖНО: manifest.json и остальные JSON не изменяем автоматически.
+    "[json]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnPaste": false,
+        "editor.defaultFormatter": null,
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    },
+
+    // ===== HTML =====
+    "[html]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnPaste": false
+    },
+
+    // ===== CSS =====
+    "[css]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnPaste": false
+    },
+
+    // ===== ОБЩИЕ НАСТРОЙКИ РЕДАКТОРА =====
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.renderWhitespace": "selection",
+
+    // ===== ПРОБЕЛЫ / ОКОНЧАНИЯ СТРОК =====
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+
+    // ===== ПОИСК =====
+    "search.useIgnoreFiles": true,
+    "search.exclude": {
+        "**/node_modules/**": true,
+        "**/.git/**": true,
+        "**/dist/**": false
+    },
+
+    // ===== WATCHER =====
+    // Не нагружаем VS Code node_modules и .git.
+    "files.watcherExclude": {
+        "**/node_modules/**": true,
+        "**/.git/**": true
+    },
+
+    // ===== GIT =====
+    "git.autofetch": true,
+    "git.enableSmartCommit": false,
+
+    // ===== ESLINT =====
+    // Только диагностика. Автоисправление намеренно не включаем.
+    "eslint.enable": true,
+    "eslint.run": "onType",
+    "eslint.alwaysShowStatus": true,
+
+    // ===== ОРФОГРАФИЯ =====
+    // Технические каталоги не проверяем.
+    "cSpell.ignorePaths": [
+        "node_modules/**",
+        "dist/**",
+        ".git/**"
+    ]
+}

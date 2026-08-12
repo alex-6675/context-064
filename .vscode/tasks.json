@@ -1,0 +1,60 @@
+{
+    // ===== ЗАДАЧИ РЕВИЗИИ =====
+    // Задачи НЕ исправляют файлы.
+    // Перед запуском команды проверяем, существует ли соответствующий инструмент
+    // в текущем проекте. Это важно для кастомной Windows-системы.
+
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "REVISION: показать структуру проекта",
+            "type": "shell",
+            "command": "Get-ChildItem -Force -Recurse | Where-Object { $_.FullName -notmatch '\\\\node_modules\\\\|\\\\.git\\\\' } | Select-Object FullName",
+            "options": {
+                "shell": {
+                    "executable": "pwsh.exe",
+                    "args": [
+                        "-NoLogo",
+                        "-NoProfile",
+                        "-Command"
+                    ]
+                }
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "REVISION: проверить manifest.json",
+            "type": "shell",
+            "command": "Get-Content -Raw -LiteralPath './manifest.json' | ConvertFrom-Json | Out-Null; if ($?) { Write-Host 'OK: manifest.json — JSON синтаксис корректен' }",
+            "options": {
+                "shell": {
+                    "executable": "pwsh.exe",
+                    "args": [
+                        "-NoLogo",
+                        "-NoProfile",
+                        "-Command"
+                    ]
+                }
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "REVISION: ESLint текущий файл",
+            "type": "shell",
+            "command": "npx eslint --no-error-on-unmatched-pattern \"${file}\"",
+            "options": {
+                "shell": {
+                    "executable": "pwsh.exe",
+                    "args": [
+                        "-NoLogo",
+                        "-NoProfile",
+                        "-Command"
+                    ]
+                }
+            },
+            "problemMatcher": [
+                "$eslint-stylish"
+            ]
+        }
+    ]
+}

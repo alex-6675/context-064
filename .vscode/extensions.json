@@ -1,0 +1,17 @@
+{
+    // ===== РЕКОМЕНДУЕМЫЕ РАСШИРЕНИЯ ПРОЕКТА =====
+    // Здесь нет GitHub Copilot: он не является обязательной частью workflow.
+    // Рекомендации можно установить по одной, не устанавливая всё сразу.
+
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "usernamehw.errorlens",
+        "saoudrizwan.claude-dev"
+    ],
+
+    // ===== НЕ ОБЯЗАТЕЛЬНЫЕ =====
+    // Не добавляем сюда форматтеры, которые могут менять существующий код.
+    "unwantedRecommendations": [
+        "esbenp.prettier-vscode"
+    ]
+}
