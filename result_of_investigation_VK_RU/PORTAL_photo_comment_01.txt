@@ -1,0 +1,144 @@
+=== PORTAL INSPECTION ===
+
+PORTAL: vk.ru
+PAGE_TYPE: Unknown (manual inspection)
+URL: https://vk.ru/id356358741?z=photo356358741_456239038%2Fphoto_feed356358741
+DATE: 13.08.2026
+TIME: 16:52:56
+ENTITY_TYPE: Author/Persona (inferred)
+ENTITY_NAME: Елена Мурашова
+EVENT_TYPE: Comment/Post (inferred)
+SOURCE_CONTEXT: Елена Мурашова (Послайко) заходила 9 авг в 8:22
+
+=== END HEADER ===
+
+[01] PAGE
+URL: https://vk.ru/id356358741?z=photo356358741_456239038%2Fphoto_feed356358741
+Hostname: vk.ru
+Title: Елена Мурашова
+
+[02] SELECTED_ENTITY
+Tag: A
+ID: none
+Class: author
+Selector: #post356358741photo_2 > div.reply_wrap._reply_content > div.reply_content > div.reply_author > a.author
+Text: Елена Мурашова
+Attributes:
+  - class: author
+  - href: /id356358741
+  - data-from-id: 356358741
+
+[03] ENTITY_CANDIDATES
+1. Type: HREF
+   Value: https://vk.ru/id356358741
+   Source: Nearest <a> tag
+
+2. Type: DATA_ATTR
+   Value: 356358741
+   Source: A[data-from-id]
+
+3. Type: PARENT_DATA_ATTR
+   Value: 356358741photo_2
+   Source: Parent DIV[data-post-id]
+   Depth: 3
+
+
+[04] EVENT_CONTAINER
+Selector: #post356358741photo_2 > div.reply_wrap._reply_content
+Reason: Post class
+Depth: 3
+Preview: <div class="reply_wrap _reply_content _post_content clear_fix">
+    
+    <a class="reply_image" href="/id356358741">
+      <div class="reply_image_stories">
+        <img loading="lazy" src="https://sun1-17.vkuserphoto.ru/s/v1/ig1/R7WZVDP1HvacEyCcP9eZayLvvsdd7x-Vu8f3qoX3BFEgdqP4I7lFcLtaFi1iLaqhD5e7LS
+
+[05] EVENT_TEXT
+Found: Yes
+Reason: Extracted from container
+Text: Елена Мурашова
+      
+      Спасибо! Это на свадьбе у сына
+      
+        
+  
+  
+    
+  
+  
+  1
+
+Показать список оценивших
+    
+  
+  
+  
+
+
+
+        1 окт 2017
+        
+  Ответить
+
+[06] DATE_TIME
+Found: No
+Reason: Not found
+Text: N/A
+Datetime attr: N/A
+Title attr: N/A
+Selector: N/A
+
+[07] ROOT_CONTEXT
+Title: Елена Мурашова (Послайко) заходила 9 авг в 8:22
+URL: https://vk.ru/id356358741?z=photo356358741_456239038%2Fphoto_feed356358741
+Title Selector: #owner_page_name
+
+[08] COMMENT_URL
+Current URL: https://vk.ru/id356358741?z=photo356358741_456239038%2Fphoto_feed356358741
+(No specific comment anchor detected automatically)
+
+[09] TRIANGLE_ANCHOR
+1. Position: After name
+   Element: A
+   Selector: #post356358741photo_2 > div.reply_wrap._reply_content > div.reply_content > div.reply_author > a.author
+   Parent: #post356358741photo_2 > div.reply_wrap._reply_content > div.reply_content > div.reply_author
+   Description: Insert immediately after the author name element
+
+2. Position: Before name
+   Element: A
+   Selector: #post356358741photo_2 > div.reply_wrap._reply_content > div.reply_content > div.reply_author > a.author
+   Parent: #post356358741photo_2 > div.reply_wrap._reply_content > div.reply_content > div.reply_author
+   Description: Insert immediately before the author name element
+
+3. Position: In header area
+   Element: A
+   Selector: #post356358741photo_2 > div.reply_wrap._reply_content > a.reply_image
+   Parent: #post356358741photo_2 > div.reply_wrap._reply_content
+   Description: Insert in the header area of the comment/post
+
+[10] PAGE_BEHAVIOR
+SPA Indicators: Framework script: react.4b5ee18f.js?1, history.pushState available
+History API: Yes
+Dynamic Load (3s): Not detected
+
+[11] SHADOW_DOM
+Has Shadow: No
+Reason: No shadowRoot detected on element or ancestors
+
+[12] CONTEXT_MENU
+(Manual inspection required - see separate scenario)
+
+[13] RAW_HTML
+<a class="author" href="/id356358741" data-from-id="356358741">Елена Мурашова</a>
+
+[14] SELECTORS
+Primary: a[data-from-id]
+Reason: Has classes: author; Has data attribute: data-from-id
+
+[15] NOTES
+- Entity candidates should be manually verified
+- Event container may need adjustment
+- Date format should be validated
+- Triangle anchor position #1 is recommended default
+
+=== END REPORT ===

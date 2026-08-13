@@ -1,0 +1,650 @@
+=== PORTAL INSPECTION ===
+
+PORTAL: vk.ru
+PAGE_TYPE: Unknown (manual inspection)
+URL: https://vk.ru/collabis?w=wall-228585143_222
+DATE: 13.08.2026
+TIME: 21:40:53
+ENTITY_TYPE: Author/Persona (inferred)
+ENTITY_NAME: Привет!  Помогите, пожалуйста, разобраться с одной
+EVENT_TYPE: Comment/Post (inferred)
+SOURCE_CONTEXT: Collabis.ru
+
+=== END HEADER ===
+
+[01] PAGE
+URL: https://vk.ru/collabis?w=wall-228585143_222
+Hostname: vk.ru
+Title: Collabis.ru
+
+[02] SELECTED_ENTITY
+Tag: DIV
+ID: none
+Class: vkit-0wZYbU
+Selector: #1053506253_225 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp > div.vkit-0wZYbU
+Text: Привет!  Помогите, пожалуйста, разобраться с одной особенностью на платформе. Когда я пытаюсь вставить текст в заголовок, происходит либо удаление всего текста, который находится ниже (в описании), ли
+Attributes:
+  - class: vkit-0wZYbU
+
+[03] ENTITY_CANDIDATES
+1. Type: PARENT_DATA_ATTR
+   Value: showmoretext-in-expanded
+   Source: Parent DIV[data-testid]
+   Depth: 0
+
+2. Type: PARENT_DATA_ATTR
+   Value: comment-text
+   Source: Parent DIV[data-testid]
+   Depth: 1
+
+
+[04] EVENT_CONTAINER
+Selector: html:nth-child(1) > body.redesign_web.no_stl
+Reason: Fallback to body or nearest parent
+Depth: -1
+Preview: <body scheme="vkcom_light" onresize="window.onBodyResize?.();" class="redesign_web no_stl" data-useragent="chrome">
+  
+  <script>;try{(function(){"use strict";function t(){const t=navigator.userAgent.toLowerCase();document.body.setAttribute("onresize","window.onBodyResize?.();"),/mac/i.test(t)&&docu
+
+[05] EVENT_TEXT
+Found: Yes
+Reason: Extracted from container
+Text: ПоискОчистить полеНайтиУведомленияАудиоплеерНастройки профиляПрофильЛентаМессенджерЗвонкиДрузьяСообществаКлипыСтикерыМаркетСервисыГолосаЯндекс БраузерЗакладкиФайлыРекламаПомощь
+
+
+
+
+
+
+
+
+
+
+
+#trg-b-meta266-3797015140.trg-b-banner-block {visibility: visible !important;display: table !important;font-size: 12px!important;font-family: -apple-system,BlinkMacSystemFont,Roboto,Open Sans,Helvetica Neue,sans-serif!important;overflow: hidden!important;}#trg-b-meta266-3797015140.trg-b-banner-block .trg-b-list_vk-left {list-style: none!important;margin: 0!important;padding: 0!important;display: flex;flex-direction: column;gap: 16px;}#trg-b-meta266-3797015140.trg-b-banner-block .trg-b-banner {overflow: hidden!important;word-wrap: break-word!important;position: relative!important;z-index: 2!important;width: 145px!important;display: block!important;text-align: left!important;margin: 15px 0 13px!important;padding: 0 0 13px 0!important;}#trg-b-meta266-3797015140.trg-b-banner-block .trg-b-banner:after {content: ''!important;border-bottom: 1px solid #e2e6ed!important;position: absolute!important;height: 0px!important;bottom: 0!important;left: 0!important;right: 0!important;z-index: 1!important;}#trg-b-meta266-3797015140.trg-b-banner-block .trg-b-contact {padding: 0px 0 4px!important;font-size: 11px!important;text-align: left!important;}#trg-b-meta266-3797015140.trg-b-banner-block .trg-b-contact__link {color: #939699!important;text-decoration: none!important;cursor: pointer!important;}#trg-b-meta266-3797015140.trg-b-banner-block .trg-b-contact__link:hover {text-decoration: underline!important;}.tgb_hide {display: none !important;}
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+    
+    
+    
+    
+    
+
+    
+
+
+Онлайн-школа с 1 по 11 классПолная замена обычной школе Гибкий график и поддержка...ПодробнееРеклама0+
+
+try {
+    (function () {
+        const config = {
+            container: "b232045726_1593770045",
+            priced_event_type: "51",
+            banner: 
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+            
+            
+            
+            
+            
+        
+
+
+
+
+
+
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+        
+        
+    
+                
+
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+    {
+        "id": 232045726,
+        "type": "motion-ads",
+        "creativeType": "vkSideBar_site_newDesign",
+
+        "banner_template_id": 176,
+        "pattern": {
+            "name": "leadads_video_landscape_180s",
+            "group": "video",
+            "subgroup": "landscape"
+        },
+        "pad_id": "20939",
+        "impression_id": "5408256810343488184",
+        "adLabel": {
+            "show": true,
+            "text": "Реклама"},
+
+        "openLinkInPopup": true,
+        "width": "158px",
+        "trackingLink": "https://ads.vk.ru/public/leadform?type=leadform&d=weitLyAAJ4CywkG2jVrIizI%2FOIBPNfSyt3WbV67sOWwoXXYhoplkdipXcdx1kZAX8IuXSmf83oCSNbXaC2aIbexKAt52UcAVhRDwOA2vi0rBqiKb86D6LzNQWq8GrbCWcgMiDks49aH%2BdZcMnYjdcg%3D%3D",
+        "isDarkTheme": false,
+        "rounded": "0",
+
+        "icon": {
+                "type": "static",
+                "src": "https://r.mradx.net/imgs/93/a9/c8a99b2fedc760a1.png"
+            },
+        "video": {
+                "mediafiles": [
+    {
+        "format": "mp4",
+        "src": "https://videolink.okcdn.ru/?pct=0&sig=TFBLmpNWSnA&ct=0&clientType=28&mid=16578015541218&type=3",
+        "width": 1280,
+        "height": 720
+    }
+
+
+
+    ,{
+        "format": "mp4",
+        "src": "https://videolink.okcdn.ru/?pct=0&sig=vJP8nEHbOw8&ct=0&clientType=28&mid=16578015541218&type=1",
+        "width": 640,
+        "height": 360
+    }
+
+
+
+    ,{
+        "format": "mp4",
+        "src": "https://videolink.okcdn.ru/?pct=0&sig=mlNOOOFvx7I&ct=0&clientType=28&mid=16578015541218&type=4",
+        "width": 256,
+        "height": 144
+    }
+
+
+    ,{
+        "format": "mp4",
+        "src": "https://videolink.okcdn.ru/?pct=0&sig=1LLxQQh_D6A&ct=0&clientType=28&mid=16578015541218&type=2",
+        "width": 852,
+        "height": 479
+    }
+],
+                "duration": 6,
+                 "evMovieId": 16578015541218,
+                 "videoBackground": {
+                         "src": "https://r.mradx.net//imgs/19/22/33524182fa21d86c.jpg"
+                         ,"width": 1080,"height": 608},
+                 "autoplay": true,
+                "automute": true,
+                "autoReplay": true},
+        "ctaText": "Подробнее",
+        "title": "Онлайн-школа с 1 по 11 класс",
+        "linkTitle": "Узнать",
+        "description": "Полная замена обычной школе \nГибкий график и поддержка куратора\nСкидка до конца лета",
+        "ageRestrictions": "0+",
+        "domain": "",
+            "trackingLinkUrlTypes": "lead_form",
+        "trackingLinkTrackerTypes": "0",
+        "url_types": "lead_form",
+        "clickArea": 4096,
+"openInBrowser": false,
+
+        "viewability": {
+            "isHbid": false,"hbidID": "","percent": 50,"duration": false
+        },
+        "audits": [
+            
+        ],
+
+        "disableClickArea": "true",
+        
+"adChoices": {
+    "iconLink": "https://r.mradx.net/imgs/2a/38/fda5014ca5824c9a.svg",
+    "closeUrl": "https://rs.mail.ru/pixel/CtQICJ750m4QuLXxlAMdQA9-aiAbKAJqkQQIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWUCtYDmABdeAkOTp94CQ5OoUBWnUlJ5UBCH-HWKABgAKpAbhanDLq_A1LwAGAopi4CtABAZ0C6hEKP-gC5JOcDfAC5buZQM0D-SzaINUD93wg24gFgAKtBUP7ezu4BYCQkAHaBQCQBvCU9D2YBiuoBugH8gYP0r6QKrnMqhEbAQHqEwIBmAczqAeAfbAHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds0Akr2AmAfYUKAACAP5gKAaAKAdgK-QPlCgAAgD-gCyuoCwjAC8PmAoIMCtvu_eEJiqTHvgSqDC6_otmxAZLRqQSVqpnAA8eSwyT6tZLZAdTDw7wBqp_GxAHV6aMJ3ZGa1QOojJAc4A3LBugNArIOAOoODgoFdmsucnUSBTIwOTM5gg8ExcDiBKIPBoCt4gTQAbAPsAHADwLKDwNhZHH4D5z75McDgBAVtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6_RND-3s7wBQAyBQB3RRD-3s74BQO9RTgJDk6mBUOoBXhgYAwyBX___________8B0BX___________8B_RXfPDY2hRYAAIA_iBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEjyAEB4AFAuALbk66fAsICYv44BAECAgMCAQEBAg4IBwIfAQYNCAMBAgECAq0IBwO2AXkDnQLLAaUB3QUCOAEBAQIIAgwBAjP4CVkGAcsEAQEGA_IBgwMCAUsDAQEBpwG6A-wajRnMHIkHCvQMBQHMBLArkAPPmc2Aix6yBhAjeeq9hsQt-9aGYGIZ1it3gQejBdYYl8dvbOoHEjUwJSDQnNCw0LvRjNGH0LjQuvAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCASqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAj0AYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif?reason=",
+    "aboutCompanyLink": "https://ads.vk.ru/adv_info?id=AACn_wFBdx0fzr5qbzRtNph7_smHDAxBtFbb78quipDQE4T0mTC_bVa0jIrV_CVzikTc_aY3kLwTcWNKNFG96tWI3tCZXx-lpBFA1tJYYGHc7sEvE9KuU8DfZx3hqLuCeGjqirGd2DSanvn9kg4UvEiTwchkmO8uVqy4QBj06A17wIkAAw7-228JAAAAnnP3Ge9a5QTp2jVIzaPQGg",
+    "marker": "8EnvrVebdbjdJcQ3C2zy82qG6fo",
+    "tabs": {
+         "main": {
+            "items": [
+              {
+                "text": "Скрыть объявление",
+                "iconUrl": "https://r.mradx.net/imgs/63/8e/d4b28cc0b905374f.svg",
+                "name": "hide",
+                "action": "hide"
+              },
+              {
+                "text": "Пожаловаться",
+                "iconUrl": "https://r.mradx.net/imgs/cf/aa/a8655ac54f10b068.svg",
+                "name": "complain",
+                "action": "complain"
+              },
+              {
+                "text": "О рекламодателе",
+                "iconUrl": "https://r.mradx.net/imgs/ee/63/84ed4e4a5ae73316.svg",
+                "name": "about",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/adv_info?id=AACn_wFBdx0fzr5qbzRtNph7_smHDAxBtFbb78quipDQE4T0mTC_bVa0jIrV_CVzikTc_aY3kLwTcWNKNFG96tWI3tCZXx-lpBFA1tJYYGHc7sEvE9KuU8DfZx3hqLuCeGjqirGd2DSanvn9kg4UvEiTwchkmO8uVqy4QBj06A17wIkAA0Yt3AcJAAAAc-8dSrG8k8aRs80MPlPtxg"
+              },
+              {
+                "text": "Скопировать ссылку",
+                "name": "copyUrl",
+                "action": "copy",
+                "actionValue": "https://ads.vk.ru/public/leadform?type=leadform&d=weitLyAAJ4CywkG2jVrIizI%2FOIBPNfSyt3WbV67sOWwoXXYhoplkdipXcdx1kZAX8IuXSmf83oCSNbXaC2aIbexKAt52UcAVhRDwOA2vi0rBqiKb86D6LzNQWq8GrbCWcgMiDks49aH%2BdZcMnYjdcg%3D%3D",
+                "iconUrl": "https://r.mradx.net/imgs/b6/09/93a837dc06183017.svg"
+              },
+              {
+                "text": "Скопировать ERID (8EnvrVebdbjdJcQ3C2zy82qG6fo)",
+                "iconUrl": "https://r.mradx.net/imgs/cf/e5/32db22916648f14d.svg",
+                "name": "copyErid",
+                "action": "copy",
+                "actionValue": "8EnvrVebdbjdJcQ3C2zy82qG6fo"
+              },
+              {
+                "text": "Правила рекомендаций",
+                "name": "rules",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/documents/recommendation",
+                "iconUrl": "https://r.mradx.net/imgs/37/c0/ca37933876686dcd.svg"
+              },
+              {
+                "text": "VK Реклама",
+                "name": "VKAds",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/",
+                "iconUrl": "https://r.mradx.net/imgs/df/92/6fb16c27a25e2c38.svg"
+              }
+            ]
+          },
+          "hide": {
+            "closeInfo": "Ваши ответы помогают нам подбирать более качественную рекламу",
+            "header": "Уточните причину:",
+            "closeTitle": "Объявление скрыто",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 1, "text": "Не интересно", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 2, "text": "Уже приобретено", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 3, "text": "Вижу слишком часто", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "complain": {
+            "header": "Уточните причину:",
+            "closeInfo": "Модератор скоро проверит объявление",
+            "closeTitle": "Жалоба отправлена",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 4, "text": "Оскорбительное содержание", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 5, "text": "Сексуальный подтекст", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 6, "text": "Нарушение закона", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 7, "text": "Мошеннический сайт", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "closed": {
+            "items": [
+              {
+                "name": "closeTitle"
+              },
+              {
+                "name": "closeInfo"
+              }
+            ]
+          }
+    }
+}
+,
+        "statistics": [
+
+
+
+{
+        "target": "banner",
+         "type": "playheadViewabilityValue",
+         "url": "https://rs.mail.ru/pixel/CvUICJ750m4QuLXxlAMdQA9-aiAbKAJqnAQIy6MBFUAPfmoYKyDzoaoMKI8ZMBA4K0Dsz7RHSJbCqlZQK1gOYAF14CQ5On3gJDk6hQFadSUnlQEIf4dYmAEroAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAzQP5LNog1QP3fCDbiAWAAq0FQ_t7O7gFgJCQAdoFAJAG8JT0PZgGK6gG6AfyBg_SvpAqucyqERsBAeoTAgGYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_iAoXkAoXmAoBoAoB2Ar5A-UKAACAP6ALK6gLCMALw-YCggwK2-794QmKpMe-BKoMLr-i2bEBktGpBJWqmcADx5LDJPq1ktkB1MPDvAGqn8bEAdXpowndkZrVA6iMkBzgDcsG6A0Csg4A6g4OCgV2ay5ydRIFMjA5MzmCDwTFwOIEog8GgK3iBNABsA-wAcAPAsoPA2FkcfgPnPvkxwOAEBW1EAAAgD-6EAUNz-F_P8UQJrctQvAQBPgQvAGAEQLQEQDYEZJO8BHp5zr9E0P7ezvAFADIFAHdFEP7ezvgFA71FOAkOTqYFQ6gFeGBgDDIFf___________wHQFf___________wH9Fd88NjaFFgAAgD-IFgGQFvMBsBYAuBYAwhYGOTYzNTYxyhYJbGVhZF9mb3Jt8BawAfgWkk6IF_CU9D2oFwFwAYgBCbgBgALgAUC4AtuTrp8CwgJi_jgEAQICAwIBAQECDggHAh8BBg0IAwECAQICrQgHA7YBeQOdAssBpQHdBQI4AQEBAggCDAECM_gJWQYBywQBAQYD8gGDAwIBSwMBAQGnAboD7BqNGcwciQcK9AwFAcwEsCuQA8-ZzYCLHpoFCwgDEAEYnvnSbiAImgULCAMQARie-dJuKB6yBhAjeeq9hsQt-9aGYGIZ1it3gQejBdYYl8dvbOoHEjUwJSDQnNCw0LvRjNGH0LjQuvAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCASqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAj0AYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+         "duration": 0,
+         "viewablePercent": 50
+         },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAGJCOABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "error"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAGfEeABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "isBot"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAGgEeABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "isCold"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAGhEeABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "check"
+    },
+    {
+        "type": "viewabilityDuration",
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAGEIOABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    },
+    {
+        "type": "render",
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAGZEeABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    }
+    ,{
+        "url": "https://rs.mail.ru/pixel/CtQGCJ750m4QuLXxlAMdQA9-aiAbKAJq9QIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWWA514CQ5On3gJDk6hQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQB9RTgJDk6mBUOoBXhgYAwyBX___________8B0BX___________8B_RXfPDY2hRYAAIA_iBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAH5B-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "value": 10
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAGzH-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playbackDuration"
+    },
+    {
+        "type": "playheadReachedValue",
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHlD-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "value": 1
+    },
+    {
+        "type": "playheadReachedValue",
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAH4B-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "value": 3
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHpB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 25
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHqB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 50
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHrB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 75
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CtQGCJ750m4QuLXxlAMdQA9-aiAbKAJq9QIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWWA514CQ5On3gJDk6hQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQB9RTgJDk6mBUOoBXhgYAwyBX___________8B0BX___________8B_RXfPDY2hRYAAIA_iBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAH1B-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 100
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CtQGCJ750m4QuLXxlAMdQA9-aiAbKAJq9QIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWWA514CQ5On3gJDk6hQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQB9RTgJDk6mBUOoBXhgYAwyBX___________8B0BX___________8B_RXfPDY2hRYAAIA_iBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAGKCOABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 100
+    },
+    {
+        "type": "click",
+        "url": "https://rs.mail.ru/pixel/CtQGCJ750m4QuLXxlAMdQA9-aiAbKAJq9QIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWWA514CQ5On3gJDk6hQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQB9RTgJDk6mBUOoBXhgYAwyBX___________8B0BX___________8B_RXfPDY2hRYAAIA_iBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAGKCOABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    },
+    {
+        "type": "playbackStarted",
+        "url": "https://rs.mail.ru/pixel/CtQGCJ750m4QuLXxlAMdQA9-aiAbKAJq9QIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWWA514CQ5On3gJDk6hQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQB9RTgJDk6mBUOoBXhgYAwyBX___________8B0BX___________8B_RXfPDY2hRYAAIA_iBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHoB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+        }
+    ,{
+         "type": "playbackCompleted",
+         "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHsB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+         }
+    ,{
+         "type": "volumeOff",
+         "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHtB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+     }
+    ,{
+         "type": "volumeOn",
+         "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHuB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+     }
+    ,{
+         "type": "playbackPaused",
+         "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHvB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+     }
+    ,{
+         "type": "playbackResumed",
+         "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHxB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+     }
+,{
+        "type": "click",
+        "url": "https://rs.mail.ru/pixel/Cq8JCJ750m4QuLXxlAMdQA9-aiAbKAJqzQQIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWUCtYDmABdeAkOTp94CQ5OoUBWnUlJ5UBCH-HWKABgAKpAbhanDLq_A1LwAGAopi4CtABAZ0C6hEKP-gC5JOcDfAC5buZQM0D-SzaINUD93wg24gFgAKtBUP7ezu4BYCQkAHaBQCQBvCU9D2YBiuoBugH8gYP0r6QKrnMqhEbAQHqEwIBmAczqAeAfbAHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds0Akr2AmAfYUKAACAP5gKAaAKAa0KqeNJYK0Krj_t7q0Kg65O4K0KcYN-m60KcYN-m60KivTWHa0K0IO07q0Ka2TtVa0KBR2vm60KD0WintgK-QPlCgAAgD-gCyuoCwjAC8PmAoIMCtvu_eEJiqTHvgSqDC6_otmxAZLRqQSVqpnAA8eSwyT6tZLZAdTDw7wBqp_GxAHV6aMJ3ZGa1QOojJAc4A3LBugNArIOAOoODgoFdmsucnUSBTIwOTM5gg8ExcDiBKIPBoCt4gTQAbAPsAHADwLKDwNhZHH4D5z75McDgBAVtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6_RND-3s7wBQAyBQB3RRD-3s74BQO9RTgJDk6mBUOoBXhgYAwyBX___________8B0BX___________8B_RXfPDY2hRYAAIA_iBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEB4AFA6gEOAHsdN0yPOCErvBVf8gC4AtuTrp8CwgJi_jgEAQICAwIBAQECDggHAh8BBg0IAwECAQICrQgHA7YBeQOdAssBpQHdBQI4AQEBAggCDAECM_gJWQYBywQBAQYD8gGDAwIBSwMBAQGnAboD7BqNGcwciQcK9AwFAcwEsCvIAgGQA8-ZzYCLHpoFCwgDEAIYnvnSbiAIsgYQI3nqvYbELfvWhmBiGdYrd4EHowXWGJfHb2zqBxI1MCUg0JzQsNC70YzRh9C40LrwB61G8AekTvAHwK0S8AfW4WfwB9_iZ_AH2dTlBPAHjN3lBPAHsurlBPAHg4jmBPAHhYjmBPAHh4jmBPAH2armBPAHo7_mBPAHwe5tkAgEqghzChAKC2RldmljZV90eXBlEgExChsKDXN0YWJsZXRyYWZmaWMSCmFkLm1haWwucnUKDAoEYmRzeRIEZ29vZAoTCgl2aWRzb3VyY2USBmhlYWRlcgoNCgVpc3JlZhIEdHJ1ZQoQCgtoYXNfdmtfYXV0aBIBMMgI9AGIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHEaFQFqFeG_yiVac9SOFBprA8a6b7Botw:8EnvrVebdbjdJcQ3C2zy82qG6fo.gif"
+        }
+,{
+            "type": "playVideoVolumeOn",
+            "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHOCOABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+        }
+        ,{
+            "type": "playVideoVolumeOff",
+            "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHPCOABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+        }
+    ,{
+        "type": "fullscreenOn",
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHyB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    }
+    ,{
+        "type": "fullscreenOff",
+        "url": "https://rs.mail.ru/pixel/CrMGCJ750m4QuLXxlAMdQA9-aiAbKAJq1AIIy6MBFUAPfmog86GqDCiPGTAQOCtA7M-0R0iWwqpWhQFadSUnlQEIf4dYoAGAAqkBuFqcMur8DUvAAYCimLgK0AEBnQLqEQo_6ALkk5wN8ALlu5lAiAWAArgFgJCQAdoFAJAG8JT0PZgGK6gG6AeYBzOoB4B9sAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCSvYCYB9hQoAAIA_mAoBoAoB2Ar5A-UKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmwD7ABwA8Cyg8DYWRxtRAAAIA_uhAFDc_hfz_FECa3LULwEAT4ELwBgBEC0BEA2BGSTvAR6ec6wBQAyBQBoBXhgYAwyBX___________8B0BX___________8BiBYBkBbzAbAWALgWAMIWBjk2MzU2McoWCWxlYWRfZm9ybfAWsAH4FpJOiBfwlPQ9qBcBcAGIAQm4AYACwAEKyAHzB-ABQLgC25OunwKQA8-ZzYCLHrIGECN56r2GxC371oZgYhnWK3eBB6MF1hiXx29s6gcSNTAlINCc0LDQu9GM0YfQuNC68AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICPQBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    }
+
+        ]
+    }
+,
+        };
+        if (!Array.isArray(window._MotionKit)) window._MotionKit = [];
+
+        const isInited = Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && (window.MotionKitSDK.isAsmInited("VKFeed") || window.MotionKitSDK.isAsmInited("DesignSystem"));
+
+        if (!isInited) {
+            scriptElement = document.createElement("script");
+            scriptElement.src = "https://ad.mail.ru/static/motion_lib.js";
+            scriptElement.id = "motion-ads-vk";
+            scriptElement.async = !0;
+            parentElement = document.getElementsByTagName("script")[0];
+            parentElement.parentNode.insertBefore(scriptElement, parentElement);
+        }
+        let containerForAd = document.querySelector('#' + 'b232045726_1593770045');
+        const handler = (cnt = 10, timeout = 150) => {
+            setTimeout(() => {
+                containerForAd = document.querySelector('#' + 'b232045726_1593770045');
+                const scriptForAd = document.getElementById('s232045726_1593770045');
+                const sendPixelError = (msg, error) => {
+                    const pixelImg = new Image();
+                    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=${msg}&tpl=&p=20939&ptrn=leadads_video_landscape_180s&id=232045726&err=${error}&imp=5408256810343488184`;
+                };
+                if (containerForAd && window.MotionKit) {
+                  try {
+                    if (Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && !window.MotionKitSDK.isAsmInited("DesignSystem")) {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                      return;
+                    }
+                  } catch (e) {}
+                  window.MotionKit(config);
+                } else if (--cnt) {
+                    handler(cnt, timeout*2);
+                } else {
+                    if (!window.MotionKit) {
+                        sendPixelError(2, 'lib_init');
+                    }
+
+                    if (!containerForAd) {
+                        sendPixelError(311, 'lib_init');
+                    }
+                    try {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                    } catch (e) {}
+                }
+            }, timeout);
+        };
+        if (containerForAd && window.MotionKit) {
+            window.MotionKit(config);
+        } else {
+            handler();
+        }
+    })(window, document, "MotionKit");
+} catch (err) {
+    const pixelImg = new Image();
+    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=WebRenderError&tpl=&p=20939&ptrn=leadads_video_landscape_180s&id=232045726&err=${JSON.stringify(err)}&imp=5408256810343488184`;
+}
+
+
+ window.onload = function() {console.log('ready_window');AdsLight.mailAdsLeftReady();};БлогРазработчикамДля бизнесаАвторамЕщёИнформация о контентеCollabis.ruВы подписаныСообщениеЕщёПохожие сообществаЗакрытьВперед1,3K пользователей1C:ITILIUM — Service Desk, ITSM/ESM на 1СПрограммное обеспечениеПодписаться1,3K пользователейКоманда F5 — внедрение amoCRMПрограммное обеспечениеПодписаться27,8K пользователейЖенская одежда | Садовод 24-45ОбъявленияПодписаться15,5K пользователейАдмитадПрограммное обеспечениеПодписаться1K пользователейFlorapoint | программа для цветочногоПрограммное обеспечениеПодписаться6,1K пользователейОрфограммкаПрограммное обеспечениеПодписаться85,9K пользователейTilda PublishingПрограммное обеспечениеПодписаться2K пользователейКомпания IdecoПрограммное обеспечениеПодписаться5,4K пользователейShakasportsПрограммное обеспечениеПодписаться26,5K пользователейКонтур.ДиадокПрограммное обеспечениеПодписаться1,1K пользователейESET Nod 32/Свежие ключи 2026 / ЛицензияПрограммное обеспечениеПодписаться2,2K пользователейOggettoВеб-студияПодписаться53,3K пользователейMy heartПриложениеПодписаться2,5K пользователейПределПриложениеПодписаться2,3K пользователейWPShop — премиум темы и плагины WordPressПрограммное обеспечениеПодписаться8,9K пользователейFARRUKH прямой поставщик 2д-10 к БОбъявленияПодписаться4K пользователейДомашняя бухгалтерияПрограммное обеспечениеПодписаться3,6K пользователейЛИРА софтПрограммное обеспечениеПодписаться1,6K пользователейВладимир Балун | ПрограммированиеПрограммное обеспечениеПодписаться5,9K пользователейReactOS - последний оплот человечества!Программное обеспечениеПодписаться1,1K пользователейРусские Решения. Автоматизация образования на 1СПрограммное обеспечениеПодписаться1,7K пользователейTBS - поставка ПО (nanoCAD, Model Studio)Программное обеспечениеПодписаться1,1K пользователейГардаПрограммное обеспечениеПодписаться9,2K пользователейОрганайзер ЛидерТаскПрограммное обеспечениеПодписаться1,3K пользователейWatbotПрограммное обеспечениеПодписатьсяЧатыАдресаКлипыСтатьиCollabis - общение 10 участников Показать все 1Все постыПосты сообществаПоискCollabis.ruДействияДрузья, ищем команды для интервью по использованию системы  Мы в Collabis хотим лучше понимать, как работают команды в Collabis. Поэтому приглашаем вас на интервью - поболтаем о ваших процессах, и о пожеланиях. Что вы получите:  Месяц тарифа Про бесплатно Встроенный ИИ, много токенов, полные лимиты Возможность повлиять на то, каким будет Collabis Что нужно от вас:• Collabis использует команда от 3 человек• Готовность уделить полчаса на созвон и поделиться опытом Будет уютно и без скучных опросов.  Интересно? Пишите в личку Отправить реакцию «Лайк»Выбор реакции24 июнАлексей ВовкПодтверждённый аккаунтПодтверждённый аккаунтДействияДобрый день. Collabis отличный сервис, полноценная замена Notion. Хочу брать Про или Бизнес. Какие условия по AI на этих тарифах - количество запросов, токенов, какой объем на Про и какой на Бизнес?Отправить реакцию «Лайк»Выбор реакции122 июнСначала старыеCollabis.ruПожаловатьсяЗдравствуйте! Тарифицируются токены. Расход токенов зависит от дороговизны выбранной модели и объема контекста. Мы не раскрываем точные объемы токенов, но примерно месячный лимит равен сумме месячной подписки, это 1.5 тыс и 3 тыс руб. Если использовать режим "авто" то на тарифе Про это примерно 10 млн токенов в мес, на тарифе Бизнес 20 млн токенов. Дневной лимит это 25% от месячного.Показать ещё24 июн в 12:41ОтветитьПоделиться
+      
+        
+      
+      
+      
+        
+      
+    Написать комментарий...ПрикрепитьФотографияДобавить эмодзи или стикерОтправитьCollabis.ruДействияПодключайте Collabis к вашим #AI агентам  Вышла бета версия mcp сервера Коллабиса. Доступны операции с чтением и поиском по страницам.  Возможности писать в коллабис, создавать базы данных, двигать карточки по статусам, вести календарь и тд. будут добавлены позже. Пока только чтение и поиск по базе знаний. #mcp Подробнее collabis.ru/mcpПоказать ещёОтправить реакцию «Лайк»Выбор реакции7 маяАндрей СтабровскийДействияЗдравствуйте! Проблема при входе в приложение на андройд. Около недели работало нормально. Позже, при каждом входе стало просить авторизацию. Со вчерашнего дня не возможно войти, зависает на этапе авторизации. Пробовал все варианты. Пока пользуюсь веб-версией.Отправить реакцию «Лайк»Выбор реакции15 маяСначала старыеCollabis.ruПожаловатьсяЗдравствуйте, спустя час мы поправили проблему. 
+Сейчас все хорошо?5 мая в 16:27ОтветитьПоделиться
+      
+        
+      
+      
+      
+        
+      
+    Написать комментарий...ПрикрепитьФотографияДобавить эмодзи или стикерОтправитьCollabis - российский онлайн-редактор текстов, бесплатный для личного использования. Создавайте свою базу знаний, ведите заметки, делитесь ими с коллегами/друзьями/семьей. Присоединяйтесь к тысячам других пользователей и создавайте новые идеи вместе с нами!ЕщёПодробная информацияПодписчики134AnnaАннаСергейОлесяИванСергейОльгаАнастасия
+Anna Andreeva+7 ••• ••• •• 49Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить аккаунт
+ЗакрытьCollabis.ruДействия Календарь  Нас просили сделать календарь и теперь эта возможность доступна. Пока в веб версии, в мобильной будет попозже.  Если вы занимаетесь планированием, попробуйте - это все та же база данных, только в календарном виде.  И, конечно, делитесь своими календарями с коллегами, друзьями, знакомыми и заказчиками.  P.S. За последние 2 недели у нас в сервисе резко выросло количество тех, кто поделился своей страницей или редактирует её вместе с кем-то. Мы очень надеемся, что этот тренд продолжится и работаем над этим. Поэтому если у вас есть идеи того, чего не хватает в сервисе, чтобы все больше пользователей переходили к командному взаимодействию - пишите, будем рады Оценили 5 человекЛайкОтправить реакцию «Лайк»Выбор реакции27 марСначала старыеАндрей ТахтаровПожаловатьсяВот это уже неплохо27 мар в 13:28ОтветитьПоделиться1Поставить лайкПоставить лайкЕвгений БотоделовПожаловатьсясделайте помодоро для вас просто для дисциплины круто29 мар в 7:44ОтветитьПоделитьсяCollabis.ru·АвторПожаловатьсяЕвгений, здравствуйте! Вы можете добавить его через виджеты30 мар в 11:11ОтветитьПоделитьсяЕвгений БотоделовПожаловатьсяПривет!  Помогите, пожалуйста, разобраться с одной особенностью на платформе. Когда я пытаюсь вставить текст в заголовок, происходит либо удаление всего текста, который находится ниже (в описании), либо вставка уходит не в заголовок, а прямо в описание.
+Из-за этого теряется время, особенно когда текста много. Было бы здорово, если бы вы посмотрели, можно ли это как-то исправить.
+Заранее спасибо!  Вы лучшие!30 мар в 7:57ОтветитьПоделитьсяCollabis.ru·АвторПожаловатьсяЕвгений, передам в тестирование, спасибо за обратную связь 30 мар в 11:12ОтветитьПоделитьсяЕвгений Ботоделов·СообществуСообществуСообществуПожаловатьсяCollabis.ru, 30 мар в 11:14ОтветитьПоделитьсяCollabis.ru·АвторПожаловатьсяЕвгений, подскажите пожалуйста какой у вас браузер? Это веб версия?31 мар в 14:10ОтветитьПоделитьсяЕвгений Ботоделов·СообществуСообществуСообществуПожаловатьсяCollabis.ru, браузер фаирфокс какая версия не знаю не слежу за этим домой приду напишу вас еще сюда же сообщение31 мар в 15:23ОтветитьПоделиться1Поставить лайкПоставить лайк
+      
+        
+      
+      
+      
+        
+      
+    Написать комментарий...ПрикрепитьФотографияДобавить эмодзи или стикерОтправить
+
+[06] DATE_TIME
+Found: No
+Reason: Not found
+Text: N/A
+Datetime attr: N/A
+Title attr: N/A
+Selector: N/A
+
+[07] ROOT_CONTEXT
+Title: Collabis.ru
+URL: https://vk.ru/collabis?w=wall-228585143_222
+Title Selector: #group > div.vkit-YgvKvi.vkuiFlex__host > div.vkit-NX76G7 > div.vkuiFlex__host.vkuiFlex__justifySpaceBetween > div.vkui-flex-basis.vkuiRootComponent__host > h1.CommunityHead__groupName--4rPhH.vkuiDisplayTitle__densityCompact
+
+[08] COMMENT_URL
+Current URL: https://vk.ru/collabis?w=wall-228585143_222
+(No specific comment anchor detected automatically)
+
+[09] TRIANGLE_ANCHOR
+1. Position: After name
+   Element: DIV
+   Selector: #1053506253_225 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp > div.vkit-0wZYbU
+   Parent: #1053506253_225 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp
+   Description: Insert immediately after the author name element
+
+2. Position: Before name
+   Element: DIV
+   Selector: #1053506253_225 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp > div.vkit-0wZYbU
+   Parent: #1053506253_225 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp
+   Description: Insert immediately before the author name element
+
+3. Position: In header area
+   Element: SCRIPT
+   Selector: html:nth-child(1) > body.redesign_web.no_stl > script
+   Parent: html:nth-child(1) > body.redesign_web.no_stl
+   Description: Insert in the header area of the comment/post
+
+[10] PAGE_BEHAVIOR
+SPA Indicators: Framework script: react.4b5ee18f.js?1, history.pushState available
+History API: Yes
+Dynamic Load (3s): Not detected
+
+[11] SHADOW_DOM
+Has Shadow: No
+Reason: No shadowRoot detected on element or ancestors
+
+[12] CONTEXT_MENU
+(Manual inspection required - see separate scenario)
+
+[13] RAW_HTML
+<div class="vkit-0wZYbU">Привет! <img class="emoji" src="/emoji/e/f09f918b.png" alt="👋"> Помогите, пожалуйста, разобраться с одной особенностью на платформе. Когда я пытаюсь вставить текст в заголовок, происходит либо удаление всего текста, который находится ниже (в описании), либо вставка уходит не в заголовок, а прямо в описание.
+Из-за этого теряется время, особенно когда текста много. Было бы здорово, если бы вы посмотрели, можно ли это как-то исправить.
+Заранее спасибо! <img class="emoji" src="/emoji/e/f09f998c.png" alt="🙌"> Вы лучшие!</div>
+
+[14] SELECTORS
+Primary: #1053506253_225 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp > div.vkit-0wZYbU
+Reason: Has classes: vkit-0wZYbU; Generated path from DOM tree
+
+[15] NOTES
+- Entity candidates should be manually verified
+- Event container may need adjustment
+- Date format should be validated
+- Triangle anchor position #1 is recommended default
+
+=== END REPORT ===

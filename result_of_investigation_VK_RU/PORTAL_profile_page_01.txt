@@ -1,0 +1,111 @@
+=== PORTAL INSPECTION ===
+
+PORTAL: vk.ru
+PAGE_TYPE: Unknown (manual inspection)
+URL: https://vk.ru/id356358741
+DATE: 13.08.2026
+TIME: 16:50:56
+ENTITY_TYPE: Author/Persona (inferred)
+ENTITY_NAME: Елена Мурашова (Послайко) заходила 9 авг в 8:22
+EVENT_TYPE: Comment/Post (inferred)
+SOURCE_CONTEXT: Елена Мурашова (Послайко) заходила 9 авг в 8:22
+
+=== END HEADER ===
+
+[01] PAGE
+URL: https://vk.ru/id356358741
+Hostname: vk.ru
+Title: Елена Мурашова
+
+[02] SELECTED_ENTITY
+Tag: H2
+ID: owner_page_name
+Class: OwnerPageName vkuiTitle__densityCompact vkuiTitle__level2 vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight1 vkuiTypography__accent vkuiRootComponent__host
+Selector: #owner_page_name
+Text: Елена Мурашова (Послайко) заходила 9 авг в 8:22
+Attributes:
+  - class: OwnerPageName vkuiTitle__densityCompact vkuiTitle__level2 vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight1 vkuiTypography__accent vkuiRootComponent__host
+  - id: owner_page_name
+
+[03] ENTITY_CANDIDATES
+1. Type: PARENT_DATA_ATTR
+   Value: profile-info
+   Source: Parent DIV[data-testid]
+   Depth: 0
+
+
+[04] EVENT_CONTAINER
+Selector: #profile_redesigned > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkuiSplitCol__host.vkuiSplitCol__viewWidthSmallTabletPlus > div.ProfileHeader.ProfileHeader--withSnowballs > div.ProfileHeader__in.vkuiFlex__host > div.ProfileHeader__wrapper.vkuiFlex__host > div.ProfileHeader__main.vkuiFlex__host > div.ProfileHeader__info > div.vkuiFlex__host.vkuiFlex__directionColumn
+Reason: Probable container with text and author
+Depth: N/A
+Preview: <div class="vkuiFlex__host vkuiFlex__directionColumn vkuiFlex__alignStart vkuiRootComponent__host" data-testid="profile-info" style="--vkui_internal--row_gap: 0px; --vkui_internal--column_gap: 0px;"><h2 class="OwnerPageName vkuiTitle__densityCompact vkuiTitle__level2 vkuiTypography__host vkuiTypogra
+
+[05] EVENT_TEXT
+Found: Yes
+Reason: Extracted from container
+Text: Елена Мурашова (Послайко)
+заходила 9 авг в 8:22
+СимферопольИЭиУ КФУ им. В. И. Вернадского (бывш. КЭИ КНЭУ)Подробнее
+
+[06] DATE_TIME
+Found: No
+Reason: Not found
+Text: N/A
+Datetime attr: N/A
+Title attr: N/A
+Selector: N/A
+
+[07] ROOT_CONTEXT
+Title: Елена Мурашова (Послайко) заходила 9 авг в 8:22
+URL: https://vk.ru/id356358741
+Title Selector: #owner_page_name
+
+[08] COMMENT_URL
+Current URL: https://vk.ru/id356358741
+(No specific comment anchor detected automatically)
+
+[09] TRIANGLE_ANCHOR
+1. Position: After name
+   Element: H2
+   Selector: #owner_page_name
+   Parent: #profile_redesigned > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkuiSplitCol__host.vkuiSplitCol__viewWidthSmallTabletPlus > div.ProfileHeader.ProfileHeader--withSnowballs > div.ProfileHeader__in.vkuiFlex__host > div.ProfileHeader__wrapper.vkuiFlex__host > div.ProfileHeader__main.vkuiFlex__host > div.ProfileHeader__info > div.vkuiFlex__host.vkuiFlex__directionColumn
+   Description: Insert immediately after the author name element
+
+2. Position: Before name
+   Element: H2
+   Selector: #owner_page_name
+   Parent: #profile_redesigned > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkuiSplitCol__host.vkuiSplitCol__viewWidthSmallTabletPlus > div.ProfileHeader.ProfileHeader--withSnowballs > div.ProfileHeader__in.vkuiFlex__host > div.ProfileHeader__wrapper.vkuiFlex__host > div.ProfileHeader__main.vkuiFlex__host > div.ProfileHeader__info > div.vkuiFlex__host.vkuiFlex__directionColumn
+   Description: Insert immediately before the author name element
+
+3. Position: Replace next sibling
+   Element: DIV
+   Selector: #profile_redesigned > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkuiSplitCol__host.vkuiSplitCol__viewWidthSmallTabletPlus > div.ProfileHeader.ProfileHeader--withSnowballs > div.ProfileHeader__in.vkuiFlex__host > div.ProfileHeader__wrapper.vkuiFlex__host > div.ProfileHeader__main.vkuiFlex__host > div.ProfileHeader__info > div.vkuiFlex__host.vkuiFlex__directionColumn > div.vkit-S4nqJ8
+   Parent: #profile_redesigned > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkuiSplitCol__host.vkuiSplitCol__viewWidthSmallTabletPlus > div.ProfileHeader.ProfileHeader--withSnowballs > div.ProfileHeader__in.vkuiFlex__host > div.ProfileHeader__wrapper.vkuiFlex__host > div.ProfileHeader__main.vkuiFlex__host > div.ProfileHeader__info > div.vkuiFlex__host.vkuiFlex__directionColumn
+   Description: Replace or insert where next sibling exists
+
+[10] PAGE_BEHAVIOR
+SPA Indicators: Framework script: react.4b5ee18f.js?1, history.pushState available
+History API: Yes
+Dynamic Load (3s): Not detected
+
+[11] SHADOW_DOM
+Has Shadow: No
+Reason: No shadowRoot detected on element or ancestors
+
+[12] CONTEXT_MENU
+(Manual inspection required - see separate scenario)
+
+[13] RAW_HTML
+<h2 class="OwnerPageName vkuiTitle__densityCompact vkuiTitle__level2 vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight1 vkuiTypography__accent vkuiRootComponent__host" id="owner_page_name">Елена Мурашова (Послайко)<span class="vkuiVisuallyHidden__host vkuiRootComponent__host">&nbsp;заходила 9 авг в 8:22</span></h2>
+
+[14] SELECTORS
+Primary: #owner_page_name
+Reason: Has ID: owner_page_name
+
+[15] NOTES
+- Entity candidates should be manually verified
+- Event container may need adjustment
+- Date format should be validated
+- Triangle anchor position #1 is recommended default
+
+=== END REPORT ===

@@ -1,0 +1,125 @@
+=== PORTAL INSPECTION ===
+
+PORTAL: vkvideo.ru
+PAGE_TYPE: Unknown (manual inspection)
+URL: https://vkvideo.ru/video-99547920_456259678
+DATE: 13.08.2026
+TIME: 23:10:52
+ENTITY_TYPE: Author/Persona (inferred)
+ENTITY_NAME: https://rutube.ru/shorts/156725d6f3bb527e6dc4c2f67
+EVENT_TYPE: Comment/Post (inferred)
+SOURCE_CONTEXT: Смотрите также
+
+=== END HEADER ===
+
+[01] PAGE
+URL: https://vkvideo.ru/video-99547920_456259678
+Hostname: vkvideo.ru
+Title: В сочинском Дендрарии зацвела редкая столепестковая роза
+
+[02] SELECTED_ENTITY
+Tag: A
+ID: none
+Class: none
+Selector: #2444 > div.vkit-Us6PZV > div.vkit-JlXbRe > div.vkit-3K2uqR > div.vkit-GxQ4KB > div.vkit-ewZ0L2.vkit-VbEObC > div.vkit-w4UWAv > span.vkit-RidscE.vkuiFootnote__host > a:nth-child(1)
+Text: https://rutube.ru/shorts/156725d6f3bb527e6dc4c2f67fb8..
+Attributes:
+  - href: /away.php?utf=1&to=https%3A%2F%2Frutube.ru%2Fshorts%2F156725d6f3bb527e6dc4c2f67fb8cb00%2F%3Fr%3Dwd
+  - target: _blank
+  - rel: noopener
+  - onclick: return goAway('https://rutube.ru/shorts/156725d6f3bb527e6dc4c2f67fb8cb00/?r=wd', {}, event);
+
+[03] ENTITY_CANDIDATES
+1. Type: HREF
+   Value: https://vkvideo.ru/away.php?utf=1&to=https%3A%2F%2Frutube.ru%2Fshorts%2F156725d6f3bb527e6dc4c2f67fb8cb00%2F%3Fr%3Dwd
+   Source: Nearest <a> tag
+
+2. Type: PARENT_DATA_ATTR
+   Value: showmoretext-in
+   Source: Parent DIV[data-testid]
+   Depth: 2
+
+3. Type: PARENT_DATA_ATTR
+   Value: comment-text
+   Source: Parent DIV[data-testid]
+   Depth: 3
+
+
+[04] EVENT_CONTAINER
+Selector: html:nth-child(1) > body.redesign_web.video_showcase
+Reason: Fallback to body or nearest parent
+Depth: -1
+Preview: <body scheme="vkcom_light" onresize="window.onBodyResize?.();" class="redesign_web video_showcase no_stl no_sett" data-useragent="chrome"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; width: 0; height: 0;" aria-hidden="true"><symbol wid
+
+[05] EVENT_TEXT
+Found: Yes
+Reason: Extracted from container
+Text: elements/checkbox_active
+elements/checkbox_active
+elements/checkbox_active
+РазвернутьПоиск видеоОчиститьVK Видео для авторовДобавитьУведомленияНастройки профиля                       В сочинском Дендрарии зацвела редкая столепестковая роза 93 просмотра·2 месяца назадВести Сочи 23 тыс подписчиков Подписаться4ПоделитьсяДобавитьЕщё1 комментарий·Сначала старыеКнопка открытия виджета с эмодзиОставить комментарийAnna AndreevaМеньше минуты назадДействияСтолепестковая роза в Крыму. 
+https://rutube.ru/shorts/156725d6f3bb527e6dc4c2f67fb8..ОтветитьС VK Видео Премиум рекламыне будет — за 299 ₽ в месяцПодключитьСкрытьСмотрите также56:09Садовые хроники : большой обзор цветника на 1 августаЦветули у Светули19,7 тыс просмотров · 11 дней назад26:582026 - ГОД ГОРТЕНЗИЙ!!!Мой второй сад4,1 тыс просмотров · 16 часов назад52:21Обзор растений. Прогулка по саду. Розы. Цветущие многолетники. Клематис. Хосты. Хвойные. Июль’26Растите выращивая18,3 тыс просмотров · 1 месяц назад1:15:00Космический корабль "Союз МС-28" возвращается после выполнения миссии на МКСТАСС114 тыс просмотров · 18 дней назад13:10Шикарные розы с минимальным уходом. Схема моего ухода за розами в июлеВолшебная грядка Марины Шевляковой34,9 тыс просмотров · 1 год назад1:17:10САД НАИЗНАНКУ. Когда все показывают красивые картинки - я показываю все, как есть!СУПЕР - ОТПУСК на ДАЧЕ91 тыс просмотров · 1 год назад14:43Садовая ярмарка в С-Петербурге с 12-15августаПионы под Питером2 тыс просмотров · 1 день назад17:53Розы. Сад. Обзор. Часть 4Садурский Сад Алена666 просмотров · 3 года назад1:03:02Обзор ранних и среднеранних пионовRoyal Gardens19,5 тыс просмотров · 1 год назадЗагружается...Наверх
+Anna Andreeva+7 ••• ••• •• 49Управление аккаунтом Мои каналы Отключить рекламу Голоса 0Настройки Тема: Системная Подключить ТВ по коду Помощь Выйти
+
+[06] DATE_TIME
+Found: No
+Reason: Not found
+Text: N/A
+Datetime attr: N/A
+Title attr: N/A
+Selector: N/A
+
+[07] ROOT_CONTEXT
+Title: Смотрите также
+URL: https://vkvideo.ru/video-99547920_456259678
+Title Selector: #video_recommendations > div.vkuiGroup__header > div.vkit-91tUoS.vkit-tCg2yI > div.vkuiHeader__main > div.vkuiHeader__content.vkuiHeadline__densityCompact > span.vkuiHeader__contentIn > div.vkit-zEU7cm.vkuiFlex__host > span.vkuiEllipsisText__host.vkuiRootComponent__host > span.vkuiEllipsisText__content > h2.vkit-ewZ0L2.vkuiSubhead__host
+
+[08] COMMENT_URL
+Current URL: https://vkvideo.ru/video-99547920_456259678
+(No specific comment anchor detected automatically)
+
+[09] TRIANGLE_ANCHOR
+1. Position: After name
+   Element: A
+   Selector: #2444 > div.vkit-Us6PZV > div.vkit-JlXbRe > div.vkit-3K2uqR > div.vkit-GxQ4KB > div.vkit-ewZ0L2.vkit-VbEObC > div.vkit-w4UWAv > span.vkit-RidscE.vkuiFootnote__host > a:nth-child(1)
+   Parent: #2444 > div.vkit-Us6PZV > div.vkit-JlXbRe > div.vkit-3K2uqR > div.vkit-GxQ4KB > div.vkit-ewZ0L2.vkit-VbEObC > div.vkit-w4UWAv > span.vkit-RidscE.vkuiFootnote__host
+   Description: Insert immediately after the author name element
+
+2. Position: Before name
+   Element: A
+   Selector: #2444 > div.vkit-Us6PZV > div.vkit-JlXbRe > div.vkit-3K2uqR > div.vkit-GxQ4KB > div.vkit-ewZ0L2.vkit-VbEObC > div.vkit-w4UWAv > span.vkit-RidscE.vkuiFootnote__host > a:nth-child(1)
+   Parent: #2444 > div.vkit-Us6PZV > div.vkit-JlXbRe > div.vkit-3K2uqR > div.vkit-GxQ4KB > div.vkit-ewZ0L2.vkit-VbEObC > div.vkit-w4UWAv > span.vkit-RidscE.vkuiFootnote__host
+   Description: Insert immediately before the author name element
+
+3. Position: In header area
+   Element: svg
+   Selector: html:nth-child(1) > body.redesign_web.video_showcase > svg
+   Parent: html:nth-child(1) > body.redesign_web.video_showcase
+   Description: Insert in the header area of the comment/post
+
+[10] PAGE_BEHAVIOR
+SPA Indicators: Framework script: react.4b5ee18f.js, history.pushState available
+History API: Yes
+Dynamic Load (3s): Not detected
+
+[11] SHADOW_DOM
+Has Shadow: No
+Reason: No shadowRoot detected on element or ancestors
+
+[12] CONTEXT_MENU
+(Manual inspection required - see separate scenario)
+
+[13] RAW_HTML
+<a href="/away.php?utf=1&amp;to=https%3A%2F%2Frutube.ru%2Fshorts%2F156725d6f3bb527e6dc4c2f67fb8cb00%2F%3Fr%3Dwd" target="_blank" rel="noopener" onclick="return goAway('https://rutube.ru/shorts/156725d6f3bb527e6dc4c2f67fb8cb00/?r=wd', {}, event);">https://rutube.ru/shorts/156725d6f3bb527e6dc4c2f67fb8..</a>
+
+[14] SELECTORS
+Primary: #2444 > div.vkit-Us6PZV > div.vkit-JlXbRe > div.vkit-3K2uqR > div.vkit-GxQ4KB > div.vkit-ewZ0L2.vkit-VbEObC > div.vkit-w4UWAv > span.vkit-RidscE.vkuiFootnote__host > a:nth-child(1)
+Reason: Generated path from DOM tree
+
+[15] NOTES
+- Entity candidates should be manually verified
+- Event container may need adjustment
+- Date format should be validated
+- Triangle anchor position #1 is recommended default
+
+=== END REPORT ===
