@@ -1,0 +1,775 @@
+=== PORTAL INSPECTION ===
+
+PORTAL: vk.ru
+PAGE_TYPE: Unknown (manual inspection)
+URL: https://vk.ru/collabis?w=wall-228585143_222
+DATE: 13.08.2026
+TIME: 22:37:42
+ENTITY_TYPE: Author/Persona (inferred)
+ENTITY_NAME: Collabis.ru, браузер фаирфокс какая версия не знаю
+EVENT_TYPE: Comment/Post (inferred)
+SOURCE_CONTEXT: Collabis.ru
+
+=== END HEADER ===
+
+[01] PAGE
+URL: https://vk.ru/collabis?w=wall-228585143_222
+Hostname: vk.ru
+Title: Collabis.ru
+
+[02] SELECTED_ENTITY
+Tag: DIV
+ID: none
+Class: vkit-0wZYbU
+Selector: #1053506253_231 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp > div.vkit-0wZYbU
+Text: Collabis.ru, браузер фаирфокс какая версия не знаю не слежу за этим домой приду напишу вас еще сюда же сообщение
+Attributes:
+  - class: vkit-0wZYbU
+
+[03] ENTITY_CANDIDATES
+1. Type: HREF
+   Value: https://vk.ru/club228585143
+   Source: Nearest <a> tag
+
+2. Type: PARENT_DATA_ATTR
+   Value: showmoretext-in-expanded
+   Source: Parent DIV[data-testid]
+   Depth: 0
+
+3. Type: PARENT_DATA_ATTR
+   Value: comment-text
+   Source: Parent DIV[data-testid]
+   Depth: 1
+
+
+[04] EVENT_CONTAINER
+Selector: html:nth-child(1) > body.redesign_web.no_stl
+Reason: Fallback to body or nearest parent
+Depth: -1
+Preview: <body scheme="vkcom_light" onresize="window.onBodyResize?.();" class="redesign_web no_stl" data-useragent="chrome">
+  
+  <script>;try{(function(){"use strict";function t(){const t=navigator.userAgent.toLowerCase();document.body.setAttribute("onresize","window.onBodyResize?.();"),/mac/i.test(t)&&docu
+
+[05] EVENT_TEXT
+Found: Yes
+Reason: Extracted from container
+Text: ПоискОчистить полеНайтиУведомленияАудиоплеерНастройки профиляПрофильЛентаМессенджерЗвонкиДрузьяСообществаКлипыСтикерыМаркетСервисыГолосаЯндекс БраузерЗакладкиФайлыРекламаПомощь
+
+
+
+
+
+
+
+
+
+
+
+#trg-b-meta266-2473024259.trg-b-banner-block {visibility: visible !important;display: table !important;font-size: 12px!important;font-family: -apple-system,BlinkMacSystemFont,Roboto,Open Sans,Helvetica Neue,sans-serif!important;overflow: hidden!important;}#trg-b-meta266-2473024259.trg-b-banner-block .trg-b-list_vk-left {list-style: none!important;margin: 0!important;padding: 0!important;display: flex;flex-direction: column;gap: 16px;}#trg-b-meta266-2473024259.trg-b-banner-block .trg-b-banner {overflow: hidden!important;word-wrap: break-word!important;position: relative!important;z-index: 2!important;width: 145px!important;display: block!important;text-align: left!important;margin: 15px 0 13px!important;padding: 0 0 13px 0!important;}#trg-b-meta266-2473024259.trg-b-banner-block .trg-b-banner:after {content: ''!important;border-bottom: 1px solid #e2e6ed!important;position: absolute!important;height: 0px!important;bottom: 0!important;left: 0!important;right: 0!important;z-index: 1!important;}#trg-b-meta266-2473024259.trg-b-banner-block .trg-b-contact {padding: 0px 0 4px!important;font-size: 11px!important;text-align: left!important;}#trg-b-meta266-2473024259.trg-b-banner-block .trg-b-contact__link {color: #939699!important;text-decoration: none!important;cursor: pointer!important;}#trg-b-meta266-2473024259.trg-b-banner-block .trg-b-contact__link:hover {text-decoration: underline!important;}.tgb_hide {display: none !important;}
+
+
+
+
+
+
+
+    
+    
+    
+        
+        
+    
+
+
+
+
+
+    
+
+
+Россия – для жизниvk.comЗа государство, которое доверяет людямПерейтиРеклама18+
+
+try {
+    (function () {
+        const config = {
+            container: "b226544237_696006358",
+            priced_event_type: "0",
+            banner: 
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    
+    
+            
+    {
+        "id": 226544237,
+        "type": "motion-ads",
+        "creativeType": "vkSideBar_site_newDesign",
+
+        "banner_template_id": 176,
+        "pattern": {
+            "name": "multiformat_square_img",
+            "group": "multiformat",
+            "subgroup": "square"
+        },
+        "pad_id": "20939",
+        "impression_id": "8699125214882166027",
+        "adLabel": {
+            "show": true,
+            "text": "Реклама"},
+
+        "openLinkInPopup": false,
+        "width": "158px",
+        "trackingLink": "https://t.mail.ru/redir/Eq8KCO2Ug2wQi-rHDR25HH5qIBsoAmr3BAjLowEVuRx-aiDhs-MLKLkeOKwCQODZjUVI_q25VlCsAlgBYAFoA3XuFVc8fe4VVzyFASIOCCeVAQh_h1igAYACqQEL9bEBS4C5eMABl6m1wwvQAQGdAuL__z7oAsWg5AvwAsT03jrNA9e-PIvVA_d8INv6BCuBgOoBANurLgDW18kCAKbbEQCNng8Aj34AleYFAN3T7AGbhQP1dwCDkgEAiAWAArgFiICAAdoFAJAGkN7lOJgGrAKoBqwC8gYFgp2HOm-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNgJrAKFCgAAgD-YCgGgCgGtCqnjSWCtCq4_7e6tCoOuTuCtCnGDfputCnGDfputClU6Xq2tCgUdr5utCg9Fop6tCtCDtO6tCor01h3YCgLlCgAAgD-gC6wCqAsIwAvD5gLwCwKCDArb7v3hCYqkx74Eqgwvv6LZsQGS0akEy4fikQLKoreuAceSwyT6tZLZAdTDw7wBqp_GxAHV6aMJhZ6q8QO1DO4QfWq9DB7NfWrgDcwG6A0Csg4A6g4OCgV2ay5ydRIFMjA5MzmCDwSdreIEmg8EtZfXJqIPBICt4gSwD7AByg8DYWRx-A-Z88DCBYAQDrUQAACAP7oQBQ07338_xRDN7JVD4hAA8BAE-BC8AYAR_____w-IEdCz1Fu4ER_QEQDYEfsC8BEAwBQAyBQA9RTuFVc8mBUByBX___________8B0BX___________8B_RUAAIA_hRYAAIA_iBYCkBaSA7AWALgWAMIWCTE5MjIyMzY5NsoWCHZrX2dyb3Vw1Rbiy4Y98BawAfgW-wKIF5De5TioFwBwAYgBCbgBgALAAQHgAUDqAUYA4ZzsjzghHZ64YekC9S5-u1rA3131GOcyyJhec-cvz0Qn-Ir5z5y6-lNdta7926c-8hhPOJ5Fa16kpsDrQw7e3I7P56ZAmAIAuALbk66fAsICYv44BAECAgMCAQEBAg4IBwIfAQYNCAMBAgECAq0IBwO2AXkDnQLLAaUB3QUCOAEBAQIIAgwBAjP4CVkGAcsEAQEGA_IBgwMCAUsDAQEBpwG6A-wajRnMHIkHCvQMBQHMBLArkAPPmc2Aix6aBQsIAxACGO2Ug2wgCJoFDQgDEAIY7ZSDbCiAowWyBhAZBJjixCyyuuJOmDcPFWWJ0gYIeLmASwGx9QuBB6MF1hiXx29s6gcO0YLQuNC30LXRgNGLIDLwB61G8AekTvAHwK0S8AfW4WfwB9_iZ_AH2dTlBPAHjN3lBPAHsurlBPAHg4jmBPAHhYjmBPAHh4jmBPAH2armBPAHo7_mBPAHwe5tkAgEqghzChAKC2RldmljZV90eXBlEgExChsKDXN0YWJsZXRyYWZmaWMSCmFkLm1haWwucnUKDAoEYmRzeRIEZ29vZAoTCgl2aWRzb3VyY2USBmhlYWRlcgoNCgVpc3JlZhIEdHJ1ZQoQCgtoYXNfdmtfYXV0aBIBMMgI4gH6CAUyMDkzOYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcRoVAWZJqIrwJCv8HPux5GkjxpVA4qQn:2VtzqxdX4cz",
+        "isDarkTheme": false,
+        "rounded": "0",
+
+        "image": {
+                "width": 240,"height": 240,"src": "https://r.mradx.net/imgs/fa/35/06e6bbeb4517c0ac.jpg"
+            },
+        "ctaText": "Перейти",
+        "title": "Россия – для жизни",
+        "description": "За государство, которое доверяет людям",
+        "ageRestrictions": "18+",
+        "domain": "vk.com",
+            "trackingLinkUrlTypes": "external_new,internal,vk,vk_group",
+        "trackingLinkTrackerTypes": "4",
+        "clickArea": 4096,
+"openInBrowser": false,
+
+        "viewability": {
+            "isHbid": false,"hbidID": "","percent": 50,"duration": false
+        },
+        "audits": [
+            
+        ],
+
+        "disableClickArea": "true",
+        "adChoices": {
+    "iconLink": "https://r.mradx.net/imgs/2a/38/fda5014ca5824c9a.svg",
+    "closeUrl": "https://rs.mail.ru/pixel/CowJCO2Ug2wQi-rHDR25HH5qIBsoAmq7BAjLowEVuRx-aiDhs-MLKLkeOKwCQODZjUVI_q25VlCsAlgBYAFoA3XuFVc8fe4VVzyFASIOCCeVAQh_h1igAYACqQEL9bEBS4C5eMABl6m1wwvQAQGdAuL__z7oAsWg5AvwAsT03jrNA9e-PIvVA_d8INv6BCuBgOoBANurLgDW18kCAKbbEQCNng8Aj34AleYFAN3T7AGbhQP1dwCDkgEAiAWAArgFiICAAdoFAJAGkN7lOJgGrAKoBqwC8gYFgp2HOm-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNgJrAKFCgAAgD-YCgGgCgHYCgLlCgAAgD-gC6wCqAsIwAvD5gLwCwKCDArb7v3hCYqkx74Eqgwvv6LZsQGS0akEy4fikQLKoreuAceSwyT6tZLZAdTDw7wBqp_GxAHV6aMJhZ6q8QO1DO4QfWq9DB7NfWrgDcwG6A0Csg4A6g4OCgV2ay5ydRIFMjA5MzmCDwSdreIEmg8EtZfXJqIPBICt4gSwD7AByg8DYWRx-A-Z88DCBYAQDrUQAACAP7oQBQ07338_xRDN7JVD4hAA8BAE-BC8AYAR_____w-IEdCz1Fu4ER_QEQDYEfsC8BEAwBQAyBQA9RTuFVc8mBUByBX___________8B0BX___________8B_RUAAIA_hRYAAIA_iBYCkBaSA7AWALgWAMIWCTE5MjIyMzY5NsoWCHZrX2dyb3Vw1Rbiy4Y98BawAfgW-wKIF5De5TioFwBwAYgBCbgBgALAASPIAQHgAUC4AtuTrp8CwgJi_jgEAQICAwIBAQECDggHAh8BBg0IAwECAQICrQgHA7YBeQOdAssBpQHdBQI4AQEBAggCDAECM_gJWQYBywQBAQYD8gGDAwIBSwMBAQGnAboD7BqNGcwciQcK9AwFAcwEsCuQA8-ZzYCLHrIGEBkEmOLELLK64k6YNw8VZYnSBgh4uYBLAbH1C4EHowXWGJfHb2zqBw7RgtC40LfQtdGA0YsgMvAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCASqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAjiAfoIBTIwOTM5iAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif?reason=",
+    "aboutCompanyLink": "https://ads.vk.ru/adv_info?id=AACn_wEO-9t49HHeoZKZPdgvC4qa6htRhwWWjQE0UHTMB5QRQnfnF5VA4dk-0AWbCZua5ds5QW-FRqpUDPL0bnLvwLITDvUsETWjYkMhb0Nd2XezUtCa2HG6wRw2tCbdmo2PhzSQ1WvL5cUlFm7XZ1nk_keclDEnQqy6v3H4m_sazW60m7E4gQsJAAAA1OOmsrmW3ToSRvOFbbIIAw",
+    "marker": "2VtzqxdX4cz",
+    "tabs": {
+         "main": {
+            "items": [
+              {
+                "text": "Скрыть объявление",
+                "iconUrl": "https://r.mradx.net/imgs/63/8e/d4b28cc0b905374f.svg",
+                "name": "hide",
+                "action": "hide"
+              },
+              {
+                "text": "Пожаловаться",
+                "iconUrl": "https://r.mradx.net/imgs/cf/aa/a8655ac54f10b068.svg",
+                "name": "complain",
+                "action": "complain"
+              },
+              {
+                "text": "О рекламодателе",
+                "iconUrl": "https://r.mradx.net/imgs/ee/63/84ed4e4a5ae73316.svg",
+                "name": "about",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/adv_info?id=AACn_wEO-9t49HHeoZKZPdgvC4qa6htRhwWWjQE0UHTMB5QRQnfnF5VA4dk-0AWbCZua5ds5QW-FRqpUDPL0bnLvwLITDvUsETWjYkMhb0Nd2XezUtCa2HG6wRw2tCbdmo2PhzSQ1WvL5cUlFm7XZ1nk_keclDEnQqy6v3H4m_sazW60m_jKSx4JAAAA9_skKjNHolsrimIJI_MGTw"
+              },
+              {
+                "text": "Скопировать ссылку",
+                "name": "copyUrl",
+                "action": "copy",
+                "actionValue": "https://t.mail.ru/redir/Eq8KCO2Ug2wQi-rHDR25HH5qIBsoAmr3BAjLowEVuRx-aiDhs-MLKLkeOKwCQODZjUVI_q25VlCsAlgBYAFoA3XuFVc8fe4VVzyFASIOCCeVAQh_h1igAYACqQEL9bEBS4C5eMABl6m1wwvQAQGdAuL__z7oAsWg5AvwAsT03jrNA9e-PIvVA_d8INv6BCuBgOoBANurLgDW18kCAKbbEQCNng8Aj34AleYFAN3T7AGbhQP1dwCDkgEAiAWAArgFiICAAdoFAJAGkN7lOJgGrAKoBqwC8gYFgp2HOm-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNgJrAKFCgAAgD-YCgGgCgGtCqnjSWCtCq4_7e6tCoOuTuCtCnGDfputCnGDfputClU6Xq2tCgUdr5utCg9Fop6tCtCDtO6tCor01h3YCgLlCgAAgD-gC6wCqAsIwAvD5gLwCwKCDArb7v3hCYqkx74Eqgwvv6LZsQGS0akEy4fikQLKoreuAceSwyT6tZLZAdTDw7wBqp_GxAHV6aMJhZ6q8QO1DO4QfWq9DB7NfWrgDcwG6A0Csg4A6g4OCgV2ay5ydRIFMjA5MzmCDwSdreIEmg8EtZfXJqIPBICt4gSwD7AByg8DYWRx-A-Z88DCBYAQDrUQAACAP7oQBQ07338_xRDN7JVD4hAA8BAE-BC8AYAR_____w-IEdCz1Fu4ER_QEQDYEfsC8BEAwBQAyBQA9RTuFVc8mBUByBX___________8B0BX___________8B_RUAAIA_hRYAAIA_iBYCkBaSA7AWALgWAMIWCTE5MjIyMzY5NsoWCHZrX2dyb3Vw1Rbiy4Y98BawAfgW-wKIF5De5TioFwBwAYgBCbgBgALAAQHgAUDqAUYA4ZzsjzghHZ64YekC9S5-u1rA3131GOcyyJhec-cvz0Qn-Ir5z5y6-lNdta7926c-8hhPOJ5Fa16kpsDrQw7e3I7P56ZAmAIAuALbk66fAsICYv44BAECAgMCAQEBAg4IBwIfAQYNCAMBAgECAq0IBwO2AXkDnQLLAaUB3QUCOAEBAQIIAgwBAjP4CVkGAcsEAQEGA_IBgwMCAUsDAQEBpwG6A-wajRnMHIkHCvQMBQHMBLArkAPPmc2Aix6aBQsIAxACGO2Ug2wgCJoFDQgDEAIY7ZSDbCiAowWyBhAZBJjixCyyuuJOmDcPFWWJ0gYIeLmASwGx9QuBB6MF1hiXx29s6gcO0YLQuNC30LXRgNGLIDLwB61G8AekTvAHwK0S8AfW4WfwB9_iZ_AH2dTlBPAHjN3lBPAHsurlBPAHg4jmBPAHhYjmBPAHh4jmBPAH2armBPAHo7_mBPAHwe5tkAgEqghzChAKC2RldmljZV90eXBlEgExChsKDXN0YWJsZXRyYWZmaWMSCmFkLm1haWwucnUKDAoEYmRzeRIEZ29vZAoTCgl2aWRzb3VyY2USBmhlYWRlcgoNCgVpc3JlZhIEdHJ1ZQoQCgtoYXNfdmtfYXV0aBIBMMgI4gH6CAUyMDkzOYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcRoVAWZJqIrwJCv8HPux5GkjxpVA4qQn:2VtzqxdX4cz",
+                "iconUrl": "https://r.mradx.net/imgs/b6/09/93a837dc06183017.svg"
+              },
+              {
+                "text": "Скопировать ERID (2VtzqxdX4cz)",
+                "iconUrl": "https://r.mradx.net/imgs/cf/e5/32db22916648f14d.svg",
+                "name": "copyErid",
+                "action": "copy",
+                "actionValue": "2VtzqxdX4cz"
+              },
+              {
+                "text": "Правила рекомендаций",
+                "name": "rules",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/documents/recommendation",
+                "iconUrl": "https://r.mradx.net/imgs/37/c0/ca37933876686dcd.svg"
+              },
+              {
+                "text": "VK Реклама",
+                "name": "VKAds",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/",
+                "iconUrl": "https://r.mradx.net/imgs/df/92/6fb16c27a25e2c38.svg"
+              }
+            ]
+          },
+          "hide": {
+            "closeInfo": "Ваши ответы помогают нам подбирать более качественную рекламу",
+            "header": "Уточните причину:",
+            "closeTitle": "Объявление скрыто",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 1, "text": "Не интересно", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 2, "text": "Уже приобретено", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 3, "text": "Вижу слишком часто", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "complain": {
+            "header": "Уточните причину:",
+            "closeInfo": "Модератор скоро проверит объявление",
+            "closeTitle": "Жалоба отправлена",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 4, "text": "Оскорбительное содержание", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 5, "text": "Сексуальный подтекст", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 6, "text": "Нарушение закона", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 7, "text": "Мошеннический сайт", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "closed": {
+            "items": [
+              {
+                "name": "closeTitle"
+              },
+              {
+                "name": "closeInfo"
+              }
+            ]
+          }
+    }
+}
+,
+        "statistics": [
+
+
+
+{
+        "target": "banner",
+         "type": "playheadViewabilityValue",
+         "url": "https://rs.mail.ru/pixel/CrAJCO2Ug2wQi-rHDR25HH5qIBsoAmrWBAjLowEVuRx-ahisAiDhs-MLKLkeOKwCQODZjUVI_q25VlCsAlgBYAFoA3XuFVc8fe4VVzyFASIOCCeVAQh_h1iYAawCoAGAAqkBC_WxAUuAuXjAAZeptcML0AEBnQLi__8-6ALFoOQL8ALE9N46zQPXvjyL1QP3fCDb-gQrgYDqAQDbqy4A1tfJAgCm2xEAjZ4PAI9-AJXmBQDd0-wBm4UD9XcAg5IBAIgFgAK4BYiAgAHaBQCQBpDe5TiYBqwCqAasAvIGBYKdhzpv_QYT-ys_sAcJ5QcmWlc7yggGhN-cl-QQsAkJuAmji9jG8fLxt2zYCawChQoAAIA_iAqWAZAKlgGYCgGgCgHYCgLlCgAAgD-gC6wCqAsIwAvD5gLwCwKCDArb7v3hCYqkx74Eqgwvv6LZsQGS0akEy4fikQLKoreuAceSwyT6tZLZAdTDw7wBqp_GxAHV6aMJhZ6q8QO1DO4QfWq9DB7NfWrgDcwG6A0Csg4A6g4OCgV2ay5ydRIFMjA5MzmCDwSdreIEmg8EtZfXJqIPBICt4gSwD7AByg8DYWRx-A-Z88DCBYAQDrUQAACAP7oQBQ07338_xRDN7JVD4hAA8BAE-BC8AYAR_____w-IEdCz1Fu4ER_QEQDYEfsC8BEAwBQAyBQA9RTuFVc8mBUByBX___________8B0BX___________8B_RUAAIA_hRYAAIA_iBYCkBaSA7AWALgWAMIWCTE5MjIyMzY5NsoWCHZrX2dyb3Vw1Rbiy4Y98BawAfgW-wKIF5De5TioFwBwAYgBCbgBgALgAUC4AtuTrp8CwgJi_jgEAQICAwIBAQECDggHAh8BBg0IAwECAQICrQgHA7YBeQOdAssBpQHdBQI4AQEBAggCDAECM_gJWQYBywQBAQYD8gGDAwIBSwMBAQGnAboD7BqNGcwciQcK9AwFAcwEsCuQA8-ZzYCLHpoFDAgCEAEY4NmNRSDwAbIGEBkEmOLELLK64k6YNw8VZYnSBgh4uYBLAbH1C4EHowXWGJfHb2zqBw7RgtC40LfQtdGA0YsgMvAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCASqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAjiAfoIBTIwOTM5iAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+         "duration": 0,
+         "viewablePercent": 50
+         },
+    {
+        "url": "https://rs.mail.ru/pixel/CscGCO2Ug2wQi-rHDR25HH5qIBsoAmraAgjLowEVuRx-aiDhs-MLKLkeOKwCQODZjUVI_q25VoUBIg4IJ5UBCH-HWKABgAKpAQv1sQFLgLl4wAGXqbXDC9ABAZ0C4v__PugCxaDkC_ACxPTeOogFgAK4BYiAgAHaBQCQBpDe5TiYBqwCqAasArAHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds2AmsAoUKAACAP5gKAaAKAdgKAuUKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmaDwS1l9cmsA-wAcoPA2FkcbUQAACAP7oQBQ07338_xRDN7JVD8BAE-BC8AYAR_____w-IEdCz1Fu4ER_QEQDYEfsC8BEAwBQAyBQAyBX___________8B0BX___________8BiBYCkBaSA7AWALgWAMIWCTE5MjIyMzY5NsoWCHZrX2dyb3Vw1Rbiy4Y98BawAfgW-wKIF5De5TioFwBwAYgBCbgBgALAAQrIAYkI4AFAuALbk66fApADz5nNgIsesgYQGQSY4sQssrriTpg3DxVlidIGCHi5gEsBsfULgQejBdYYl8dvbOoHDtGC0LjQt9C10YDRiyAy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOIB-ggFMjA5MzmIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif",
+        "type": "error"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CscGCO2Ug2wQi-rHDR25HH5qIBsoAmraAgjLowEVuRx-aiDhs-MLKLkeOKwCQODZjUVI_q25VoUBIg4IJ5UBCH-HWKABgAKpAQv1sQFLgLl4wAGXqbXDC9ABAZ0C4v__PugCxaDkC_ACxPTeOogFgAK4BYiAgAHaBQCQBpDe5TiYBqwCqAasArAHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds2AmsAoUKAACAP5gKAaAKAdgKAuUKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmaDwS1l9cmsA-wAcoPA2FkcbUQAACAP7oQBQ07338_xRDN7JVD8BAE-BC8AYAR_____w-IEdCz1Fu4ER_QEQDYEfsC8BEAwBQAyBQAyBX___________8B0BX___________8BiBYCkBaSA7AWALgWAMIWCTE5MjIyMzY5NsoWCHZrX2dyb3Vw1Rbiy4Y98BawAfgW-wKIF5De5TioFwBwAYgBCbgBgALAAQrIAZ8R4AFAuALbk66fApADz5nNgIsesgYQGQSY4sQssrriTpg3DxVlidIGCHi5gEsBsfULgQejBdYYl8dvbOoHDtGC0LjQt9C10YDRiyAy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOIB-ggFMjA5MzmIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif",
+        "type": "isBot"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CscGCO2Ug2wQi-rHDR25HH5qIBsoAmraAgjLowEVuRx-aiDhs-MLKLkeOKwCQODZjUVI_q25VoUBIg4IJ5UBCH-HWKABgAKpAQv1sQFLgLl4wAGXqbXDC9ABAZ0C4v__PugCxaDkC_ACxPTeOogFgAK4BYiAgAHaBQCQBpDe5TiYBqwCqAasArAHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds2AmsAoUKAACAP5gKAaAKAdgKAuUKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmaDwS1l9cmsA-wAcoPA2FkcbUQAACAP7oQBQ07338_xRDN7JVD8BAE-BC8AYAR_____w-IEdCz1Fu4ER_QEQDYEfsC8BEAwBQAyBQAyBX___________8B0BX___________8BiBYCkBaSA7AWALgWAMIWCTE5MjIyMzY5NsoWCHZrX2dyb3Vw1Rbiy4Y98BawAfgW-wKIF5De5TioFwBwAYgBCbgBgALAAQrIAaAR4AFAuALbk66fApADz5nNgIsesgYQGQSY4sQssrriTpg3DxVlidIGCHi5gEsBsfULgQejBdYYl8dvbOoHDtGC0LjQt9C10YDRiyAy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOIB-ggFMjA5MzmIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif",
+        "type": "isCold"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CscGCO2Ug2wQi-rHDR25HH5qIBsoAmraAgjLowEVuRx-aiDhs-MLKLkeOKwCQODZjUVI_q25VoUBIg4IJ5UBCH-HWKABgAKpAQv1sQFLgLl4wAGXqbXDC9ABAZ0C4v__PugCxaDkC_ACxPTeOogFgAK4BYiAgAHaBQCQBpDe5TiYBqwCqAasArAHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds2AmsAoUKAACAP5gKAaAKAdgKAuUKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmaDwS1l9cmsA-wAcoPA2FkcbUQAACAP7oQBQ07338_xRDN7JVD8BAE-BC8AYAR_____w-IEdCz1Fu4ER_QEQDYEfsC8BEAwBQAyBQAyBX___________8B0BX___________8BiBYCkBaSA7AWALgWAMIWCTE5MjIyMzY5NsoWCHZrX2dyb3Vw1Rbiy4Y98BawAfgW-wKIF5De5TioFwBwAYgBCbgBgALAAQrIAaER4AFAuALbk66fApADz5nNgIsesgYQGQSY4sQssrriTpg3DxVlidIGCHi5gEsBsfULgQejBdYYl8dvbOoHDtGC0LjQt9C10YDRiyAy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOIB-ggFMjA5MzmIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif",
+        "type": "check"
+    },
+    {
+        "type": "viewabilityDuration",
+        "url": "https://rs.mail.ru/pixel/CscGCO2Ug2wQi-rHDR25HH5qIBsoAmraAgjLowEVuRx-aiDhs-MLKLkeOKwCQODZjUVI_q25VoUBIg4IJ5UBCH-HWKABgAKpAQv1sQFLgLl4wAGXqbXDC9ABAZ0C4v__PugCxaDkC_ACxPTeOogFgAK4BYiAgAHaBQCQBpDe5TiYBqwCqAasArAHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds2AmsAoUKAACAP5gKAaAKAdgKAuUKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmaDwS1l9cmsA-wAcoPA2FkcbUQAACAP7oQBQ07338_xRDN7JVD8BAE-BC8AYAR_____w-IEdCz1Fu4ER_QEQDYEfsC8BEAwBQAyBQAyBX___________8B0BX___________8BiBYCkBaSA7AWALgWAMIWCTE5MjIyMzY5NsoWCHZrX2dyb3Vw1Rbiy4Y98BawAfgW-wKIF5De5TioFwBwAYgBCbgBgALAAQrIAYQg4AFAuALbk66fApADz5nNgIsesgYQGQSY4sQssrriTpg3DxVlidIGCHi5gEsBsfULgQejBdYYl8dvbOoHDtGC0LjQt9C10YDRiyAy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOIB-ggFMjA5MzmIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif"
+    },
+    {
+        "type": "render",
+        "url": "https://rs.mail.ru/pixel/CscGCO2Ug2wQi-rHDR25HH5qIBsoAmraAgjLowEVuRx-aiDhs-MLKLkeOKwCQODZjUVI_q25VoUBIg4IJ5UBCH-HWKABgAKpAQv1sQFLgLl4wAGXqbXDC9ABAZ0C4v__PugCxaDkC_ACxPTeOogFgAK4BYiAgAHaBQCQBpDe5TiYBqwCqAasArAHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds2AmsAoUKAACAP5gKAaAKAdgKAuUKAACAP6gLCMALw-YC6g4OCgV2ay5ydRIFMjA5MzmaDwS1l9cmsA-wAcoPA2FkcbUQAACAP7oQBQ07338_xRDN7JVD8BAE-BC8AYAR_____w-IEdCz1Fu4ER_QEQDYEfsC8BEAwBQAyBQAyBX___________8B0BX___________8BiBYCkBaSA7AWALgWAMIWCTE5MjIyMzY5NsoWCHZrX2dyb3Vw1Rbiy4Y98BawAfgW-wKIF5De5TioFwBwAYgBCbgBgALAAQrIAZkR4AFAuALbk66fApADz5nNgIsesgYQGQSY4sQssrriTpg3DxVlidIGCHi5gEsBsfULgQejBdYYl8dvbOoHDtGC0LjQt9C10YDRiyAy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOIB-ggFMjA5MzmIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif"
+    }
+    
+        ]
+    }
+
+,
+        };
+        if (!Array.isArray(window._MotionKit)) window._MotionKit = [];
+
+        const isInited = Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && (window.MotionKitSDK.isAsmInited("VKFeed") || window.MotionKitSDK.isAsmInited("DesignSystem"));
+
+        if (!isInited) {
+            scriptElement = document.createElement("script");
+            scriptElement.src = "https://ad.mail.ru/static/motion_lib.js";
+            scriptElement.id = "motion-ads-vk";
+            scriptElement.async = !0;
+            parentElement = document.getElementsByTagName("script")[0];
+            parentElement.parentNode.insertBefore(scriptElement, parentElement);
+        }
+        let containerForAd = document.querySelector('#' + 'b226544237_696006358');
+        const handler = (cnt = 10, timeout = 150) => {
+            setTimeout(() => {
+                containerForAd = document.querySelector('#' + 'b226544237_696006358');
+                const scriptForAd = document.getElementById('s226544237_696006358');
+                const sendPixelError = (msg, error) => {
+                    const pixelImg = new Image();
+                    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=${msg}&tpl=&p=20939&ptrn=multiformat_square_img&id=226544237&err=${error}&imp=8699125214882166027`;
+                };
+                if (containerForAd && window.MotionKit) {
+                  try {
+                    if (Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && !window.MotionKitSDK.isAsmInited("DesignSystem")) {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                      return;
+                    }
+                  } catch (e) {}
+                  window.MotionKit(config);
+                } else if (--cnt) {
+                    handler(cnt, timeout*2);
+                } else {
+                    if (!window.MotionKit) {
+                        sendPixelError(2, 'lib_init');
+                    }
+
+                    if (!containerForAd) {
+                        sendPixelError(311, 'lib_init');
+                    }
+                    try {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                    } catch (e) {}
+                }
+            }, timeout);
+        };
+        if (containerForAd && window.MotionKit) {
+            window.MotionKit(config);
+        } else {
+            handler();
+        }
+    })(window, document, "MotionKit");
+} catch (err) {
+    const pixelImg = new Image();
+    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=WebRenderError&tpl=&p=20939&ptrn=multiformat_square_img&id=226544237&err=${JSON.stringify(err)}&imp=8699125214882166027`;
+}
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+        
+    
+
+
+
+
+
+
+    
+
+
+Ксения | Путь верыvk.ruОтношения снова идут не так, как хочется?...ПерейтиРеклама0+
+
+try {
+    (function () {
+        const config = {
+            container: "b232030701_826977062",
+            priced_event_type: "41",
+            banner: 
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    
+    
+            
+        
+        
+        
+
+
+
+
+
+
+        
+
+        
+    
+
+    
+    {
+        "id": 232030701,
+        "type": "motion-ads",
+        "creativeType": "vkSideBar_site_newDesign",
+
+        "banner_template_id": 176,
+        "pattern": {
+            "name": "vk_community_img_square",
+            "group": "multiformat",
+            "subgroup": "square"
+        },
+        "pad_id": "20939",
+        "impression_id": "8699125214882166027",
+        "adLabel": {
+            "show": true,
+            "text": "Реклама"},
+
+        "openLinkInPopup": false,
+        "width": "158px",
+        "trackingLink": "https://vk.ru/club240789959?ref=232030701&ref_source=vk_ads",
+        "isDarkTheme": false,
+        "rounded": "0",
+
+        "image": {
+                "width": 240,"height": 240,"src": "https://r.mradx.net/imgs/3e/fe/762ac714733b7688.jpg"
+            },
+        "icon": {
+                "type": "static",
+                "src": "https://r.mradx.net//imgs/0d/fa/8e3eb86994db90d6.jpg"
+            },
+        "ctaText": "Перейти",
+        "title": "Ксения | Путь веры",
+        "description": "Отношения снова идут не так, как хочется? Ссоры, холод, отдаление или один и тот же сценарий снова и снова?\nНапишите мне «ТЕСТ» - я отправлю вам вопросы и бесплатно помогу разобраться, что может стоять за вашей ситуацией.\n✨ Анонимно • Бесплатно • Несколько минут",
+        "ageRestrictions": "0+",
+        "domain": "vk.ru",
+            "ctaLink": "https://vk.ru/im?media=&sel=-240789959",
+        "trackingLinkUrlTypes": "external_new,internal,vk,vk_group",
+        "trackingLinkTrackerTypes": "4",
+        "clickArea": 4096,
+"openInBrowser": false,
+
+        "viewability": {
+            "isHbid": false,"hbidID": "","percent": 50,"duration": false
+        },
+        "audits": [
+            
+        ],
+
+        "disableClickArea": "true",
+        "adChoices": {
+    "iconLink": "https://r.mradx.net/imgs/2a/38/fda5014ca5824c9a.svg",
+    "closeUrl": "https://rs.mail.ru/pixel/CooJCO2D0m4Qi-rHDR25HH5qIBsoAmqZBAjLowEVuRx-aiCBiKmIBCi3GDAQOAlAg_azR0jb_exWUAlYDmABdQPXNzp9A9c3OoUBE9YlJ5UBCH-HWKABgAKpAQv1sQFLgLl4wAH549vaDdABAZ0CAACAP-gC1OCbDfACrNeYQM0D0Vm2e9UDsdZ77ogFgAKtBWwQXju4BYCQkAHaBQCQBsOk7D2YBgmoBmTyBgzm56k78o8NQqMCsQGYBymoB4UfsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCQnYCYUfhQoAAIA_mAoBoAoB2AqRBOUKAACAP6ALCagLCMALw-YCggwK2-794QmKpMe-BKoML7-i2bEBktGpBMuH4pECyqK3rgHHksMk-rWS2QHUw8O8AaqfxsQB1emjCYWeqvED4A3MBugNArIOAOoODgoFdmsucnUSBTIwOTM5gg8GgK3iBMUTog8EgK3iBLAPsAHADwLKDwNhZHH4D_-3rdgLgBAOtRAAAIA_uhAAxRA9DhdB8BAE-BC8AYARAogRx9Pocs0RWht-atARANgRkk7wEQCwE8wB_RNsEF47wBQAyBQB3RRsEF474BQO9RQD1zc6mBUOoBXBg4AwyBX___________8B0BX___________8B_RVAeB82hRYAAIA_iBYBkBYAsBYAuBYAwhYJMjQwNzg5OTU5yhYIdmtfZ3JvdXDwFrAB-BaSTogXw6TsPagXAXABiAEJuAGAAsABI8gBAeABQLgC25OunwLCAmL-OAQBAgIDAgEBAQIOCAcCHwEGDQgDAQIBAgKtCAcDtgF5A50CywGlAd0FAjgBAQECCAIMAQIz-AlZBgHLBAEBBgPyAYMDAgFLAwEBAacBugPsGo0ZzByJBwr0DAUBzASwK5ADz5nNgIsesgYQGQSY4sQssrriTpg3DxVliYEHowXWGJfHb2zqB0LQntCx0YrRj9Cy0LvQtdC90LjQtSAo0JrRgdC10L3QuNGPIHwg0J_Rg9GC0Ywg0LLQtdGA0YspIDIwMjYtMDgtMTPwB61G8AekTvAHwK0S8AfW4WfwB9_iZ_AH2dTlBPAHjN3lBPAHsurlBPAHg4jmBPAHhYjmBPAHh4jmBPAH2armBPAHo7_mBPAHwe5tkAgBqghzChAKC2RldmljZV90eXBlEgExChsKDXN0YWJsZXRyYWZmaWMSCmFkLm1haWwucnUKDAoEYmRzeRIEZ29vZAoTCgl2aWRzb3VyY2USBmhlYWRlcgoNCgVpc3JlZhIEdHJ1ZQoQCgtoYXNfdmtfYXV0aBIBMMgIAogHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif?reason=",
+    "aboutCompanyLink": "https://ads.vk.ru/adv_info?id=AACn_wF_qh8bfZ7MJ9K6na0gtAyHJ7JmjpEMOQwg_sPtlQyL4oU2dT1LmXxBpzjC4FsO9yKFHXGh2LH9sn7mjv2Yl3YOiuD7L8HM1CUlPdakM1OAL95SxbQcQs8M9lb1tlALobyDads4rgZ6_3vw8x6kdKDdcaMLcZ7KKueOwnZpf11jThk6og0JAAAALVQE64Lehe00S2cFNxFSYg",
+    "marker": "2VtzqxCXjUX",
+    "tabs": {
+         "main": {
+            "items": [
+              {
+                "text": "Скрыть объявление",
+                "iconUrl": "https://r.mradx.net/imgs/63/8e/d4b28cc0b905374f.svg",
+                "name": "hide",
+                "action": "hide"
+              },
+              {
+                "text": "Пожаловаться",
+                "iconUrl": "https://r.mradx.net/imgs/cf/aa/a8655ac54f10b068.svg",
+                "name": "complain",
+                "action": "complain"
+              },
+              {
+                "text": "О рекламодателе",
+                "iconUrl": "https://r.mradx.net/imgs/ee/63/84ed4e4a5ae73316.svg",
+                "name": "about",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/adv_info?id=AACn_wF_qh8bfZ7MJ9K6na0gtAyHJ7JmjpEMOQwg_sPtlQyL4oU2dT1LmXxBpzjC4FsO9yKFHXGh2LH9sn7mjv2Yl3YOiuD7L8HM1CUlPdakM1OAL95SxbQcQs8M9lb1tlALobyDads4rgZ6_3vw8x6kdKDdcaMLcZ7KKueOwnZpf11jTmTV42EJAAAAMukI8xEYMiqL9m9IC22UjA"
+              },
+              {
+                "text": "Скопировать ссылку",
+                "name": "copyUrl",
+                "action": "copy",
+                "actionValue": "https://vk.ru/club240789959?ref=232030701&ref_source=vk_ads",
+                "iconUrl": "https://r.mradx.net/imgs/b6/09/93a837dc06183017.svg"
+              },
+              {
+                "text": "Скопировать ERID (2VtzqxCXjUX)",
+                "iconUrl": "https://r.mradx.net/imgs/cf/e5/32db22916648f14d.svg",
+                "name": "copyErid",
+                "action": "copy",
+                "actionValue": "2VtzqxCXjUX"
+              },
+              {
+                "text": "Правила рекомендаций",
+                "name": "rules",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/documents/recommendation",
+                "iconUrl": "https://r.mradx.net/imgs/37/c0/ca37933876686dcd.svg"
+              },
+              {
+                "text": "VK Реклама",
+                "name": "VKAds",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/",
+                "iconUrl": "https://r.mradx.net/imgs/df/92/6fb16c27a25e2c38.svg"
+              }
+            ]
+          },
+          "hide": {
+            "closeInfo": "Ваши ответы помогают нам подбирать более качественную рекламу",
+            "header": "Уточните причину:",
+            "closeTitle": "Объявление скрыто",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 1, "text": "Не интересно", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 2, "text": "Уже приобретено", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 3, "text": "Вижу слишком часто", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "complain": {
+            "header": "Уточните причину:",
+            "closeInfo": "Модератор скоро проверит объявление",
+            "closeTitle": "Жалоба отправлена",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 4, "text": "Оскорбительное содержание", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 5, "text": "Сексуальный подтекст", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 6, "text": "Нарушение закона", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 7, "text": "Мошеннический сайт", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "closed": {
+            "items": [
+              {
+                "name": "closeTitle"
+              },
+              {
+                "name": "closeInfo"
+              }
+            ]
+          }
+    }
+}
+,
+        "statistics": [
+
+
+
+{
+        "target": "banner",
+         "type": "playheadViewabilityValue",
+         "url": "https://rs.mail.ru/pixel/CqsJCO2D0m4Qi-rHDR25HH5qIBsoAmqkBAjLowEVuRx-ahgJIIGIqYgEKLcYMBA4CUCD9rNHSNv97FZQCVgOYAF1A9c3On0D1zc6hQET1iUnlQEIf4dYmAEJoAGAAqkBC_WxAUuAuXjAAfnj29oN0AEBnQIAAIA_6ALU4JsN8AKs15hAzQPRWbZ71QOx1nvuiAWAAq0FbBBeO7gFgJCQAdoFAJAGw6TsPZgGCagGZPIGDObnqTvyjw1CowKxAZgHKagHhR-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJCdgJhR-FCgAAgD-ICgmQCgmYCgGgCgHYCpEE5QoAAIA_oAsJqAsIwAvD5gKCDArb7v3hCYqkx74Eqgwvv6LZsQGS0akEy4fikQLKoreuAceSwyT6tZLZAdTDw7wBqp_GxAHV6aMJhZ6q8QPgDcwG6A0Csg4A6g4OCgV2ay5ydRIFMjA5MzmCDwaAreIExROiDwSAreIEsA-wAcAPAsoPA2FkcfgP_7et2AuAEA61EAAAgD-6EADFED0OF0HwEAT4ELwBgBECiBHH0-hyzRFaG35q0BEA2BGSTvARALATzAH9E2wQXjvAFADIFAHdFGwQXjvgFA71FAPXNzqYFQ6gFcGDgDDIFf___________wHQFf___________wH9FUB4HzaFFgAAgD-IFgGQFgCwFgC4FgDCFgkyNDA3ODk5NTnKFgh2a19ncm91cPAWsAH4FpJOiBfDpOw9qBcBcAGIAQm4AYAC4AFAuALbk66fAsICYv44BAECAgMCAQEBAg4IBwIfAQYNCAMBAgECAq0IBwO2AXkDnQLLAaUB3QUCOAEBAQIIAgwBAjP4CVkGAcsEAQEGA_IBgwMCAUsDAQEBpwG6A-wajRnMHIkHCvQMBQHMBLArkAPPmc2Aix6aBQsIAxABGO2D0m4gCJoFCwgDEAEY7YPSbigesgYQGQSY4sQssrriTpg3DxVliYEHowXWGJfHb2zqB0LQntCx0YrRj9Cy0LvQtdC90LjQtSAo0JrRgdC10L3QuNGPIHwg0J_Rg9GC0Ywg0LLQtdGA0YspIDIwMjYtMDgtMTPwB61G8AekTvAHwK0S8AfW4WfwB9_iZ_AH2dTlBPAHjN3lBPAHsurlBPAHg4jmBPAHhYjmBPAHh4jmBPAH2armBPAHo7_mBPAHwe5tkAgBqghzChAKC2RldmljZV90eXBlEgExChsKDXN0YWJsZXRyYWZmaWMSCmFkLm1haWwucnUKDAoEYmRzeRIEZ29vZAoTCgl2aWRzb3VyY2USBmhlYWRlcgoNCgVpc3JlZhIEdHJ1ZQoQCgtoYXNfdmtfYXV0aBIBMMgIAogHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+         "duration": 0,
+         "viewablePercent": 50
+         },
+    {
+        "url": "https://rs.mail.ru/pixel/CusGCO2D0m4Qi-rHDR25HH5qIBsoAmreAgjLowEVuRx-aiCBiKmIBCi3GDAQOAlAg_azR0jb_exWhQET1iUnlQEIf4dYoAGAAqkBC_WxAUuAuXjAAfnj29oN0AEBnQIAAIA_6ALU4JsN8AKs15hAiAWAArgFgJCQAdoFAJAGw6TsPZgGCagGZJgHKagHhR-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJCdgJhR-FCgAAgD-YCgGgCgHYCpEE5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFED0OF0HwEAT4ELwBgBECiBHH0-hyzRFaG35q0BEA2BGSTvARALATzAHAFADIFAGgFcGDgDDIFf___________wHQFf___________wGIFgGQFgCwFgC4FgDCFgkyNDA3ODk5NTnKFgh2a19ncm91cPAWsAH4FpJOiBfDpOw9qBcBcAGIAQm4AYACwAEKyAGJCOABQLgC25OunwKQA8-ZzYCLHrIGEBkEmOLELLK64k6YNw8VZYmBB6MF1hiXx29s6gdC0J7QsdGK0Y_QstC70LXQvdC40LUgKNCa0YHQtdC90LjRjyB8INCf0YPRgtGMINCy0LXRgNGLKSAyMDI2LTA4LTEz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIAaoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICAKIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif",
+        "type": "error"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CusGCO2D0m4Qi-rHDR25HH5qIBsoAmreAgjLowEVuRx-aiCBiKmIBCi3GDAQOAlAg_azR0jb_exWhQET1iUnlQEIf4dYoAGAAqkBC_WxAUuAuXjAAfnj29oN0AEBnQIAAIA_6ALU4JsN8AKs15hAiAWAArgFgJCQAdoFAJAGw6TsPZgGCagGZJgHKagHhR-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJCdgJhR-FCgAAgD-YCgGgCgHYCpEE5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFED0OF0HwEAT4ELwBgBECiBHH0-hyzRFaG35q0BEA2BGSTvARALATzAHAFADIFAGgFcGDgDDIFf___________wHQFf___________wGIFgGQFgCwFgC4FgDCFgkyNDA3ODk5NTnKFgh2a19ncm91cPAWsAH4FpJOiBfDpOw9qBcBcAGIAQm4AYACwAEKyAGfEeABQLgC25OunwKQA8-ZzYCLHrIGEBkEmOLELLK64k6YNw8VZYmBB6MF1hiXx29s6gdC0J7QsdGK0Y_QstC70LXQvdC40LUgKNCa0YHQtdC90LjRjyB8INCf0YPRgtGMINCy0LXRgNGLKSAyMDI2LTA4LTEz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIAaoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICAKIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif",
+        "type": "isBot"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CusGCO2D0m4Qi-rHDR25HH5qIBsoAmreAgjLowEVuRx-aiCBiKmIBCi3GDAQOAlAg_azR0jb_exWhQET1iUnlQEIf4dYoAGAAqkBC_WxAUuAuXjAAfnj29oN0AEBnQIAAIA_6ALU4JsN8AKs15hAiAWAArgFgJCQAdoFAJAGw6TsPZgGCagGZJgHKagHhR-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJCdgJhR-FCgAAgD-YCgGgCgHYCpEE5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFED0OF0HwEAT4ELwBgBECiBHH0-hyzRFaG35q0BEA2BGSTvARALATzAHAFADIFAGgFcGDgDDIFf___________wHQFf___________wGIFgGQFgCwFgC4FgDCFgkyNDA3ODk5NTnKFgh2a19ncm91cPAWsAH4FpJOiBfDpOw9qBcBcAGIAQm4AYACwAEKyAGgEeABQLgC25OunwKQA8-ZzYCLHrIGEBkEmOLELLK64k6YNw8VZYmBB6MF1hiXx29s6gdC0J7QsdGK0Y_QstC70LXQvdC40LUgKNCa0YHQtdC90LjRjyB8INCf0YPRgtGMINCy0LXRgNGLKSAyMDI2LTA4LTEz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIAaoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICAKIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif",
+        "type": "isCold"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CusGCO2D0m4Qi-rHDR25HH5qIBsoAmreAgjLowEVuRx-aiCBiKmIBCi3GDAQOAlAg_azR0jb_exWhQET1iUnlQEIf4dYoAGAAqkBC_WxAUuAuXjAAfnj29oN0AEBnQIAAIA_6ALU4JsN8AKs15hAiAWAArgFgJCQAdoFAJAGw6TsPZgGCagGZJgHKagHhR-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJCdgJhR-FCgAAgD-YCgGgCgHYCpEE5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFED0OF0HwEAT4ELwBgBECiBHH0-hyzRFaG35q0BEA2BGSTvARALATzAHAFADIFAGgFcGDgDDIFf___________wHQFf___________wGIFgGQFgCwFgC4FgDCFgkyNDA3ODk5NTnKFgh2a19ncm91cPAWsAH4FpJOiBfDpOw9qBcBcAGIAQm4AYACwAEKyAGhEeABQLgC25OunwKQA8-ZzYCLHrIGEBkEmOLELLK64k6YNw8VZYmBB6MF1hiXx29s6gdC0J7QsdGK0Y_QstC70LXQvdC40LUgKNCa0YHQtdC90LjRjyB8INCf0YPRgtGMINCy0LXRgNGLKSAyMDI2LTA4LTEz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIAaoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICAKIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif",
+        "type": "check"
+    },
+    {
+        "type": "viewabilityDuration",
+        "url": "https://rs.mail.ru/pixel/CusGCO2D0m4Qi-rHDR25HH5qIBsoAmreAgjLowEVuRx-aiCBiKmIBCi3GDAQOAlAg_azR0jb_exWhQET1iUnlQEIf4dYoAGAAqkBC_WxAUuAuXjAAfnj29oN0AEBnQIAAIA_6ALU4JsN8AKs15hAiAWAArgFgJCQAdoFAJAGw6TsPZgGCagGZJgHKagHhR-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJCdgJhR-FCgAAgD-YCgGgCgHYCpEE5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFED0OF0HwEAT4ELwBgBECiBHH0-hyzRFaG35q0BEA2BGSTvARALATzAHAFADIFAGgFcGDgDDIFf___________wHQFf___________wGIFgGQFgCwFgC4FgDCFgkyNDA3ODk5NTnKFgh2a19ncm91cPAWsAH4FpJOiBfDpOw9qBcBcAGIAQm4AYACwAEKyAGEIOABQLgC25OunwKQA8-ZzYCLHrIGEBkEmOLELLK64k6YNw8VZYmBB6MF1hiXx29s6gdC0J7QsdGK0Y_QstC70LXQvdC40LUgKNCa0YHQtdC90LjRjyB8INCf0YPRgtGMINCy0LXRgNGLKSAyMDI2LTA4LTEz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIAaoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICAKIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif"
+    },
+    {
+        "type": "render",
+        "url": "https://rs.mail.ru/pixel/CusGCO2D0m4Qi-rHDR25HH5qIBsoAmreAgjLowEVuRx-aiCBiKmIBCi3GDAQOAlAg_azR0jb_exWhQET1iUnlQEIf4dYoAGAAqkBC_WxAUuAuXjAAfnj29oN0AEBnQIAAIA_6ALU4JsN8AKs15hAiAWAArgFgJCQAdoFAJAGw6TsPZgGCagGZJgHKagHhR-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJCdgJhR-FCgAAgD-YCgGgCgHYCpEE5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFED0OF0HwEAT4ELwBgBECiBHH0-hyzRFaG35q0BEA2BGSTvARALATzAHAFADIFAGgFcGDgDDIFf___________wHQFf___________wGIFgGQFgCwFgC4FgDCFgkyNDA3ODk5NTnKFgh2a19ncm91cPAWsAH4FpJOiBfDpOw9qBcBcAGIAQm4AYACwAEKyAGZEeABQLgC25OunwKQA8-ZzYCLHrIGEBkEmOLELLK64k6YNw8VZYmBB6MF1hiXx29s6gdC0J7QsdGK0Y_QstC70LXQvdC40LUgKNCa0YHQtdC90LjRjyB8INCf0YPRgtGMINCy0LXRgNGLKSAyMDI2LTA4LTEz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIAaoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICAKIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif"
+    }
+    ,{
+        "type": "click",
+        "url": "https://rs.mail.ru/pixel/CqUKCO2D0m4Qi-rHDR25HH5qIBsoAmrVBAjLowEVuRx-aiCBiKmIBCi3GDAQOAlAg_azR0jb_exWUAlYDmABdQPXNzp9A9c3OoUBE9YlJ5UBCH-HWKABgAKpAQv1sQFLgLl4wAH549vaDdABAZ0CAACAP-gC1OCbDfACrNeYQM0D0Vm2e9UDsdZ77ogFgAKtBWwQXju4BYCQkAHaBQCQBsOk7D2YBgmoBmTyBgzm56k78o8NQqMCsQGYBymoB4UfsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCQnYCYUfhQoAAIA_mAoBoAoBrQqp40lgrQquP-3urQqDrk7grQpxg36brQpxg36brQpVOl6trQoFHa-brQoPRaKerQrQg7TurQqK9NYd2AqRBOUKAACAP6ALCagLCMALw-YCggwK2-794QmKpMe-BKoML7-i2bEBktGpBMuH4pECyqK3rgHHksMk-rWS2QHUw8O8AaqfxsQB1emjCYWeqvED4A3MBugNArIOAOoODgoFdmsucnUSBTIwOTM5gg8GgK3iBMUTog8EgK3iBLAPsAHADwLKDwNhZHH4D_-3rdgLgBAOtRAAAIA_uhAAxRA9DhdB8BAE-BC8AYARAogRx9Pocs0RWht-atARANgRkk7wEQCwE8wB_RNsEF47wBQAyBQB3RRsEF474BQO9RQD1zc6mBUOoBXBg4AwyBX___________8B0BX___________8B_RVAeB82hRYAAIA_iBYBkBYAsBYAuBYAwhYJMjQwNzg5OTU5yhYIdmtfZ3JvdXDwFrAB-BaSTogXw6TsPagXAXABiAEJuAGAAsABAeABQOoBOwDhnOyPOCEdn1QvUuWSPXeutVdRjnMsiYXnPnL89EJ_iK-c-ctsxRFYGwwR6j-2zFHlEKWBwJ2fz0yAmAIAuALbk66fAsICYv44BAECAgMCAQEBAg4IBwIfAQYNCAMBAgECAq0IBwO2AXkDnQLLAaUB3QUCOAEBAQIIAgwBAjP4CVkGAcsEAQEGA_IBgwMCAUsDAQEBpwG6A-wajRnMHIkHCvQMBQHMBLAryAIBkAPPmc2Aix6aBQsIAxACGO2D0m4gCJoFDQgDEAIY7YPSbiiAowWyBhAZBJjixCyyuuJOmDcPFWWJgQejBdYYl8dvbOoHQtCe0LHRitGP0LLQu9C10L3QuNC1ICjQmtGB0LXQvdC40Y8gfCDQn9GD0YLRjCDQstC10YDRiykgMjAyNi0wOC0xM_AHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAGqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAgCiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRxGhUBe6Di1pDiMk_9YczS3K50kxbPhkI:2VtzqxCXjUX.gif"
+        }
+,{
+        "type": "ctaClick",
+        "url": "https://rs.mail.ru/pixel/CqUKCO2D0m4Qi-rHDR25HH5qIBsoAmrVBAjLowEVuRx-aiCBiKmIBCi3GDAQOAlAg_azR0jb_exWUAlYDmABdQPXNzp9A9c3OoUBE9YlJ5UBCH-HWKABgAKpAQv1sQFLgLl4wAH549vaDdABAZ0CAACAP-gC1OCbDfACrNeYQM0D0Vm2e9UDsdZ77ogFgAKtBWwQXju4BYCQkAHaBQCQBsOk7D2YBgmoBmTyBgzm56k78o8NQqMCsQGYBymoB4UfsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCQnYCYUfhQoAAIA_mAoBoAoBrQqp40lgrQquP-3urQqDrk7grQpxg36brQpxg36brQpVOl6trQoFHa-brQoPRaKerQrQg7TurQqK9NYd2AqRBOUKAACAP6ALCagLCMALw-YCggwK2-794QmKpMe-BKoML7-i2bEBktGpBMuH4pECyqK3rgHHksMk-rWS2QHUw8O8AaqfxsQB1emjCYWeqvED4A3MBugNArIOAOoODgoFdmsucnUSBTIwOTM5gg8GgK3iBMUTog8EgK3iBLAPsAHADwLKDwNhZHH4D_-3rdgLgBAOtRAAAIA_uhAAxRA9DhdB8BAE-BC8AYARAogRx9Pocs0RWht-atARANgRkk7wEQCwE8wB_RNsEF47wBQAyBQB3RRsEF474BQO9RQD1zc6mBUOoBXBg4AwyBX___________8B0BX___________8B_RVAeB82hRYAAIA_iBYBkBYAsBYAuBYAwhYJMjQwNzg5OTU5yhYIdmtfZ3JvdXDwFrAB-BaSTogXw6TsPagXAXABiAEJuAGAAsABAeABQOoBOwDhnOyPOCEdn1QvUuWSPXeutVdRjnMsiYXnPnL89EJ_iK-c-ctsxRFYGwwR6j-2zFHlEKWBwJ2fz0yAmAIAuALbk66fAsICYv44BAECAgMCAQEBAg4IBwIfAQYNCAMBAgECAq0IBwO2AXkDnQLLAaUB3QUCOAEBAQIIAgwBAjP4CVkGAcsEAQEGA_IBgwMCAUsDAQEBpwG6A-wajRnMHIkHCvQMBQHMBLAryAIBkAPPmc2Aix6aBQsIAxACGO2D0m4gCJoFDQgDEAIY7YPSbiiAowWyBhAZBJjixCyyuuJOmDcPFWWJgQejBdYYl8dvbOoHQtCe0LHRitGP0LLQu9C10L3QuNC1ICjQmtGB0LXQvdC40Y8gfCDQn9GD0YLRjCDQstC10YDRiykgMjAyNi0wOC0xM_AHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAGqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAgCiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRxGhUBe6Di1pDiMk_9YczS3K50kxbPhkI:2VtzqxCXjUX.gif"
+        }
+    ,{
+        "type": "ctaClick",
+        "url": "https://rs.mail.ru/pixel/CusGCO2D0m4Qi-rHDR25HH5qIBsoAmreAgjLowEVuRx-aiCBiKmIBCi3GDAQOAlAg_azR0jb_exWhQET1iUnlQEIf4dYoAGAAqkBC_WxAUuAuXjAAfnj29oN0AEBnQIAAIA_6ALU4JsN8AKs15hAiAWAArgFgJCQAdoFAJAGw6TsPZgGCagGZJgHKagHhR-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJCdgJhR-FCgAAgD-YCgGgCgHYCpEE5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFED0OF0HwEAT4ELwBgBECiBHH0-hyzRFaG35q0BEA2BGSTvARALATzAHAFADIFAGgFcGDgDDIFf___________wHQFf___________wGIFgGQFgCwFgC4FgDCFgkyNDA3ODk5NTnKFgh2a19ncm91cPAWsAH4FpJOiBfDpOw9qBcBcAGIAQm4AYACwAEKyAHkD-ABQLgC25OunwKQA8-ZzYCLHrIGEBkEmOLELLK64k6YNw8VZYmBB6MF1hiXx29s6gdC0J7QsdGK0Y_QstC70LXQvdC40LUgKNCa0YHQtdC90LjRjyB8INCf0YPRgtGMINCy0LXRgNGLKSAyMDI2LTA4LTEz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIAaoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICAKIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif"
+    }
+,{
+        "type": "ctaClick",
+        "url": "https://vk.ru/ads_light.php?act=mytarget_hit&d=yiJAEWVbDhoNXvSbhvoHzqMb17ciYj3QRxZLBoESkPjxSxlLXyu%2F6CytBh5z4c5L85BnKgW6jFk2KZ3vipXf8EYH9vu6n26tom8QNERQTlIENYlewszLUS5dW4ZGEL0%2BduWDf6oXefqM00oXZB3uQA%3D%3D"
+     }
+     ,{
+         "type": "click",
+         "url": "https://vk.ru/ads_light.php?act=mytarget_hit&d=yiJAEWVbDhoNXvSbhvoHzqMb17ciYj3QRxZLBoESkPjxSxlLXyu%2F6CytBh5z4c5L85BnKgW6jFk2KZ3vipXf8EYH9vu6n26tom8QNERQTlIENYlewszLUS5dW4ZGEL0%2BduWDf6oXefqM00oXZB3uQA%3D%3D"
+      }
+
+        ]
+    }
+
+,
+        };
+        if (!Array.isArray(window._MotionKit)) window._MotionKit = [];
+
+        const isInited = Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && (window.MotionKitSDK.isAsmInited("VKFeed") || window.MotionKitSDK.isAsmInited("DesignSystem"));
+
+        if (!isInited) {
+            scriptElement = document.createElement("script");
+            scriptElement.src = "https://ad.mail.ru/static/motion_lib.js";
+            scriptElement.id = "motion-ads-vk";
+            scriptElement.async = !0;
+            parentElement = document.getElementsByTagName("script")[0];
+            parentElement.parentNode.insertBefore(scriptElement, parentElement);
+        }
+        let containerForAd = document.querySelector('#' + 'b232030701_826977062');
+        const handler = (cnt = 10, timeout = 150) => {
+            setTimeout(() => {
+                containerForAd = document.querySelector('#' + 'b232030701_826977062');
+                const scriptForAd = document.getElementById('s232030701_826977062');
+                const sendPixelError = (msg, error) => {
+                    const pixelImg = new Image();
+                    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=${msg}&tpl=&p=20939&ptrn=vk_community_img_square&id=232030701&err=${error}&imp=8699125214882166027`;
+                };
+                if (containerForAd && window.MotionKit) {
+                  try {
+                    if (Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && !window.MotionKitSDK.isAsmInited("DesignSystem")) {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                      return;
+                    }
+                  } catch (e) {}
+                  window.MotionKit(config);
+                } else if (--cnt) {
+                    handler(cnt, timeout*2);
+                } else {
+                    if (!window.MotionKit) {
+                        sendPixelError(2, 'lib_init');
+                    }
+
+                    if (!containerForAd) {
+                        sendPixelError(311, 'lib_init');
+                    }
+                    try {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                    } catch (e) {}
+                }
+            }, timeout);
+        };
+        if (containerForAd && window.MotionKit) {
+            window.MotionKit(config);
+        } else {
+            handler();
+        }
+    })(window, document, "MotionKit");
+} catch (err) {
+    const pixelImg = new Image();
+    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=WebRenderError&tpl=&p=20939&ptrn=vk_community_img_square&id=232030701&err=${JSON.stringify(err)}&imp=8699125214882166027`;
+}
+
+
+ window.onload = function() {console.log('ready_window');AdsLight.mailAdsLeftReady();};БлогРазработчикамДля бизнесаАвторамЕщёИнформация о контентеCollabis.ruВы подписаныСообщениеЕщёПохожие сообществаЗакрытьВперед1K пользователейFlorapoint | программа для цветочногоПрограммное обеспечениеПодписаться15,5K пользователейАдмитадПрограммное обеспечениеПодписаться1,3K пользователей1C:ITILIUM — Service Desk, ITSM/ESM на 1СПрограммное обеспечениеПодписаться5,4K пользователейShakasportsПрограммное обеспечениеПодписаться1,3K пользователейКоманда F5 — внедрение amoCRMПрограммное обеспечениеПодписаться6,1K пользователейОрфограммкаПрограммное обеспечениеПодписаться26,5K пользователейКонтур.ДиадокПрограммное обеспечениеПодписаться2K пользователейКомпания IdecoПрограммное обеспечениеПодписаться27,8K пользователейЖенская одежда | Садовод 24-45ОбъявленияПодписаться2,3K пользователейWPShop — премиум темы и плагины WordPressПрограммное обеспечениеПодписаться85,9K пользователейTilda PublishingПрограммное обеспечениеПодписаться1,1K пользователейESET Nod 32/Свежие ключи 2026 / ЛицензияПрограммное обеспечениеПодписаться53,3K пользователейMy heartПриложениеПодписаться5,9K пользователейReactOS - последний оплот человечества!Программное обеспечениеПодписаться2,2K пользователейOggettoВеб-студияПодписаться3,6K пользователейЛИРА софтПрограммное обеспечениеПодписаться8,9K пользователейFARRUKH прямой поставщик 2д-10 к БОбъявленияПодписаться2,5K пользователейПределПриложениеПодписаться4K пользователейДомашняя бухгалтерияПрограммное обеспечениеПодписаться1,6K пользователейВладимир Балун | ПрограммированиеПрограммное обеспечениеПодписаться1,1K пользователейГардаПрограммное обеспечениеПодписаться1,7K пользователейTBS - поставка ПО (nanoCAD, Model Studio)Программное обеспечениеПодписаться9,2K пользователейОрганайзер ЛидерТаскПрограммное обеспечениеПодписаться1,1K пользователейРусские Решения. Автоматизация образования на 1СПрограммное обеспечениеПодписаться1,3K пользователейWatbotПрограммное обеспечениеПодписатьсяЧатыАдресаКлипыСтатьиCollabis - общение 10 участников Показать все 1Все постыПосты сообществаПоискCollabis.ruДействияДрузья, ищем команды для интервью по использованию системы  Мы в Collabis хотим лучше понимать, как работают команды в Collabis. Поэтому приглашаем вас на интервью - поболтаем о ваших процессах, и о пожеланиях. Что вы получите:  Месяц тарифа Про бесплатно Встроенный ИИ, много токенов, полные лимиты Возможность повлиять на то, каким будет Collabis Что нужно от вас:• Collabis использует команда от 3 человек• Готовность уделить полчаса на созвон и поделиться опытом Будет уютно и без скучных опросов.  Интересно? Пишите в личку Отправить реакцию «Лайк»Выбор реакции24 июнАлексей ВовкПодтверждённый аккаунтПодтверждённый аккаунтДействияДобрый день. Collabis отличный сервис, полноценная замена Notion. Хочу брать Про или Бизнес. Какие условия по AI на этих тарифах - количество запросов, токенов, какой объем на Про и какой на Бизнес?Отправить реакцию «Лайк»Выбор реакции122 июнСначала старыеCollabis.ruПожаловатьсяЗдравствуйте! Тарифицируются токены. Расход токенов зависит от дороговизны выбранной модели и объема контекста. Мы не раскрываем точные объемы токенов, но примерно месячный лимит равен сумме месячной подписки, это 1.5 тыс и 3 тыс руб. Если использовать режим "авто" то на тарифе Про это примерно 10 млн токенов в мес, на тарифе Бизнес 20 млн токенов. Дневной лимит это 25% от месячного.Показать ещё24 июн в 12:41ОтветитьПоделиться
+      
+        
+      
+      
+      
+        
+      
+    Написать комментарий...ПрикрепитьФотографияДобавить эмодзи или стикерОтправитьCollabis.ruДействияПодключайте Collabis к вашим #AI агентам  Вышла бета версия mcp сервера Коллабиса. Доступны операции с чтением и поиском по страницам.  Возможности писать в коллабис, создавать базы данных, двигать карточки по статусам, вести календарь и тд. будут добавлены позже. Пока только чтение и поиск по базе знаний. #mcp Подробнее collabis.ru/mcpПоказать ещёОтправить реакцию «Лайк»Выбор реакции7 маяАндрей СтабровскийДействияЗдравствуйте! Проблема при входе в приложение на андройд. Около недели работало нормально. Позже, при каждом входе стало просить авторизацию. Со вчерашнего дня не возможно войти, зависает на этапе авторизации. Пробовал все варианты. Пока пользуюсь веб-версией.Отправить реакцию «Лайк»Выбор реакции15 маяСначала старыеCollabis.ruПожаловатьсяЗдравствуйте, спустя час мы поправили проблему. 
+Сейчас все хорошо?5 мая в 16:27ОтветитьПоделиться
+      
+        
+      
+      
+      
+        
+      
+    Написать комментарий...ПрикрепитьФотографияДобавить эмодзи или стикерОтправитьCollabis - российский онлайн-редактор текстов, бесплатный для личного использования. Создавайте свою базу знаний, ведите заметки, делитесь ими с коллегами/друзьями/семьей. Присоединяйтесь к тысячам других пользователей и создавайте новые идеи вместе с нами!ЕщёПодробная информацияПодписчики134AnnaНаталияАлександрАлександрРина ФанировнаАннаМаксимТатьяна
+Anna Andreeva+7 ••• ••• •• 49Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить аккаунт
+ЗакрытьCollabis.ruДействия Календарь  Нас просили сделать календарь и теперь эта возможность доступна. Пока в веб версии, в мобильной будет попозже.  Если вы занимаетесь планированием, попробуйте - это все та же база данных, только в календарном виде.  И, конечно, делитесь своими календарями с коллегами, друзьями, знакомыми и заказчиками.  P.S. За последние 2 недели у нас в сервисе резко выросло количество тех, кто поделился своей страницей или редактирует её вместе с кем-то. Мы очень надеемся, что этот тренд продолжится и работаем над этим. Поэтому если у вас есть идеи того, чего не хватает в сервисе, чтобы все больше пользователей переходили к командному взаимодействию - пишите, будем рады Оценили 5 человекЛайкОтправить реакцию «Лайк»Выбор реакции27 марСначала старыеАндрей ТахтаровПожаловатьсяВот это уже неплохо27 мар в 13:28ОтветитьПоделиться1Поставить лайкПоставить лайкЕвгений БотоделовПожаловатьсясделайте помодоро для вас просто для дисциплины круто29 мар в 7:44ОтветитьПоделитьсяCollabis.ru·АвторПожаловатьсяЕвгений, здравствуйте! Вы можете добавить его через виджеты30 мар в 11:11ОтветитьПоделитьсяЕвгений БотоделовПожаловатьсяПривет!  Помогите, пожалуйста, разобраться с одной особенностью на платформе. Когда я пытаюсь вставить текст в заголовок, происходит либо удаление всего текста, который находится ниже (в описании), либо вставка уходит не в заголовок, а прямо в описание.
+Из-за этого теряется время, особенно когда текста много. Было бы здорово, если бы вы посмотрели, можно ли это как-то исправить.
+Заранее спасибо!  Вы лучшие!Показать ещё30 мар в 7:57ОтветитьПоделитьсяCollabis.ru·АвторПожаловатьсяЕвгений, передам в тестирование, спасибо за обратную связь 30 мар в 11:12ОтветитьПоделитьсяЕвгений Ботоделов·СообществуСообществуСообществуПожаловатьсяCollabis.ru, 30 мар в 11:14ОтветитьПоделитьсяCollabis.ru·АвторПожаловатьсяЕвгений, подскажите пожалуйста какой у вас браузер? Это веб версия?31 мар в 14:10ОтветитьПоделитьсяЕвгений Ботоделов·СообществуСообществуСообществуПожаловатьсяCollabis.ru, браузер фаирфокс какая версия не знаю не слежу за этим домой приду напишу вас еще сюда же сообщение31 мар в 15:23ОтветитьПоделиться1Поставить лайкПоставить лайк
+      
+        
+      
+      
+      
+        
+      
+    Написать комментарий...ПрикрепитьФотографияДобавить эмодзи или стикерОтправить
+
+[06] DATE_TIME
+Found: No
+Reason: Not found
+Text: N/A
+Datetime attr: N/A
+Title attr: N/A
+Selector: N/A
+
+[07] ROOT_CONTEXT
+Title: Collabis.ru
+URL: https://vk.ru/collabis?w=wall-228585143_222
+Title Selector: #group > div.vkit-YgvKvi.vkuiFlex__host > div.vkit-NX76G7 > div.vkuiFlex__host.vkuiFlex__justifySpaceBetween > div.vkui-flex-basis.vkuiRootComponent__host > h1.CommunityHead__groupName--4rPhH.vkuiDisplayTitle__densityCompact
+
+[08] COMMENT_URL
+Current URL: https://vk.ru/collabis?w=wall-228585143_222
+(No specific comment anchor detected automatically)
+
+[09] TRIANGLE_ANCHOR
+1. Position: After name
+   Element: DIV
+   Selector: #1053506253_231 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp > div.vkit-0wZYbU
+   Parent: #1053506253_231 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp
+   Description: Insert immediately after the author name element
+
+2. Position: Before name
+   Element: DIV
+   Selector: #1053506253_231 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp > div.vkit-0wZYbU
+   Parent: #1053506253_231 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp
+   Description: Insert immediately before the author name element
+
+3. Position: In header area
+   Element: SCRIPT
+   Selector: html:nth-child(1) > body.redesign_web.no_stl > script
+   Parent: html:nth-child(1) > body.redesign_web.no_stl
+   Description: Insert in the header area of the comment/post
+
+[10] PAGE_BEHAVIOR
+SPA Indicators: Framework script: react.4b5ee18f.js?1, history.pushState available
+History API: Yes
+Dynamic Load (3s): Not detected
+
+[11] SHADOW_DOM
+Has Shadow: No
+Reason: No shadowRoot detected on element or ancestors
+
+[12] CONTEXT_MENU
+(Manual inspection required - see separate scenario)
+
+[13] RAW_HTML
+<div class="vkit-0wZYbU"><a class="vkit-b0dQw7 vkit-HZ01vl vkuiInternalTappable vkuiLink__host vkuiLink__withUnderline vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__focusVisible vkuiRootComponent__host" target="_blank" data-testid="mention" href="/club228585143" aria-hidden="true" tabindex="-1" aria-expanded="false">Collabis.ru</a><span class="vkuiVisuallyHidden__host vkuiRootComponent__host"><button class="vkuiInternalTappable vkuiIconButton__host vkuiIconButton__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__focusVisible vkuiRootComponent__host" type="button"><span aria-hidden="true" class="vkuiTappable__stateLayer vkuiTappable__ripple"></span></button></span><span class="vkuiVisuallyHidden__host vkuiRootComponent__host"><button class="vkuiInternalTappable vkuiIconButton__host vkuiIconButton__densityCompact vkuiTappable__host vkuiTappable__withBorderOnSmallTabletMinus vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__focusVisible vkuiRootComponent__host" type="button" aria-expanded="false"><span aria-hidden="true" class="vkuiTappable__stateLayer vkuiTappable__ripple"></span></button></span>, браузер фаирфокс какая версия не знаю не слежу за этим домой приду напишу вас еще сюда же сообщение</div>
+
+[14] SELECTORS
+Primary: #1053506253_231 > div.vkit-9swaGy > div.vkit-ecJRBd > div.vkit-6JfybE > div.vkit-BUDuES > span.vkuiHeadline__densityCompact.vkuiHeadline__level1 > div.vkit-W8pHpr.vkit-dKbXpA > div.vkit-ewZ0L2.vkitInternalFeedShowMoreTextTextClamp > div.vkit-0wZYbU
+Reason: Has classes: vkit-0wZYbU; Generated path from DOM tree
+
+[15] NOTES
+- Entity candidates should be manually verified
+- Event container may need adjustment
+- Date format should be validated
+- Triangle anchor position #1 is recommended default
+
+=== END REPORT ===

@@ -1,0 +1,1457 @@
+=== PORTAL INSPECTION ===
+
+PORTAL: vk.ru
+PAGE_TYPE: Unknown (manual inspection)
+URL: https://vk.ru/feed?w=wall-234325978_1730
+DATE: 13.08.2026
+TIME: 22:55:33
+ENTITY_TYPE: Author/Persona (inferred)
+ENTITY_NAME: Онлайн школа резьбы по дереву | Евгений Данилюк
+EVENT_TYPE: Comment/Post (inferred)
+SOURCE_CONTEXT: Лента новостей
+
+=== END HEADER ===
+
+[01] PAGE
+URL: https://vk.ru/feed?w=wall-234325978_1730
+Hostname: vk.ru
+Title: Лента новостей
+
+[02] SELECTED_ENTITY
+Tag: DIV
+ID: none
+Class: vkit-ewZ0L2 vkit-VbEObC vkit-5ara8E vkuiHeadline__densityCompact vkuiHeadline__level1 vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight2 vkuiTypography__accent vkuiRootComponent__host
+Selector: #-234325978_1737 > div.vkit-9swaGy > div.vkit-aBWtJI > div.vkuiFlex__host.vkuiFlex__alignCenter > h4.vkuiFlex__host.vkuiFlex__alignCenter > a.vkit-b0dQw7.vkit-eqBxtI > div.vkit-ewZ0L2.vkit-VbEObC
+Text: Онлайн школа резьбы по дереву | Евгений Данилюк
+Attributes:
+  - class: vkit-ewZ0L2 vkit-VbEObC vkit-5ara8E vkuiHeadline__densityCompact vkuiHeadline__level1 vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight2 vkuiTypography__accent vkuiRootComponent__host
+  - data-testid: comment-owner
+  - mode: primary
+
+[03] ENTITY_CANDIDATES
+1. Type: HREF
+   Value: https://vk.ru/kursporezbe
+   Source: Nearest <a> tag
+
+2. Type: DATA_ATTR
+   Value: comment-owner
+   Source: DIV[data-testid]
+
+3. Type: PARENT_HREF
+   Value: /kursporezbe
+   Source: Parent <a>
+   Depth: 0
+
+
+[04] EVENT_CONTAINER
+Selector: html:nth-child(1) > body.redesign_web.no_stl
+Reason: Fallback to body or nearest parent
+Depth: -1
+Preview: <body onresize="window.onBodyResize?.();" class="redesign_web no_stl" scheme="vkcom_light" data-useragent="chrome"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; width: 0; height: 0;" aria-hidden="true"><symbol width="24" height="24" vie
+
+[05] EVENT_TEXT
+Found: Yes
+Reason: Extracted from container
+Text: elements/checkbox_active
+ПоискОчистить полеНайтиУведомленияАудиоплеерНастройки профиляПрофильЛентаМессенджерЗвонкиДрузьяСообществаКлипыСтикерыМаркетСервисыГолосаЯндекс БраузерЗакладкиФайлыРекламаПомощь
+
+
+
+
+
+
+
+
+
+
+
+#trg-b-meta266-3576325490.trg-b-banner-block {visibility: visible !important;display: table !important;font-size: 12px!important;font-family: -apple-system,BlinkMacSystemFont,Roboto,Open Sans,Helvetica Neue,sans-serif!important;overflow: hidden!important;}#trg-b-meta266-3576325490.trg-b-banner-block .trg-b-list_vk-left {list-style: none!important;margin: 0!important;padding: 0!important;display: flex;flex-direction: column;gap: 16px;}#trg-b-meta266-3576325490.trg-b-banner-block .trg-b-banner {overflow: hidden!important;word-wrap: break-word!important;position: relative!important;z-index: 2!important;width: 145px!important;display: block!important;text-align: left!important;margin: 15px 0 13px!important;padding: 0 0 13px 0!important;}#trg-b-meta266-3576325490.trg-b-banner-block .trg-b-banner:after {content: ''!important;border-bottom: 1px solid #e2e6ed!important;position: absolute!important;height: 0px!important;bottom: 0!important;left: 0!important;right: 0!important;z-index: 1!important;}#trg-b-meta266-3576325490.trg-b-banner-block .trg-b-contact {padding: 0px 0 4px!important;font-size: 11px!important;text-align: left!important;}#trg-b-meta266-3576325490.trg-b-banner-block .trg-b-contact__link {color: #939699!important;text-decoration: none!important;cursor: pointer!important;}#trg-b-meta266-3576325490.trg-b-banner-block .trg-b-contact__link:hover {text-decoration: underline!important;}.tgb_hide {display: none !important;}
+
+
+
+
+
+
+
+    
+    
+    
+        
+        
+    
+
+
+
+
+
+    
+
+
+Курс «Аналитик данных» с нуляОсвойте востребованную профессию...Подать заявкуРеклама16+
+
+try {
+    (function () {
+        const config = {
+            container: "b231825714_2089703302",
+            priced_event_type: "51",
+            banner: 
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    
+    
+            
+        
+    {
+        "id": 231825714,
+        "type": "motion-ads",
+        "creativeType": "vkSideBar_site_newDesign",
+
+        "banner_template_id": 176,
+        "pattern": {
+            "name": "leadads_image_600x600",
+            "group": "multiformat",
+            "subgroup": "square"
+        },
+        "pad_id": "20939",
+        "impression_id": "4293472369577850682",
+        "adLabel": {
+            "show": true,
+            "text": "Реклама"},
+
+        "openLinkInPopup": true,
+        "width": "158px",
+        "trackingLink": "https://ads.vk.ru/public/leadform?type=leadform&d=1PJs7n3rPuLempN623%2BPJ3QoLunqHKZvt9y2fahSDAOxK8Xh34PWX3M6s%2FN3XPVC8QGInrCVvOmzK7ZOrdAfssCJSm%2Fw9A%2B6BgbQpT9wZxviJxFPXx8vf%2BWthsRpKXQ5ABa3ZmJlNBQtiocRNn7uQA%3D%3D",
+        "isDarkTheme": false,
+        "rounded": "0",
+
+        "image": {
+                "width": 240,"height": 240,"src": "https://r.mradx.net/imgs/f4/9f/278dcdda0f14fc03.png"
+            },
+        "icon": {
+                "type": "static",
+                "src": "https://r.mradx.net//imgs/ae/96/160e08a7a452df99.png"
+            },
+        "ctaText": "Подать заявку",
+        "title": "Курс «Аналитик данных» с нуля",
+        "linkTitle": "Записаться со скидкой 50%",
+        "description": "Освойте востребованную профессию \"Аналитик данных\" с нуля за 6 месяцев со скидкой 50%",
+        "ageRestrictions": "16+",
+        "domain": "",
+            "trackingLinkUrlTypes": "lead_form",
+        "trackingLinkTrackerTypes": "0",
+        "url_types": "lead_form",
+        "clickArea": 4096,
+"openInBrowser": false,
+
+        "viewability": {
+            "isHbid": false,"hbidID": "","percent": 50,"duration": false
+        },
+        "audits": [
+            
+        ],
+
+        "disableClickArea": "true",
+        "adChoices": {
+    "iconLink": "https://r.mradx.net/imgs/2a/38/fda5014ca5824c9a.svg",
+    "closeUrl": "https://rs.mail.ru/pixel/CtsICLLCxW4Quu6RjQUdsiB-aiAbKAJqmQQIy6MBFbIgfmog6fODDiiPGTCQgAE4zwRA1JSpR0iWwqpWUM8EWA5gAXVkFwY6fWQXBjqFAZS_HCeVAQh_h1igAYACqQE6d6RRX3qVO8ABjcv01ATQAQGdAgAAgD_oAuXq0gzwAqOwkT7NA39V2pbVA_d8INuIBYACrQX9Z3Q7uAWAkJAB2gUAkAaYx_o4mAbPBKgG6AfyBgv_yJYz-_aZCCuLA5gHM6gHnvQSsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCc4E2Ame9BKFCgAAgD-YCgGgCgHYCvsD5QoAAIA_oAvPBKgLCMALw-YCggwK2-794QmKpMe-BKoML7-i2bEBktGpBMuH4pECyqK3rgHHksMk-rWS2QHUw8O8AaqfxsQB1emjCYWeqvED4A3MBugNArIOAMoOBgjb3hYQAOoODgoFdmsucnUSBTIwOTM5gg8EgK3iBKIPBaiu4gRSsA-wAcAPAsoPA2FkcfgPgezbiwKAEBW1EAAAgD-6EADFEKm9E0TwEAT4ELwBgBEC0BEA2BGEAfAR84Ix_RP9Z3Q7wBQAyBQB3RT9Z3Q74BQO9RRkFwY6mBUOoBXhgYAwyBX___________8B0BX___________8B_RXDBAA2hRYAAIA_iBYBkBYasBYAuBYAwhYGODAzMTg3yhYJbGVhZF9mb3Jt8BawAfgWhAGIF5jH-jioFwFwAYgBCbgBgALAASPIAQHgAUC4AtuTrp8CwgJi_jgEAQICAwIBAQECDggHAh8BBg0IAwECAQICrQgHA7YBeQOdAssBpQHdBQI4AQEBAggCDAECM_gJWQYBywQBAQYD8gGDAwIBSwMBAQGnAboD7BqNGcwciQcK9AwFAcwEsCuQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcRYmFubmVyMl9uZXdfdGV4dDLwB61G8AekTvAHwK0S8AfW4WfwB9_iZ_AH2dTlBPAHjN3lBPAHsurlBPAHg4jmBPAHhYjmBPAHh4jmBPAH2armBPAHo7_mBPAHwe5tkAgEqghzChAKC2RldmljZV90eXBlEgExChsKDXN0YWJsZXRyYWZmaWMSCmFkLm1haWwucnUKDAoEYmRzeRIEZ29vZAoTCgl2aWRzb3VyY2USBmhlYWRlcgoNCgVpc3JlZhIEdHJ1ZQoQCgtoYXNfdmtfYXV0aBIBMMgI6gGIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif?reason=",
+    "aboutCompanyLink": "https://ads.vk.ru/adv_info?id=AACn_wFOqJI0eArxnLcsXvHnoFXEcaTdLqwBUyY2JYi02H6M-jNS8h9lpchzbFCrKX0h-CVHe04fjI_w9Uw1xRQIpmJ_tUJvzrb2jpu-QmIShaoWYtgkOq-IcTQi2joh_Ekja5bQuYSmEafQ2mwIy8lJd1Z_EbWjzmcOioLUhxhfzb1hlZtU4F8JAAAAfdyAGRJHKDHmTf0nmbt21g",
+    "marker": "2VtzqwYGqhD",
+    "tabs": {
+         "main": {
+            "items": [
+              {
+                "text": "Скрыть объявление",
+                "iconUrl": "https://r.mradx.net/imgs/63/8e/d4b28cc0b905374f.svg",
+                "name": "hide",
+                "action": "hide"
+              },
+              {
+                "text": "Пожаловаться",
+                "iconUrl": "https://r.mradx.net/imgs/cf/aa/a8655ac54f10b068.svg",
+                "name": "complain",
+                "action": "complain"
+              },
+              {
+                "text": "О рекламодателе",
+                "iconUrl": "https://r.mradx.net/imgs/ee/63/84ed4e4a5ae73316.svg",
+                "name": "about",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/adv_info?id=AACn_wFOqJI0eArxnLcsXvHnoFXEcaTdLqwBUyY2JYi02H6M-jNS8h9lpchzbFCrKX0h-CVHe04fjI_w9Uw1xRQIpmJ_tUJvzrb2jpu-QmIShaoWYtgkOq-IcTQi2joh_Ekja5bQuYSmEafQ2mwIy8lJd1Z_EbWjzmcOioLUhxhfzb1hlWjGiEoJAAAA4qcvF3NxGuScfTAcMy1_Uw"
+              },
+              {
+                "text": "Скопировать ссылку",
+                "name": "copyUrl",
+                "action": "copy",
+                "actionValue": "https://ads.vk.ru/public/leadform?type=leadform&d=1PJs7n3rPuLempN623%2BPJ3QoLunqHKZvt9y2fahSDAOxK8Xh34PWX3M6s%2FN3XPVC8QGInrCVvOmzK7ZOrdAfssCJSm%2Fw9A%2B6BgbQpT9wZxviJxFPXx8vf%2BWthsRpKXQ5ABa3ZmJlNBQtiocRNn7uQA%3D%3D",
+                "iconUrl": "https://r.mradx.net/imgs/b6/09/93a837dc06183017.svg"
+              },
+              {
+                "text": "Скопировать ERID (2VtzqwYGqhD)",
+                "iconUrl": "https://r.mradx.net/imgs/cf/e5/32db22916648f14d.svg",
+                "name": "copyErid",
+                "action": "copy",
+                "actionValue": "2VtzqwYGqhD"
+              },
+              {
+                "text": "Правила рекомендаций",
+                "name": "rules",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/documents/recommendation",
+                "iconUrl": "https://r.mradx.net/imgs/37/c0/ca37933876686dcd.svg"
+              },
+              {
+                "text": "VK Реклама",
+                "name": "VKAds",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/",
+                "iconUrl": "https://r.mradx.net/imgs/df/92/6fb16c27a25e2c38.svg"
+              }
+            ]
+          },
+          "hide": {
+            "closeInfo": "Ваши ответы помогают нам подбирать более качественную рекламу",
+            "header": "Уточните причину:",
+            "closeTitle": "Объявление скрыто",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 1, "text": "Не интересно", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 2, "text": "Уже приобретено", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 3, "text": "Вижу слишком часто", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "complain": {
+            "header": "Уточните причину:",
+            "closeInfo": "Модератор скоро проверит объявление",
+            "closeTitle": "Жалоба отправлена",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 4, "text": "Оскорбительное содержание", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 5, "text": "Сексуальный подтекст", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 6, "text": "Нарушение закона", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 7, "text": "Мошеннический сайт", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "closed": {
+            "items": [
+              {
+                "name": "closeTitle"
+              },
+              {
+                "name": "closeInfo"
+              }
+            ]
+          }
+    }
+}
+,
+        "statistics": [
+
+
+
+{
+        "target": "banner",
+         "type": "playheadViewabilityValue",
+         "url": "https://rs.mail.ru/pixel/CoAJCLLCxW4Quu6RjQUdsiB-aiAbKAJqqAQIy6MBFbIgfmoYzwQg6fODDiiPGTCQgAE4zwRA1JSpR0iWwqpWUM8EWA5gAXVkFwY6fWQXBjqFAZS_HCeVAQh_h1iYAc8EoAGAAqkBOnekUV96lTvAAY3L9NQE0AEBnQIAAIA_6ALl6tIM8AKjsJE-zQN_VdqW1QP3fCDbiAWAAq0F_Wd0O7gFgJCQAdoFAJAGmMf6OJgGzwSoBugH8gYL_8iWM_v2mQgriwOYBzOoB570ErAHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds0AnOBNgJnvQShQoAAIA_iArPBJAKzwSYCgGgCgHYCvsD5QoAAIA_oAvPBKgLCMALw-YCggwK2-794QmKpMe-BKoML7-i2bEBktGpBMuH4pECyqK3rgHHksMk-rWS2QHUw8O8AaqfxsQB1emjCYWeqvED4A3MBugNArIOAMoOBgjb3hYQAOoODgoFdmsucnUSBTIwOTM5gg8EgK3iBKIPBaiu4gRSsA-wAcAPAsoPA2FkcfgPgezbiwKAEBW1EAAAgD-6EADFEKm9E0TwEAT4ELwBgBEC0BEA2BGEAfAR84Ix_RP9Z3Q7wBQAyBQB3RT9Z3Q74BQO9RRkFwY6mBUOoBXhgYAwyBX___________8B0BX___________8B_RXDBAA2hRYAAIA_iBYBkBYasBYAuBYAwhYGODAzMTg3yhYJbGVhZF9mb3Jt8BawAfgWhAGIF5jH-jioFwFwAYgBCbgBgALgAUC4AtuTrp8CwgJi_jgEAQICAwIBAQECDggHAh8BBg0IAwECAQICrQgHA7YBeQOdAssBpQHdBQI4AQEBAggCDAECM_gJWQYBywQBAQYD8gGDAwIBSwMBAQGnAboD7BqNGcwciQcK9AwFAcwEsCuQA8-ZzYCLHpoFCwgDEAEYssLFbiAImgULCAMQARiywsVuKB6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHEWJhbm5lcjJfbmV3X3RleHQy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOoBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+         "duration": 0,
+         "viewablePercent": 50
+         },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCLLCxW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog6fODDiiPGTCQgAE4zwRA1JSpR0iWwqpWhQGUvxwnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3L9NQE0AEBnQIAAIA_6ALl6tIM8AKjsJE-iAWAArgFgJCQAdoFAJAGmMf6OJgGzwSoBugHmAczqAee9BKwBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJzgTYCZ70EoUKAACAP5gKAaAKAdgK-wPlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQqb0TRPAQBPgQvAGAEQLQEQDYEYQB8BHzgjHAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFhqwFgC4FgDCFgY4MDMxODfKFglsZWFkX2Zvcm3wFrAB-BaEAYgXmMf6OKgXAXABiAEJuAGAAsABCsgBiQjgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHEWJhbm5lcjJfbmV3X3RleHQy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOoBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "error"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCLLCxW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog6fODDiiPGTCQgAE4zwRA1JSpR0iWwqpWhQGUvxwnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3L9NQE0AEBnQIAAIA_6ALl6tIM8AKjsJE-iAWAArgFgJCQAdoFAJAGmMf6OJgGzwSoBugHmAczqAee9BKwBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJzgTYCZ70EoUKAACAP5gKAaAKAdgK-wPlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQqb0TRPAQBPgQvAGAEQLQEQDYEYQB8BHzgjHAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFhqwFgC4FgDCFgY4MDMxODfKFglsZWFkX2Zvcm3wFrAB-BaEAYgXmMf6OKgXAXABiAEJuAGAAsABCsgBnxHgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHEWJhbm5lcjJfbmV3X3RleHQy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOoBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "isBot"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCLLCxW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog6fODDiiPGTCQgAE4zwRA1JSpR0iWwqpWhQGUvxwnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3L9NQE0AEBnQIAAIA_6ALl6tIM8AKjsJE-iAWAArgFgJCQAdoFAJAGmMf6OJgGzwSoBugHmAczqAee9BKwBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJzgTYCZ70EoUKAACAP5gKAaAKAdgK-wPlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQqb0TRPAQBPgQvAGAEQLQEQDYEYQB8BHzgjHAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFhqwFgC4FgDCFgY4MDMxODfKFglsZWFkX2Zvcm3wFrAB-BaEAYgXmMf6OKgXAXABiAEJuAGAAsABCsgBoBHgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHEWJhbm5lcjJfbmV3X3RleHQy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOoBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "isCold"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CrMGCLLCxW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog6fODDiiPGTCQgAE4zwRA1JSpR0iWwqpWhQGUvxwnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3L9NQE0AEBnQIAAIA_6ALl6tIM8AKjsJE-iAWAArgFgJCQAdoFAJAGmMf6OJgGzwSoBugHmAczqAee9BKwBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJzgTYCZ70EoUKAACAP5gKAaAKAdgK-wPlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQqb0TRPAQBPgQvAGAEQLQEQDYEYQB8BHzgjHAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFhqwFgC4FgDCFgY4MDMxODfKFglsZWFkX2Zvcm3wFrAB-BaEAYgXmMf6OKgXAXABiAEJuAGAAsABCsgBoRHgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHEWJhbm5lcjJfbmV3X3RleHQy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOoBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "check"
+    },
+    {
+        "type": "viewabilityDuration",
+        "url": "https://rs.mail.ru/pixel/CrMGCLLCxW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog6fODDiiPGTCQgAE4zwRA1JSpR0iWwqpWhQGUvxwnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3L9NQE0AEBnQIAAIA_6ALl6tIM8AKjsJE-iAWAArgFgJCQAdoFAJAGmMf6OJgGzwSoBugHmAczqAee9BKwBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJzgTYCZ70EoUKAACAP5gKAaAKAdgK-wPlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQqb0TRPAQBPgQvAGAEQLQEQDYEYQB8BHzgjHAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFhqwFgC4FgDCFgY4MDMxODfKFglsZWFkX2Zvcm3wFrAB-BaEAYgXmMf6OKgXAXABiAEJuAGAAsABCsgBhCDgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHEWJhbm5lcjJfbmV3X3RleHQy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOoBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    },
+    {
+        "type": "render",
+        "url": "https://rs.mail.ru/pixel/CrMGCLLCxW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog6fODDiiPGTCQgAE4zwRA1JSpR0iWwqpWhQGUvxwnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3L9NQE0AEBnQIAAIA_6ALl6tIM8AKjsJE-iAWAArgFgJCQAdoFAJAGmMf6OJgGzwSoBugHmAczqAee9BKwBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJzgTYCZ70EoUKAACAP5gKAaAKAdgK-wPlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQqb0TRPAQBPgQvAGAEQLQEQDYEYQB8BHzgjHAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFhqwFgC4FgDCFgY4MDMxODfKFglsZWFkX2Zvcm3wFrAB-BaEAYgXmMf6OKgXAXABiAEJuAGAAsABCsgBmRHgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHEWJhbm5lcjJfbmV3X3RleHQy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOoBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    }
+    ,{
+        "type": "click",
+        "url": "https://rs.mail.ru/pixel/CrYJCLLCxW4Quu6RjQUdsiB-aiAbKAJq1QQIy6MBFbIgfmog6fODDiiPGTCQgAE4zwRA1JSpR0iWwqpWUM8EWA5gAXVkFwY6fWQXBjqFAZS_HCeVAQh_h1igAYACqQE6d6RRX3qVO8ABjcv01ATQAQGdAgAAgD_oAuXq0gzwAqOwkT7NA39V2pbVA_d8INuIBYACrQX9Z3Q7uAWAkJAB2gUAkAaYx_o4mAbPBKgG6AfyBgv_yJYz-_aZCCuLA5gHM6gHnvQSsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCc4E2Ame9BKFCgAAgD-YCgGgCgGtCqnjSWCtCq4_7e6tCoOuTuCtCnGDfputCnGDfputClU6Xq2tCgUdr5utCg9Fop6tCtCDtO6tCor01h3YCvsD5QoAAIA_oAvPBKgLCMALw-YCggwK2-794QmKpMe-BKoML7-i2bEBktGpBMuH4pECyqK3rgHHksMk-rWS2QHUw8O8AaqfxsQB1emjCYWeqvED4A3MBugNArIOAMoOBgjb3hYQAOoODgoFdmsucnUSBTIwOTM5gg8EgK3iBKIPBaiu4gRSsA-wAcAPAsoPA2FkcfgPgezbiwKAEBW1EAAAgD-6EADFEKm9E0TwEAT4ELwBgBEC0BEA2BGEAfAR84Ix_RP9Z3Q7wBQAyBQB3RT9Z3Q74BQO9RRkFwY6mBUOoBXhgYAwyBX___________8B0BX___________8B_RXDBAA2hRYAAIA_iBYBkBYasBYAuBYAwhYGODAzMTg3yhYJbGVhZF9mb3Jt8BawAfgWhAGIF5jH-jioFwFwAYgBCbgBgALAAQHgAUDqAQ4Aex03TI84ITcYP99SALgC25OunwLCAmL-OAQBAgIDAgEBAQIOCAcCHwEGDQgDAQIBAgKtCAcDtgF5A50CywGlAd0FAjgBAQECCAIMAQIz-AlZBgHLBAEBBgPyAYMDAgFLAwEBAacBugPsGo0ZzByJBwr0DAUBzASwK8gCAZADz5nNgIsemgULCAMQAhiywsVuIAiyBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHEWJhbm5lcjJfbmV3X3RleHQy8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICOoBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRxGhUBGWU6xBUdql4q1z7kFsC1TNaSmaE:2VtzqwYGqhD.gif"
+        }
+
+        ]
+    }
+
+,
+        };
+        if (!Array.isArray(window._MotionKit)) window._MotionKit = [];
+
+        const isInited = Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && (window.MotionKitSDK.isAsmInited("VKFeed") || window.MotionKitSDK.isAsmInited("DesignSystem"));
+
+        if (!isInited) {
+            scriptElement = document.createElement("script");
+            scriptElement.src = "https://ad.mail.ru/static/motion_lib.js";
+            scriptElement.id = "motion-ads-vk";
+            scriptElement.async = !0;
+            parentElement = document.getElementsByTagName("script")[0];
+            parentElement.parentNode.insertBefore(scriptElement, parentElement);
+        }
+        let containerForAd = document.querySelector('#' + 'b231825714_2089703302');
+        const handler = (cnt = 10, timeout = 150) => {
+            setTimeout(() => {
+                containerForAd = document.querySelector('#' + 'b231825714_2089703302');
+                const scriptForAd = document.getElementById('s231825714_2089703302');
+                const sendPixelError = (msg, error) => {
+                    const pixelImg = new Image();
+                    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=${msg}&tpl=&p=20939&ptrn=leadads_image_600x600&id=231825714&err=${error}&imp=4293472369577850682`;
+                };
+                if (containerForAd && window.MotionKit) {
+                  try {
+                    if (Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && !window.MotionKitSDK.isAsmInited("DesignSystem")) {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                      return;
+                    }
+                  } catch (e) {}
+                  window.MotionKit(config);
+                } else if (--cnt) {
+                    handler(cnt, timeout*2);
+                } else {
+                    if (!window.MotionKit) {
+                        sendPixelError(2, 'lib_init');
+                    }
+
+                    if (!containerForAd) {
+                        sendPixelError(311, 'lib_init');
+                    }
+                    try {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                    } catch (e) {}
+                }
+            }, timeout);
+        };
+        if (containerForAd && window.MotionKit) {
+            window.MotionKit(config);
+        } else {
+            handler();
+        }
+    })(window, document, "MotionKit");
+} catch (err) {
+    const pixelImg = new Image();
+    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=WebRenderError&tpl=&p=20939&ptrn=leadads_image_600x600&id=231825714&err=${JSON.stringify(err)}&imp=4293472369577850682`;
+}
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+    
+    
+    
+    
+    
+
+    
+
+
+ЖмиШкола современной музыки Баста х Синергия...ПодробнееРеклама0+
+
+try {
+    (function () {
+        const config = {
+            container: "b231627063_547476727",
+            priced_event_type: "51",
+            banner: 
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+
+        
+            
+            
+            
+        
+            
+            
+            
+            
+            
+        
+
+
+
+
+
+
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+        
+        
+    
+                
+
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+    {
+        "id": 231627063,
+        "type": "motion-ads",
+        "creativeType": "vkSideBar_site_newDesign",
+
+        "banner_template_id": 176,
+        "pattern": {
+            "name": "leadads_video_portrait_4_5_30s_optional_description",
+            "group": "video",
+            "subgroup": "portrait"
+        },
+        "pad_id": "20939",
+        "impression_id": "4293472369577850682",
+        "adLabel": {
+            "show": true,
+            "text": "Реклама"},
+
+        "openLinkInPopup": false,
+        "width": "158px",
+        "trackingLink": "https://ads.vk.ru/public/leadform?type=leadform&d=H1k6QX5sj8XxMES8JXYaO%2BhGXx8DyEN6CdGjO0oKaQDXHJsKODErAcMl01AW21iIp5VHe8noyv5poSdLN6JVB%2F1PHMlIQmZF2LCgXYqy0WTBGerAKbjYV15WmYztDub2hi1mMbq4zUHl0Mb5suvsRQ%3D%3D",
+        "isDarkTheme": false,
+        "rounded": "0",
+
+        "icon": {
+                "type": "static",
+                "src": "https://r.mradx.net/imgs/df/f9/b7a50c533e8571e9.jpg"
+            },
+        "video": {
+                "mediafiles": [
+    {
+        "format": "mp4",
+        "src": "https://vd480.okcdn.ru/?expires=1786737202269&srcIp=88.135.127.8&pr=55&srcAg=CHROME&ms=95.163.35.95&type=3&sig=3MubnGKN6JY&ct=0&urls=185.180.203.24&clientType=28&zs=21&id=17919353162457",
+        "width": 720,
+        "height": 900
+    }
+
+
+
+    ,{
+        "format": "mp4",
+        "src": "https://vd480.okcdn.ru/?expires=1786737202269&srcIp=88.135.127.8&pr=55&srcAg=CHROME&ms=95.163.35.95&type=1&sig=r94jfuuJ5xk&ct=0&urls=185.180.203.24&clientType=28&zs=21&id=17919353162457",
+        "width": 360,
+        "height": 450
+    }
+
+
+
+    ,{
+        "format": "mp4",
+        "src": "https://vd480.okcdn.ru/?expires=1786737202269&srcIp=88.135.127.8&pr=55&srcAg=CHROME&ms=95.163.35.95&type=4&sig=PXJfKTOuCr0&ct=0&urls=185.180.203.24&clientType=28&zs=21&id=17919353162457",
+        "width": 144,
+        "height": 180
+    }
+
+
+    ,{
+        "format": "mp4",
+        "src": "https://vd480.okcdn.ru/?expires=1786737202269&srcIp=88.135.127.8&pr=55&srcAg=CHROME&ms=95.163.35.95&type=2&sig=NCIWT27wggM&ct=0&urls=185.180.203.24&clientType=28&zs=21&id=17919353162457",
+        "width": 480,
+        "height": 600
+    }
+],
+                "duration": 6,
+                 "evMovieId": 15741246650329,
+                 "videoBackground": {
+                         "src": "https://r.mradx.net//imgs/7e/99/16588308f082fec1.jpg"
+                         ,"width": 1080,"height": 1350},
+                 "autoplay": true,
+                "automute": true,
+                "autoReplay": true},
+        "ctaText": "Подробнее",
+        "title": "Жми",
+        "linkTitle": "Жми",
+        "description": "Школа современной музыки Баста х Синергия открывает набор на онлайн-курс по битмейкингу.\n\nНа курсе ты:\n\n— познакомишься с профессией и инструментами битмейкера;\n— освоишь работу в музыкальной программе DAW;\n— научишься создавать ритм, мелодию и гармонию;\n— разберёшься в композиции и структуре трека;\n— освоишь обработку звука и подготовку материала к презентации.\n\nОбучение построено на практике. Итогом станет собственный инструментальный трек или мини-проект, который можно добавить в портфолио.\n\nПродолжительность курса — 3 месяца, формат — онлайн.\n\nОставь заявку и узнай все подробности!",
+        "ageRestrictions": "0+",
+        "domain": "",
+            "trackingLinkUrlTypes": "lead_form",
+        "trackingLinkTrackerTypes": "0",
+        "url_types": "lead_form",
+        "clickArea": 4096,
+"openInBrowser": false,
+
+        "viewability": {
+            "isHbid": false,"hbidID": "","percent": 50,"duration": false
+        },
+        "audits": [
+            
+        ],
+
+        "disableClickArea": "true",
+        
+"adChoices": {
+    "iconLink": "https://r.mradx.net/imgs/2a/38/fda5014ca5824c9a.svg",
+    "closeUrl": "https://rs.mail.ru/pixel/CpEJCLeyuW4Quu6RjQUdsiB-aiAbKAJqlgQIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWUMgDWA5gA3VTgQ46fVOBDjqFASqUEyeVAQh_h1igAYACqQE6d6RRX3qVO8ABjcnWgA3QAQGdAgAAgD_oAqSx_wrwArXL6jzNA76xAyjVA_d8INuIBYACrQVKtFM7uAWAkJAB2gUAkAbel708mAbIA6gG6AfyBg_Dkr0d_MyTHQICAYMFAQGYBzOoB5_rD7AHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds0AnHA9gJoOsPhQoAAIA_mAoBoAoB2AqpAeUKAACAP6ALyAOoCwjAC8PmAoIMCtvu_eEJiqTHvgSqDC-_otmxAZLRqQTLh-KRAsqit64Bx5LDJPq1ktkB1MPDvAGqn8bEAdXpowmFnqrxA-ANzAboDQKyDgDqDg4KBXZrLnJ1EgUyMDkzOYIPBICt4gSiDwSAreIEsA-wAcAPAsoPA2FkcfgPvdXnuA2AEBWIEAW1EAAAgD-6EADFELrW40PwEAT4ELwBgBEC0BEA2BGSTvARqPg3_RNKtFM7wBQAyBQB3RRKtFM74BQO9RRTgQ46mBUOoBXhgYAwyBX___________8B0BX___________8B_RXnses1hRYAAIA_iBYBkBZ2sBYAuBYAwhYGOTE2NTIwyhYJbGVhZF9mb3Jt8BawAfgWkk6IF96XvTyoFwFwAYgBCbgBgALAASPIAQHgAUC4AtuTrp8CwgJi_jgEAQICAwIBAQECDggHAh8BBg0IAwECAQICrQgHA7YBeQOdAssBpQHdBQI4AQEBAggCDAECM_gJWQYBywQBAQYD8gGDAwIBSwMBAQGnAboD7BqNGcwciQcK9AwFAcwEsCuQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gdK0JrQvtC_0LjRj18yINCa0L7Qv9C40Y8g0L3QsNGH0LjQvdCw0Y7RidC40LUv0YfQtdGA0L0v0LHQuNGC0LzQtdC50LrQuNC90LPwB61G8AekTvAHwK0S8AfW4WfwB9_iZ_AH2dTlBPAHjN3lBPAHsurlBPAHg4jmBPAHhYjmBPAHh4jmBPAH2armBPAHo7_mBPAHwe5tkAgEqghzChAKC2RldmljZV90eXBlEgExChsKDXN0YWJsZXRyYWZmaWMSCmFkLm1haWwucnUKDAoEYmRzeRIEZ29vZAoTCgl2aWRzb3VyY2USBmhlYWRlcgoNCgVpc3JlZhIEdHJ1ZQoQCgtoYXNfdmtfYXV0aBIBMMgI7QGIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHE.gif?reason=",
+    "aboutCompanyLink": "https://ads.vk.ru/adv_info?id=AACn_wFOqJI0eArxnLcsXvHnoFXEcaTdLqwBUyY2JYi02H6M-jNS8h9lpchzbFCrKX0h-CVHe04fjI_w9Uw1xRQIpmJ_tUJvzrb2jpu-QmIShaoWYtgkOq-IcTQi2joh_Ekja5bQuYSmEafQ2mwIy8lJd1Z_EbWjzmcOioLUhxhfzb1hlfp4ZigJAAAAq_yUN4QYSBb2tZXBFmeDeg",
+    "marker": "2Vtzqv8TjFq",
+    "tabs": {
+         "main": {
+            "items": [
+              {
+                "text": "Скрыть объявление",
+                "iconUrl": "https://r.mradx.net/imgs/63/8e/d4b28cc0b905374f.svg",
+                "name": "hide",
+                "action": "hide"
+              },
+              {
+                "text": "Пожаловаться",
+                "iconUrl": "https://r.mradx.net/imgs/cf/aa/a8655ac54f10b068.svg",
+                "name": "complain",
+                "action": "complain"
+              },
+              {
+                "text": "О рекламодателе",
+                "iconUrl": "https://r.mradx.net/imgs/ee/63/84ed4e4a5ae73316.svg",
+                "name": "about",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/adv_info?id=AACn_wFOqJI0eArxnLcsXvHnoFXEcaTdLqwBUyY2JYi02H6M-jNS8h9lpchzbFCrKX0h-CVHe04fjI_w9Uw1xRQIpmJ_tUJvzrb2jpu-QmIShaoWYtgkOq-IcTQi2joh_Ekja5bQuYSmEafQ2mwIy8lJd1Z_EbWjzmcOioLUhxhfzb1hldo2uVYJAAAAuPREplQ2mzS2FbatVR_4bw"
+              },
+              {
+                "text": "Скопировать ссылку",
+                "name": "copyUrl",
+                "action": "copy",
+                "actionValue": "https://ads.vk.ru/public/leadform?type=leadform&d=H1k6QX5sj8XxMES8JXYaO%2BhGXx8DyEN6CdGjO0oKaQDXHJsKODErAcMl01AW21iIp5VHe8noyv5poSdLN6JVB%2F1PHMlIQmZF2LCgXYqy0WTBGerAKbjYV15WmYztDub2hi1mMbq4zUHl0Mb5suvsRQ%3D%3D",
+                "iconUrl": "https://r.mradx.net/imgs/b6/09/93a837dc06183017.svg"
+              },
+              {
+                "text": "Скопировать ERID (2Vtzqv8TjFq)",
+                "iconUrl": "https://r.mradx.net/imgs/cf/e5/32db22916648f14d.svg",
+                "name": "copyErid",
+                "action": "copy",
+                "actionValue": "2Vtzqv8TjFq"
+              },
+              {
+                "text": "Правила рекомендаций",
+                "name": "rules",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/documents/recommendation",
+                "iconUrl": "https://r.mradx.net/imgs/37/c0/ca37933876686dcd.svg"
+              },
+              {
+                "text": "VK Реклама",
+                "name": "VKAds",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/",
+                "iconUrl": "https://r.mradx.net/imgs/df/92/6fb16c27a25e2c38.svg"
+              }
+            ]
+          },
+          "hide": {
+            "closeInfo": "Ваши ответы помогают нам подбирать более качественную рекламу",
+            "header": "Уточните причину:",
+            "closeTitle": "Объявление скрыто",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 1, "text": "Не интересно", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 2, "text": "Уже приобретено", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 3, "text": "Вижу слишком часто", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "complain": {
+            "header": "Уточните причину:",
+            "closeInfo": "Модератор скоро проверит объявление",
+            "closeTitle": "Жалоба отправлена",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 4, "text": "Оскорбительное содержание", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 5, "text": "Сексуальный подтекст", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 6, "text": "Нарушение закона", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 7, "text": "Мошеннический сайт", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "closed": {
+            "items": [
+              {
+                "name": "closeTitle"
+              },
+              {
+                "name": "closeInfo"
+              }
+            ]
+          }
+    }
+}
+,
+        "statistics": [
+
+
+
+{
+        "target": "banner",
+         "type": "playheadViewabilityValue",
+         "url": "https://rs.mail.ru/pixel/CrYJCLeyuW4Quu6RjQUdsiB-aiAbKAJqpQQIy6MBFbIgfmoYyAMg7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWUMgDWA5gA3VTgQ46fVOBDjqFASqUEyeVAQh_h1iYAcgDoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8zQO-sQMo1QP3fCDbiAWAAq0FSrRTO7gFgJCQAdoFAJAG3pe9PJgGyAOoBugH8gYPw5K9HfzMkx0CAgGDBQEBmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP4gKyAOQCsgDmAoBoAoB2AqpAeUKAACAP6ALyAOoCwjAC8PmAoIMCtvu_eEJiqTHvgSqDC-_otmxAZLRqQTLh-KRAsqit64Bx5LDJPq1ktkB1MPDvAGqn8bEAdXpowmFnqrxA-ANzAboDQKyDgDqDg4KBXZrLnJ1EgUyMDkzOYIPBICt4gSiDwSAreIEsA-wAcAPAsoPA2FkcfgPvdXnuA2AEBWIEAW1EAAAgD-6EADFELrW40PwEAT4ELwBgBEC0BEA2BGSTvARqPg3_RNKtFM7wBQAyBQB3RRKtFM74BQO9RRTgQ46mBUOoBXhgYAwyBX___________8B0BX___________8B_RXnses1hRYAAIA_iBYBkBZ2sBYAuBYAwhYGOTE2NTIwyhYJbGVhZF9mb3Jt8BawAfgWkk6IF96XvTyoFwFwAYgBCbgBgALgAUC4AtuTrp8CwgJi_jgEAQICAwIBAQECDggHAh8BBg0IAwECAQICrQgHA7YBeQOdAssBpQHdBQI4AQEBAggCDAECM_gJWQYBywQBAQYD8gGDAwIBSwMBAQGnAboD7BqNGcwciQcK9AwFAcwEsCuQA8-ZzYCLHpoFCwgDEAEYt7K5biAImgULCAMQARi3srluKB6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+         "duration": 0,
+         "viewablePercent": 50
+         },
+    {
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBiQjgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "error"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBnxHgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "isBot"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBoBHgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "isCold"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBoRHgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "check"
+    },
+    {
+        "type": "viewabilityDuration",
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBhCDgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    },
+    {
+        "type": "render",
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBmRHgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    }
+    ,{
+        "url": "https://rs.mail.ru/pixel/CpMHCLeyuW4Quu6RjQUdsiB-aiAbKAJq_AIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWWA51U4EOOn1TgQ46hQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdAKBtgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcYgQBbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAH1FFOBDjqYFQ6gFeGBgDDIFf___________wHQFf___________wH9Feex6zWFFgAAgD-IFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB-QfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "value": 10
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBsx_gAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playbackDuration"
+    },
+    {
+        "type": "playheadReachedValue",
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB5Q_gAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "value": 1
+    },
+    {
+        "type": "playheadReachedValue",
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB-AfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "value": 3
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB6QfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 25
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB6gfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 50
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB6wfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 75
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CpMHCLeyuW4Quu6RjQUdsiB-aiAbKAJq_AIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWWA51U4EOOn1TgQ46hQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdAKBtgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcYgQBbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAH1FFOBDjqYFQ6gFeGBgDDIFf___________wHQFf___________wH9Feex6zWFFgAAgD-IFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB9QfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 100
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CpMHCLeyuW4Quu6RjQUdsiB-aiAbKAJq_AIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWWA51U4EOOn1TgQ46hQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdAKBtgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcYgQBbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAH1FFOBDjqYFQ6gFeGBgDDIFf___________wHQFf___________wH9Feex6zWFFgAAgD-IFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBigjgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 100
+    },
+    {
+        "type": "click",
+        "url": "https://rs.mail.ru/pixel/CpMHCLeyuW4Quu6RjQUdsiB-aiAbKAJq_AIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWWA51U4EOOn1TgQ46hQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdAKBtgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcYgQBbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAH1FFOBDjqYFQ6gFeGBgDDIFf___________wHQFf___________wH9Feex6zWFFgAAgD-IFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBigjgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    },
+    {
+        "type": "playbackStarted",
+        "url": "https://rs.mail.ru/pixel/CpMHCLeyuW4Quu6RjQUdsiB-aiAbKAJq_AIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWWA51U4EOOn1TgQ46hQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdAKBtgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcYgQBbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAH1FFOBDjqYFQ6gFeGBgDDIFf___________wHQFf___________wH9Feex6zWFFgAAgD-IFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB6AfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+        }
+    ,{
+         "type": "playbackCompleted",
+         "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB7AfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+         }
+    ,{
+         "type": "volumeOff",
+         "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB7QfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+     }
+    ,{
+         "type": "volumeOn",
+         "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB7gfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+     }
+    ,{
+         "type": "playbackPaused",
+         "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB7wfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+     }
+    ,{
+         "type": "playbackResumed",
+         "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB8QfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+     }
+,{
+        "type": "click",
+        "url": "https://rs.mail.ru/pixel/CusJCLeyuW4Quu6RjQUdsiB-aiAbKAJq0gQIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWUMgDWA5gA3VTgQ46fVOBDjqFASqUEyeVAQh_h1igAYACqQE6d6RRX3qVO8ABjcnWgA3QAQGdAgAAgD_oAqSx_wrwArXL6jzNA76xAyjVA_d8INuIBYACrQVKtFM7uAWAkJAB2gUAkAbel708mAbIA6gG6AfyBg_Dkr0d_MyTHQICAYMFAQGYBzOoB5_rD7AHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds0AnHA9gJoOsPhQoAAIA_mAoBoAoBrQqp40lgrQquP-3urQqDrk7grQpxg36brQpxg36brQpVOl6trQoFHa-brQoPRaKerQrQg7TurQqK9NYd2AqpAeUKAACAP6ALyAOoCwjAC8PmAoIMCtvu_eEJiqTHvgSqDC-_otmxAZLRqQTLh-KRAsqit64Bx5LDJPq1ktkB1MPDvAGqn8bEAdXpowmFnqrxA-ANzAboDQKyDgDqDg4KBXZrLnJ1EgUyMDkzOYIPBICt4gSiDwSAreIEsA-wAcAPAsoPA2FkcfgPvdXnuA2AEBWIEAW1EAAAgD-6EADFELrW40PwEAT4ELwBgBEC0BEA2BGSTvARqPg3_RNKtFM7wBQAyBQB3RRKtFM74BQO9RRTgQ46mBUOoBXhgYAwyBX___________8B0BX___________8B_RXnses1hRYAAIA_iBYBkBZ2sBYAuBYAwhYGOTE2NTIwyhYJbGVhZF9mb3Jt8BawAfgWkk6IF96XvTyoFwFwAYgBCbgBgALAAQHgAUDqAQ0Aex03TI84ISv96rDIuALbk66fAsICYv44BAECAgMCAQEBAg4IBwIfAQYNCAMBAgECAq0IBwO2AXkDnQLLAaUB3QUCOAEBAQIIAgwBAjP4CVkGAcsEAQEGA_IBgwMCAUsDAQEBpwG6A-wajRnMHIkHCvQMBQHMBLAryAIBkAPPmc2Aix6aBQsIAxACGLeyuW4gCLIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gdK0JrQvtC_0LjRj18yINCa0L7Qv9C40Y8g0L3QsNGH0LjQvdCw0Y7RidC40LUv0YfQtdGA0L0v0LHQuNGC0LzQtdC50LrQuNC90LPwB61G8AekTvAHwK0S8AfW4WfwB9_iZ_AH2dTlBPAHjN3lBPAHsurlBPAHg4jmBPAHhYjmBPAHh4jmBPAH2armBPAHo7_mBPAHwe5tkAgEqghzChAKC2RldmljZV90eXBlEgExChsKDXN0YWJsZXRyYWZmaWMSCmFkLm1haWwucnUKDAoEYmRzeRIEZ29vZAoTCgl2aWRzb3VyY2USBmhlYWRlcgoNCgVpc3JlZhIEdHJ1ZQoQCgtoYXNfdmtfYXV0aBIBMMgI7QGIB8PmAqABz5nNgAugBtqs_MEF6gZ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTEuMC4wLjChB8KHTfCy2MjGygcFdmsucnXqCANhZHEaFQEzF29v9U7H24K3OKLBMy27gZnMIQ:2Vtzqv8TjFq.gif"
+        }
+,{
+            "type": "playVideoVolumeOn",
+            "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBzgjgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+        }
+        ,{
+            "type": "playVideoVolumeOff",
+            "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgBzwjgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+        }
+    ,{
+        "type": "fullscreenOn",
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB8gfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    }
+    ,{
+        "type": "fullscreenOff",
+        "url": "https://rs.mail.ru/pixel/CuwGCLeyuW4Quu6RjQUdsiB-aiAbKAJq1QIIy6MBFbIgfmog7PnuCSiPGTCQgAE4yANAn8WeR0iWwqpWhQEqlBMnlQEIf4dYoAGAAqkBOnekUV96lTvAAY3J1oAN0AEBnQIAAIA_6AKksf8K8AK1y-o8iAWAArgFgJCQAdoFAJAG3pe9PJgGyAOoBugHmAczqAef6w-wBwnKCAaE35yX5BCwCQm4CaOL2Mbx8vG3bNAJxwPYCaDrD4UKAACAP5gKAaAKAdgKqQHlCgAAgD-oCwjAC8PmAuoODgoFdmsucnUSBTIwOTM5sA-wAcAPAsoPA2FkcbUQAACAP7oQAMUQutbjQ_AQBPgQvAGAEQLQEQDYEZJO8BGo-DfAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFnawFgC4FgDCFgY5MTY1MjDKFglsZWFkX2Zvcm3wFrAB-BaSTogX3pe9PKgXAXABiAEJuAGAAsABCsgB8wfgAUC4AtuTrp8CkAPPmc2Aix6yBhBtixVYp3-w6wk1mXAkwX7rgQejBdYYl8dvbOoHStCa0L7Qv9C40Y9fMiDQmtC-0L_QuNGPINC90LDRh9C40L3QsNGO0YnQuNC1L9GH0LXRgNC9L9Cx0LjRgtC80LXQudC60LjQvdCz8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIBKoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICO0BiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif"
+    }
+
+        ]
+    }
+,
+        };
+        if (!Array.isArray(window._MotionKit)) window._MotionKit = [];
+
+        const isInited = Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && (window.MotionKitSDK.isAsmInited("VKFeed") || window.MotionKitSDK.isAsmInited("DesignSystem"));
+
+        if (!isInited) {
+            scriptElement = document.createElement("script");
+            scriptElement.src = "https://ad.mail.ru/static/motion_lib.js";
+            scriptElement.id = "motion-ads-vk";
+            scriptElement.async = !0;
+            parentElement = document.getElementsByTagName("script")[0];
+            parentElement.parentNode.insertBefore(scriptElement, parentElement);
+        }
+        let containerForAd = document.querySelector('#' + 'b231627063_547476727');
+        const handler = (cnt = 10, timeout = 150) => {
+            setTimeout(() => {
+                containerForAd = document.querySelector('#' + 'b231627063_547476727');
+                const scriptForAd = document.getElementById('s231627063_547476727');
+                const sendPixelError = (msg, error) => {
+                    const pixelImg = new Image();
+                    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=${msg}&tpl=&p=20939&ptrn=leadads_video_portrait_4_5_30s_optional_description&id=231627063&err=${error}&imp=4293472369577850682`;
+                };
+                if (containerForAd && window.MotionKit) {
+                  try {
+                    if (Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && !window.MotionKitSDK.isAsmInited("DesignSystem")) {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                      return;
+                    }
+                  } catch (e) {}
+                  window.MotionKit(config);
+                } else if (--cnt) {
+                    handler(cnt, timeout*2);
+                } else {
+                    if (!window.MotionKit) {
+                        sendPixelError(2, 'lib_init');
+                    }
+
+                    if (!containerForAd) {
+                        sendPixelError(311, 'lib_init');
+                    }
+                    try {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                    } catch (e) {}
+                }
+            }, timeout);
+        };
+        if (containerForAd && window.MotionKit) {
+            window.MotionKit(config);
+        } else {
+            handler();
+        }
+    })(window, document, "MotionKit");
+} catch (err) {
+    const pixelImg = new Image();
+    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=WebRenderError&tpl=&p=20939&ptrn=leadads_video_portrait_4_5_30s_optional_description&id=231627063&err=${JSON.stringify(err)}&imp=4293472369577850682`;
+}
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+    
+    
+    
+    
+    
+
+    
+
+
+Оставить заявку2ГИС Про — сервис геоаналитики с AI-ассистентом....Подать заявкуРеклама18+
+
+try {
+    (function () {
+        const config = {
+            container: "b231399381_1450390589",
+            priced_event_type: "51",
+            banner: 
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+
+        
+            
+            
+            
+        
+            
+            
+            
+            
+            
+        
+
+
+
+
+
+
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+        
+        
+    
+                
+
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+    {
+        "id": 231399381,
+        "type": "motion-ads",
+        "creativeType": "vkSideBar_site_newDesign",
+
+        "banner_template_id": 176,
+        "pattern": {
+            "name": "leadads_video_portrait_4_5_30s_optional_description",
+            "group": "video",
+            "subgroup": "portrait"
+        },
+        "pad_id": "20939",
+        "impression_id": "4293472369577850682",
+        "adLabel": {
+            "show": true,
+            "text": "Реклама"},
+
+        "openLinkInPopup": false,
+        "width": "158px",
+        "trackingLink": "https://ads.vk.ru/public/leadform?type=leadform&d=K9upg8m%2BN5zdMfE3xfSfOB84SNmlJaqcrtKYqO4UgYKS%2Bpyztim8iwP2gkyGhYWPVTWjGCX9iJlTKKFZ6XToP%2FtEPDefE9K%2B16dfLw7g1tVc1Mduq2ZvVoawCQhLLcLbbwbXzJhI3C4OQBTYo1LiWA%3D%3D",
+        "isDarkTheme": false,
+        "rounded": "0",
+
+        "icon": {
+                "type": "static",
+                "src": "https://r.mradx.net/imgs/bc/5d/1c1ea40b8682491e.jpg"
+            },
+        "video": {
+                "mediafiles": [
+    {
+        "format": "mp4",
+        "src": "https://vd364.okcdn.ru/?expires=1786737202269&srcIp=88.135.127.8&pr=55&srcAg=CHROME&ms=185.180.203.90&type=3&sig=yGqasz69obA&ct=0&urls=178.237.23.1&clientType=28&zs=21&id=18460506786490",
+        "width": 720,
+        "height": 900
+    }
+
+
+
+    ,{
+        "format": "mp4",
+        "src": "https://vd364.okcdn.ru/?expires=1786737202269&srcIp=88.135.127.8&pr=55&srcAg=CHROME&ms=185.180.203.90&type=1&sig=m88rGmhg4AE&ct=0&urls=178.237.23.1&clientType=28&zs=21&id=18460506786490",
+        "width": 360,
+        "height": 450
+    }
+
+
+
+    ,{
+        "format": "mp4",
+        "src": "https://vd364.okcdn.ru/?expires=1786737202269&srcIp=88.135.127.8&pr=55&srcAg=CHROME&ms=185.180.203.90&type=4&sig=xvVBqNLGG9s&ct=0&urls=178.237.23.1&clientType=28&zs=21&id=18460506786490",
+        "width": 144,
+        "height": 180
+    }
+
+
+    ,{
+        "format": "mp4",
+        "src": "https://vd364.okcdn.ru/?expires=1786737202269&srcIp=88.135.127.8&pr=55&srcAg=CHROME&ms=185.180.203.90&type=2&sig=NrwxJHjJUd0&ct=0&urls=178.237.23.1&clientType=28&zs=21&id=18460506786490",
+        "width": 480,
+        "height": 600
+    }
+],
+                "duration": 6,
+                 "evMovieId": 16714071816122,
+                 "videoBackground": {
+                         "src": "https://r.mradx.net//imgs/ab/1f/2ffa01dcf3866f4e.jpg"
+                         ,"width": 1080,"height": 1350},
+                 "autoplay": true,
+                "automute": true,
+                "autoReplay": true},
+        "ctaText": "Подать заявку",
+        "title": "Оставить заявку",
+        "linkTitle": "Оставить заявку",
+        "description": "2ГИС Про — сервис геоаналитики с AI-ассистентом. Изучайте конкурентов, выбирайте локации для бизнеса и рекламы — решайте осознанно.",
+        "ageRestrictions": "18+",
+        "domain": "",
+            "trackingLinkUrlTypes": "lead_form",
+        "trackingLinkTrackerTypes": "0",
+        "url_types": "lead_form",
+        "clickArea": 4096,
+"openInBrowser": false,
+
+        "viewability": {
+            "isHbid": false,"hbidID": "","percent": 50,"duration": false
+        },
+        "audits": [
+            
+        ],
+
+        "disableClickArea": "true",
+        
+"adChoices": {
+    "iconLink": "https://r.mradx.net/imgs/2a/38/fda5014ca5824c9a.svg",
+    "closeUrl": "https://rs.mail.ru/pixel/Cs0ICNW_q24Quu6RjQUdsiB-aiAbKAJqlQQIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVlC7A1gOYAJ1XokQOn1eiRA6hQE9rw8nlQEIf4dYoAGAAqkBOnekUV96lTvAAdyM7aUP0AEBnQIAAIA_6AL2_ocN8AKWqvQ_zQN_xQrs1QM0xPkdiAWAAq0FNwGEO7gFgJCQAdoFAJAGoavpPZgGuwOoBugH8gYQkf7KN72yTt-sigMGvwICAZgHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_oAu7A6gLCMALw-YCggwK2-794QmKpMe-BKoML7-i2bEBktGpBMuH4pECyqK3rgHHksMk-rWS2QHUw8O8AaqfxsQB1emjCYWeqvED4A3MBugNArIOAOoODgoFdmsucnUSBTIwOTM5gg8EgK3iBKIPBoCt4gSoAbAPsAHADwLKDwNhZHH4D63Y-KcPgBAVtRAAAIA_uhAAxRAoZd1D8BAE-BC8AYARAtARANgRNPARw9k6_RM3AYQ7wBQAyBQB3RQ3AYQ74BQO9RReiRA6mBUOoBXhgYAwyBX___________8B0BX___________8B_RUIDxU2hRYAAIA_iBYBkBZAsBYAuBYAwhYGOTYxNzMxyhYJbGVhZF9mb3Jt8BawAfgWNIgXoavpPagXAXABiAEJuAGAAsABI8gBAeABQLgC25OunwLCAmL-OAQBAgIDAgEBAQIOCAcCHwEGDQgDAQIBAgKtCAcDtgF5A50CywGlAd0FAjgBAQECCAIMAQIz-AlZBgHLBAEBBgPyAYMDAgFLAwEBAacBugPsGo0ZzByJBwr0DAUBzASwK5ADz5nNgIsesgYQbYsVWKd_sOsJNZlwJMF-64EHowXWGJfHb2zqBwdiYW5uZXIx8AetRvAHpE7wB8CtEvAH1uFn8Aff4mfwB9nU5QTwB4zd5QTwB7Lq5QTwB4OI5gTwB4WI5gTwB4eI5gTwB9mq5gTwB6O_5gTwB8HubZAIAqoIcwoQCgtkZXZpY2VfdHlwZRIBMQobCg1zdGFibGV0cmFmZmljEgphZC5tYWlsLnJ1CgwKBGJkc3kSBGdvb2QKEwoJdmlkc291cmNlEgZoZWFkZXIKDQoFaXNyZWYSBHRydWUKEAoLaGFzX3ZrX2F1dGgSATDICIkBiAfD5gKgAc-ZzYALoAbarPzBBeoGfU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNTEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTUxLjAuMC4woQfCh03wstjIxsoHBXZrLnJ16ggDYWRx.gif?reason=",
+    "aboutCompanyLink": "https://ads.vk.ru/adv_info?id=AACn_wFOqJI0eArxnLcsXvHnoFXEcaTdLqwBUyY2JYi02H6M-jNS8h9lpchzbFCrKX0h-CVHe04fjI_w9Uw1xRQIpmJ_tUJvzrb2jpu-QmIShaoWYtgkOq-IcTQi2joh_Ekja5bQuYSmEafQ2mwIy8lJd1Z_EbWjzmcOioLUhxhfzb1hlUyRnhMJAAAAIISnAV-SLrHHK4950rAYfg",
+    "marker": "2VtzqvA8To9",
+    "tabs": {
+         "main": {
+            "items": [
+              {
+                "text": "Скрыть объявление",
+                "iconUrl": "https://r.mradx.net/imgs/63/8e/d4b28cc0b905374f.svg",
+                "name": "hide",
+                "action": "hide"
+              },
+              {
+                "text": "Пожаловаться",
+                "iconUrl": "https://r.mradx.net/imgs/cf/aa/a8655ac54f10b068.svg",
+                "name": "complain",
+                "action": "complain"
+              },
+              {
+                "text": "О рекламодателе",
+                "iconUrl": "https://r.mradx.net/imgs/ee/63/84ed4e4a5ae73316.svg",
+                "name": "about",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/adv_info?id=AACn_wFOqJI0eArxnLcsXvHnoFXEcaTdLqwBUyY2JYi02H6M-jNS8h9lpchzbFCrKX0h-CVHe04fjI_w9Uw1xRQIpmJ_tUJvzrb2jpu-QmIShaoWYtgkOq-IcTQi2joh_Ekja5bQuYSmEafQ2mwIy8lJd1Z_EbWjzmcOioLUhxhfzb1hlQgQhGQJAAAAke_D1_jWF1Cuqkdhpu6uhg"
+              },
+              {
+                "text": "Скопировать ссылку",
+                "name": "copyUrl",
+                "action": "copy",
+                "actionValue": "https://ads.vk.ru/public/leadform?type=leadform&d=K9upg8m%2BN5zdMfE3xfSfOB84SNmlJaqcrtKYqO4UgYKS%2Bpyztim8iwP2gkyGhYWPVTWjGCX9iJlTKKFZ6XToP%2FtEPDefE9K%2B16dfLw7g1tVc1Mduq2ZvVoawCQhLLcLbbwbXzJhI3C4OQBTYo1LiWA%3D%3D",
+                "iconUrl": "https://r.mradx.net/imgs/b6/09/93a837dc06183017.svg"
+              },
+              {
+                "text": "Скопировать ERID (2VtzqvA8To9)",
+                "iconUrl": "https://r.mradx.net/imgs/cf/e5/32db22916648f14d.svg",
+                "name": "copyErid",
+                "action": "copy",
+                "actionValue": "2VtzqvA8To9"
+              },
+              {
+                "text": "Правила рекомендаций",
+                "name": "rules",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/documents/recommendation",
+                "iconUrl": "https://r.mradx.net/imgs/37/c0/ca37933876686dcd.svg"
+              },
+              {
+                "text": "VK Реклама",
+                "name": "VKAds",
+                "action": "redirect",
+                "actionValue": "https://ads.vk.ru/",
+                "iconUrl": "https://r.mradx.net/imgs/df/92/6fb16c27a25e2c38.svg"
+              }
+            ]
+          },
+          "hide": {
+            "closeInfo": "Ваши ответы помогают нам подбирать более качественную рекламу",
+            "header": "Уточните причину:",
+            "closeTitle": "Объявление скрыто",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 1, "text": "Не интересно", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 2, "text": "Уже приобретено", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 3, "text": "Вижу слишком часто", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "complain": {
+            "header": "Уточните причину:",
+            "closeInfo": "Модератор скоро проверит объявление",
+            "closeTitle": "Жалоба отправлена",
+            "otherPlaceholder": "Напишите причину",
+            "items": [
+              { "id": 4, "text": "Оскорбительное содержание", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 5, "text": "Сексуальный подтекст", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 6, "text": "Нарушение закона", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 7, "text": "Мошеннический сайт", "action": "reasonItem", "actionValue": "closed" },
+              { "id": 9, "text": "Другое", "action": "reasonItem", "actionValue": "other" }
+            ]
+          },
+          "closed": {
+            "items": [
+              {
+                "name": "closeTitle"
+              },
+              {
+                "name": "closeInfo"
+              }
+            ]
+          }
+    }
+}
+,
+        "statistics": [
+
+
+
+{
+        "target": "banner",
+         "type": "playheadViewabilityValue",
+         "url": "https://rs.mail.ru/pixel/CvIICNW_q24Quu6RjQUdsiB-aiAbKAJqpAQIy6MBFbIgfmoYuwMgiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVlC7A1gOYAJ1XokQOn1eiRA6hQE9rw8nlQEIf4dYmAG7A6ABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P80Df8UK7NUDNMT5HYgFgAKtBTcBhDu4BYCQkAHaBQCQBqGr6T2YBrsDqAboB_IGEJH-yje9sk7frIoDBr8CAgGYBzOoB7iVDLAHCcoIBoTfnJfkELAJCbgJo4vYxvHy8bds0Am6A9gJuJUMhQoAAIA_iAq7A5AKuwOYCgGgCgHYCqkB5QoAAIA_oAu7A6gLCMALw-YCggwK2-794QmKpMe-BKoML7-i2bEBktGpBMuH4pECyqK3rgHHksMk-rWS2QHUw8O8AaqfxsQB1emjCYWeqvED4A3MBugNArIOAOoODgoFdmsucnUSBTIwOTM5gg8EgK3iBKIPBoCt4gSoAbAPsAHADwLKDwNhZHH4D63Y-KcPgBAVtRAAAIA_uhAAxRAoZd1D8BAE-BC8AYARAtARANgRNPARw9k6_RM3AYQ7wBQAyBQB3RQ3AYQ74BQO9RReiRA6mBUOoBXhgYAwyBX___________8B0BX___________8B_RUIDxU2hRYAAIA_iBYBkBZAsBYAuBYAwhYGOTYxNzMxyhYJbGVhZF9mb3Jt8BawAfgWNIgXoavpPagXAXABiAEJuAGAAuABQLgC25OunwLCAmL-OAQBAgIDAgEBAQIOCAcCHwEGDQgDAQIBAgKtCAcDtgF5A50CywGlAd0FAjgBAQECCAIMAQIz-AlZBgHLBAEBBgPyAYMDAgFLAwEBAacBugPsGo0ZzByJBwr0DAUBzASwK5ADz5nNgIsemgULCAMQARjVv6tuIAiaBQsIAxABGNW_q24oHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+         "duration": 0,
+         "viewablePercent": 50
+         },
+    {
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAGJCOABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "error"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAGfEeABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "isBot"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAGgEeABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "isCold"
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAGhEeABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "check"
+    },
+    {
+        "type": "viewabilityDuration",
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAGEIOABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+    },
+    {
+        "type": "render",
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAGZEeABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+    }
+    ,{
+        "url": "https://rs.mail.ru/pixel/CskGCNW_q24Quu6RjQUdsiB-aiAbKAJq9QIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVlgOdV6JEDp9XokQOoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAH1FF6JEDqYFQ6gFeGBgDDIFf___________wHQFf___________wH9FQgPFTaFFgAAgD-IFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAH5B-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "playheadReachedValue",
+        "value": 10
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAGzH-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "playbackDuration"
+    },
+    {
+        "type": "playheadReachedValue",
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHlD-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "value": 1
+    },
+    {
+        "type": "playheadReachedValue",
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAH4B-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "value": 3
+    },
+    {
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHpB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 25
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHqB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 50
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHrB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 75
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CskGCNW_q24Quu6RjQUdsiB-aiAbKAJq9QIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVlgOdV6JEDp9XokQOoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAH1FF6JEDqYFQ6gFeGBgDDIFf___________wHQFf___________wH9FQgPFTaFFgAAgD-IFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAH1B-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 100
+        },
+    {
+        "url": "https://rs.mail.ru/pixel/CskGCNW_q24Quu6RjQUdsiB-aiAbKAJq9QIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVlgOdV6JEDp9XokQOoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAH1FF6JEDqYFQ6gFeGBgDDIFf___________wHQFf___________wH9FQgPFTaFFgAAgD-IFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAGKCOABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif",
+        "type": "playheadReachedValue",
+        "pvalue": 100
+    },
+    {
+        "type": "click",
+        "url": "https://rs.mail.ru/pixel/CskGCNW_q24Quu6RjQUdsiB-aiAbKAJq9QIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVlgOdV6JEDp9XokQOoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAH1FF6JEDqYFQ6gFeGBgDDIFf___________wHQFf___________wH9FQgPFTaFFgAAgD-IFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAGKCOABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+    },
+    {
+        "type": "playbackStarted",
+        "url": "https://rs.mail.ru/pixel/CskGCNW_q24Quu6RjQUdsiB-aiAbKAJq9QIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVlgOdV6JEDp9XokQOoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAH1FF6JEDqYFQ6gFeGBgDDIFf___________wHQFf___________wH9FQgPFTaFFgAAgD-IFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHoB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+        }
+    ,{
+         "type": "playbackCompleted",
+         "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHsB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+         }
+    ,{
+         "type": "volumeOff",
+         "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHtB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+     }
+    ,{
+         "type": "volumeOn",
+         "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHuB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+     }
+    ,{
+         "type": "playbackPaused",
+         "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHvB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+     }
+    ,{
+         "type": "playbackResumed",
+         "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHxB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+     }
+,{
+        "type": "click",
+        "url": "https://rs.mail.ru/pixel/CqgJCNW_q24Quu6RjQUdsiB-aiAbKAJq0QQIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVlC7A1gOYAJ1XokQOn1eiRA6hQE9rw8nlQEIf4dYoAGAAqkBOnekUV96lTvAAdyM7aUP0AEBnQIAAIA_6AL2_ocN8AKWqvQ_zQN_xQrs1QM0xPkdiAWAAq0FNwGEO7gFgJCQAdoFAJAGoavpPZgGuwOoBugH8gYQkf7KN72yTt-sigMGvwICAZgHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgGtCqnjSWCtCq4_7e6tCoOuTuCtCnGDfputCnGDfputClU6Xq2tCgUdr5utCg9Fop6tCtCDtO6tCor01h3YCqkB5QoAAIA_oAu7A6gLCMALw-YCggwK2-794QmKpMe-BKoML7-i2bEBktGpBMuH4pECyqK3rgHHksMk-rWS2QHUw8O8AaqfxsQB1emjCYWeqvED4A3MBugNArIOAOoODgoFdmsucnUSBTIwOTM5gg8EgK3iBKIPBoCt4gSoAbAPsAHADwLKDwNhZHH4D63Y-KcPgBAVtRAAAIA_uhAAxRAoZd1D8BAE-BC8AYARAtARANgRNPARw9k6_RM3AYQ7wBQAyBQB3RQ3AYQ74BQO9RReiRA6mBUOoBXhgYAwyBX___________8B0BX___________8B_RUIDxU2hRYAAIA_iBYBkBZAsBYAuBYAwhYGOTYxNzMxyhYJbGVhZF9mb3Jt8BawAfgWNIgXoavpPagXAXABiAEJuAGAAsABAeABQOoBDgB7HTdMjzghK7_6g_IAuALbk66fAsICYv44BAECAgMCAQEBAg4IBwIfAQYNCAMBAgECAq0IBwO2AXkDnQLLAaUB3QUCOAEBAQIIAgwBAjP4CVkGAcsEAQEGA_IBgwMCAUsDAQEBpwG6A-wajRnMHIkHCvQMBQHMBLAryAIBkAPPmc2Aix6aBQsIAxACGNW_q24gCLIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcRoVAX6crOh3T_qOUOJdHyqCzVWJVHXk:2VtzqvA8To9.gif"
+        }
+,{
+            "type": "playVideoVolumeOn",
+            "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHOCOABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+        }
+        ,{
+            "type": "playVideoVolumeOff",
+            "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHPCOABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+        }
+    ,{
+        "type": "fullscreenOn",
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHyB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+    }
+    ,{
+        "type": "fullscreenOff",
+        "url": "https://rs.mail.ru/pixel/CqgGCNW_q24Quu6RjQUdsiB-aiAbKAJq1AIIy6MBFbIgfmogiNeUiAQojxkwkIABOLsDQL_XkkdIlsKqVoUBPa8PJ5UBCH-HWKABgAKpATp3pFFfepU7wAHcjO2lD9ABAZ0CAACAP-gC9v6HDfAClqr0P4gFgAK4BYCQkAHaBQCQBqGr6T2YBrsDqAboB5gHM6gHuJUMsAcJyggGhN-cl-QQsAkJuAmji9jG8fLxt2zQCboD2Am4lQyFCgAAgD-YCgGgCgHYCqkB5QoAAIA_qAsIwAvD5gLqDg4KBXZrLnJ1EgUyMDkzObAPsAHADwLKDwNhZHG1EAAAgD-6EADFEChl3UPwEAT4ELwBgBEC0BEA2BE08BHD2TrAFADIFAGgFeGBgDDIFf___________wHQFf___________wGIFgGQFkCwFgC4FgDCFgY5NjE3MzHKFglsZWFkX2Zvcm3wFrAB-BY0iBehq-k9qBcBcAGIAQm4AYACwAEKyAHzB-ABQLgC25OunwKQA8-ZzYCLHrIGEG2LFVinf7DrCTWZcCTBfuuBB6MF1hiXx29s6gcHYmFubmVyMfAHrUbwB6RO8AfArRLwB9bhZ_AH3-Jn8AfZ1OUE8AeM3eUE8Aey6uUE8AeDiOYE8AeFiOYE8AeHiOYE8AfZquYE8Aejv-YE8AfB7m2QCAKqCHMKEAoLZGV2aWNlX3R5cGUSATEKGwoNc3RhYmxldHJhZmZpYxIKYWQubWFpbC5ydQoMCgRiZHN5EgRnb29kChMKCXZpZHNvdXJjZRIGaGVhZGVyCg0KBWlzcmVmEgR0cnVlChAKC2hhc192a19hdXRoEgEwyAiJAYgHw-YCoAHPmc2AC6AG2qz8wQXqBn1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1MS4wLjAuMKEHwodN8LLYyMbKBwV2ay5ydeoIA2FkcQ.gif"
+    }
+
+        ]
+    }
+,
+        };
+        if (!Array.isArray(window._MotionKit)) window._MotionKit = [];
+
+        const isInited = Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && (window.MotionKitSDK.isAsmInited("VKFeed") || window.MotionKitSDK.isAsmInited("DesignSystem"));
+
+        if (!isInited) {
+            scriptElement = document.createElement("script");
+            scriptElement.src = "https://ad.mail.ru/static/motion_lib.js";
+            scriptElement.id = "motion-ads-vk";
+            scriptElement.async = !0;
+            parentElement = document.getElementsByTagName("script")[0];
+            parentElement.parentNode.insertBefore(scriptElement, parentElement);
+        }
+        let containerForAd = document.querySelector('#' + 'b231399381_1450390589');
+        const handler = (cnt = 10, timeout = 150) => {
+            setTimeout(() => {
+                containerForAd = document.querySelector('#' + 'b231399381_1450390589');
+                const scriptForAd = document.getElementById('s231399381_1450390589');
+                const sendPixelError = (msg, error) => {
+                    const pixelImg = new Image();
+                    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=${msg}&tpl=&p=20939&ptrn=leadads_video_portrait_4_5_30s_optional_description&id=231399381&err=${error}&imp=4293472369577850682`;
+                };
+                if (containerForAd && window.MotionKit) {
+                  try {
+                    if (Object.prototype.hasOwnProperty.call(window, "MotionKitSDK") && typeof window.MotionKitSDK === "object" && typeof window.MotionKitSDK.isAsmInited === "function" && !window.MotionKitSDK.isAsmInited("DesignSystem")) {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                      return;
+                    }
+                  } catch (e) {}
+                  window.MotionKit(config);
+                } else if (--cnt) {
+                    handler(cnt, timeout*2);
+                } else {
+                    if (!window.MotionKit) {
+                        sendPixelError(2, 'lib_init');
+                    }
+
+                    if (!containerForAd) {
+                        sendPixelError(311, 'lib_init');
+                    }
+                    try {
+                      window._MotionKit.push(config);
+                      window.postMessage({ target: "motion-kit", config: config }, "*");
+                    } catch (e) {}
+                }
+            }, timeout);
+        };
+        if (containerForAd && window.MotionKit) {
+            window.MotionKit(config);
+        } else {
+            handler();
+        }
+    })(window, document, "MotionKit");
+} catch (err) {
+    const pixelImg = new Image();
+    pixelImg.src = `https://ad.mail.ru/web/log/?type=exception&ver=any&ljs=motion-lib&msg=WebRenderError&tpl=&p=20939&ptrn=leadads_video_portrait_4_5_30s_optional_description&id=231399381&err=${JSON.stringify(err)}&imp=4293472369577850682`;
+}
+
+
+ window.onload = function() {console.log('ready_window');AdsLight.mailAdsLeftReady();};БлогРазработчикамДля бизнесаАвторамЕщёИнформация о контентеЛента новостейЛентаФотографииДрузьяПоискРеакции    
+      
+        
+      
+      
+        
+          
+            
+          
+          
+            
+              Заведите виртуального питомцав игре «Пушистики» 
+            
+             
+                
+            
+            Выбирайте ему одежду, угощайте вкусняшками и отправляйтесь на прогулку по уровням
+            
+            
+              
+  
+    
+    Играть
+    
+  
+
+            
+          
+        
+      
+    ВпередИсторияНастройкиАленаСаженцы роз 2026 - интернет магазин доставка РФФорпост-Севастополь | Новости СевастополяVK CloudИнтересноеСоздатьНарды ручной работы на заказРекfrd35xлама0+ДействияНаписа898docть  Нарды под заказ + с твоим дизайном + бесплатная доставка! Напиши в лс: vk.me/forestcraft.shopПоказать ещё Наносим твой дизайн на премиальное дерево. От эскиза до упаковки — всё у нас. Доставим в любой город России быстрее, чем ты думаешь. Почему к нам: Не перепродаём — сами делаем Опытные дизайнеры в штате Согласуем цвет, размер, фактуру Корпоративным — скидки и бонусы Жми «Написать», поможем выбрать нарды: vk.me/forestcraft.shopКиноПёсВерифицированоВерифицированоПодписатьсяДействияВы точно не ожидали увидеть звезду «Извне» такой горячей В четвертом сезоне «Извне» появилась Джулия Дойл, и в сериале её героиня выглядит максимально скромно — тихая, замкнутая, немного странная девушка, которая идеально вписывается в мрачную атмосферу шоу Но потом я увидел, как сама актриса выглядит за пределами съемочной площадки, и первое время вообще не мог сопоставить этих двух людей  В жизни Джулия выглядит совершенно иначе — яркая, уверенная в себе, постоянно экспериментирует с образами, да и энергетика у неё совсем другая Наверное, это один из лучших комплиментов актеру, когда ты настолько привыкаешь к его персонажу, что потом с трудом узнаешь человека в реальной жизни Вот теперь интересно — вы бы узнали её, если бы случайно встретили на улице?1/7Следующий слайд15,5KОтправить реакцию «Лайк»Выбор реакции1,8K9,4K4 д назадНациональные проекты РоссииВерифицированоВерифицированоДействияКто построит города будущего? Те, кто учится превращать чертежи в настоящие здания и осваивает технологии строительства! Прямо сейчас в колледжах по всей стране готовят новое поколение специалистов отрасли по программе «Профессионалитет» нацпроекта «Молодёжь и дети». Студенты занимаются на современном оборудовании, проходят практику у работодателей и получают нужные навыки. К 70-летию Дня строителя рассказываем истории ребят, которые уже получают профессию: • Свердловская областьМарина из Уральского колледжа строительства, архитектуры и предпринимательства ещё в школе интересовалась, как появляются новые здания. Сегодня она показывает высокий уровень мастерства: стала бронзовым призёром чемпионата AtomSkills-2025 в компетенции «Геодезия» и готовится представить регион в финале конкурса «Строймастер» в номинации «Лучший штукатур». • Алтайский крайСтуденты Бийского государственного колледжа успешно выступили на конкурсе «Строймастер-2026». Илья занял второе место в номинации «Лучший каменщик», Арсений попробовал силы среди опытных участников профессиональной лиги монтажников, а команда сантехников колледжа стала лучшей в краевом конкурсе. Такой результат — итог постоянной практики и отличной учёбы. • Челябинская областьВ Южно-Уральском государственном техническом колледже студенты осваивают профессию на специальной площадке, где всё как на настоящем объекте: от материалов до оборудования. Будущие строители учатся выполнять арматурные и бетонные работы. А карьеру в этой сфере они начинают ещё во время учёбы. • Донецкая Народная РеспубликаМариупольский строительный профильный колледж стал победителем конкурса лучших практик профориентации. Учащиеся знакомятся с профессией через решение реальных задач и встречи с действующими специалистами. Колледж входит в строительный кластер региона. Ставьте лайк будущим профессионалам. #нацпроекты@nationalprojectsru #нацпроектмолодежьидети@nationalprojectsru #профессионалитет@nationalprojectsru Присоединяйтесь к сообществу Национальных проектов: vk.cc/aB4IMd | Читайте нас в МАКС vk.cc/cOJsnaПоказать ещё126Отправить реакцию «Лайк»Выбор реакции10124 д назадОнлайн школа резьбы по дереву | Евгений ДанилюкПодписатьсяДействия Записали очередной мастер-класс по вырезанию рыбки одним ножом.  Рассказал всё максимально подробно, начиная с того, как сделать шаблон, даже если вы не умеете рисовать. Как перенести шаблон на дерево. Как вырезать. Планирую также рассказать, как покрыть красками (если хочется сделать в цвете, например, рыбу-клоуна).  В скором времени мастер-класс появится для донов. Вот такую рыбку может резать новичок, при условии прохождения урока про базовые резы.В качестве упражнения мы даем мастер-классы по резьбе разных предметов, начиная от самых простых, постепенно увеличивая сложность.  Целью ставлю, чтобы ученик мог вырезать всё, что захочет сам.Показать ещё1/2Следующий слайд314Отправить реакцию «Лайк»Выбор реакции11374 д назадПЦАБПодписатьсяДействияДЕНЬ 6. РЕАЛЬНЫЙ КЕЙС: НАЛОГ ПОСЛЕ ЗАКРЫТИЯ ИП + МИКРОЗАЙМЫ НА ЛЕЧЕНИЕ Можно ли списать долги, если часть задолженности возникла из-за закрытия ИП, а другую часть человек набрал, пытаясь оплатить лечение? Разбираем реальный случай из нашей практики._____________________________________________________________________ К нам обратился клиент с общей задолженностью 567 890 ₽. В структуре долга:  около 285 000 ₽ — налоговая задолженность, возникшая после закрытия ИП;  около 282 890 ₽ — задолженность по микрозаймам. И за каждой из этих цифр стояла своя история.________________________________________________________________________  СНАЧАЛА — ИП Клиент занимался предпринимательской деятельностью. В определённый момент доходы снизились, и он принял решение закрыть ИП. Казалось бы: ИП закрыто — значит, история закончена. Но после закрытия предприниматель столкнулся с налоговой задолженностью. Сумма оказалась значительной — около 285 000 ₽. Для человека, который уже не ведёт предпринимательскую деятельность и не имеет прежнего уровня дохода, такой долг стал серьёзной проблемой. _____________________________________________________________________  А ПОТОМ ДОБАВИЛИСЬ МИКРОЗАЙМЫ Параллельно возникли проблемы со здоровьем. На лечение понадобились деньги. И человек начал обращаться в МФО. Сначала один займ. Потом следующий. Затем ещё один. В итоге образовалась задолженность примерно по 12 микрофинансовым организациям. И здесь важно понимать: это были не деньги на развлечения или необдуманные покупки. Человек пытался решить конкретную жизненную проблему — оплатить необходимое лечение. Но когда собственных средств не хватило, микрозаймы стали единственным доступным источником денег. ________________________________________________________________________  В ИТОГЕ ПОЛУЧИЛАСЬ ДВОЙНАЯ НАГРУЗКА С одной стороны: 285 000 ₽ — налоговая задолженность. С другой: 282 890 ₽ — микрозаймы. Итого: 567 890 ₽ долгов. При этом стабильного дохода, который позволял бы спокойно обслуживать такую задолженность, не было.______________________________________________________________________  А ДАЛЬШЕ НАЧАЛОСЬ ТО, С ЧЕМ ЧАСТО СТАЛКИВАЮТСЯ ДОЛЖНИКИ Звонки. Сообщения. Требования оплатить задолженность. Постоянное давление. Когда кредиторов становится много, человек оказывается в ситуации, когда ему приходится одновременно отвечать нескольким организациям и пытаться найти деньги на очередные платежи. Психологически это очень тяжело. И в такой ситуации главное — не продолжать брать новые займы, чтобы закрывать старые. _________________________________________________________________________ ЧТО МЫ СДЕЛАЛИ? Мы не стали рассматривать задолженность просто как цифру 567 890 ₽. Сначала разобрали её структуру.  Проверили налоговую задолженность Разобрали основания её возникновения, документы и обстоятельства, связанные с прекращением предпринимательской деятельности.  Проанализировали задолженность перед МФО Проверили договоры, требования кредиторов и структуру задолженности.  Провели полный анализ финансового положения клиента Изучили доходы, имущество, обязательства и другие обстоятельства, которые могли иметь значение для процедуры.  Подготовили стратегию После анализа стало понятно, каким образом необходимо выстраивать дальнейшую работу.  Сопроводили процедуру банкротства Мы подготовили необходимые документы и сопровождали клиента на всех этапах процедуры. ________________________________________________________________________ РЕЗУЛЬТАТ В результате процедуры: ВСЕ ДОЛГИ КЛИЕНТА БЫЛИ СПИСАНЫ. Общая сумма: 567 890 ₽ Но для нас этот кейс важен не только цифрой. Он показывает одну простую вещь: долги могут возникнуть по совершенно разным причинам. Кто-то попал в долговую яму из-за бизнеса. Кто-то — из-за потери работы. Кто-то — из-за лечения. А иногда несколько обстоятельств складываются одновременно. И в такой ситуации не стоит оценивать себя как «безнадёжного должника». Сначала нужно разобраться в ситуации и понять, какие законные варианты решения существуют.________________________________________________________________________  У ВАС ПОХОЖАЯ СИТУАЦИЯ? Есть налоговая задолженность после закрытия ИП? Несколько микрозаймов? Кредиты, которые уже не получается обслуживать? Напишите нам в сообщения слово «АНАЛИЗ». Специалисты ПЦАБ — Правового Центра Антикризисной Безопасности помогут разобраться в структуре задолженности и оценить ситуацию. Сначала анализ.Потом стратегия.И только после этого — действия. ________________________________________________________________________#ПЦАБ #ПравовойЦентрАнтикризиснойБезопасности #банкротство #списаниедолгов #МФО #микрозаймы #налоги #закрытиеИП #долги #банкротствофизлиц #реальныйкейс #юристПоказать ещё2Отправить реакцию «Лайк»Выбор реакции111 ч назадКнига BHV "Искусство схемотехники. Теория и практика"Реклаmcq9ahма16+ДействияПерейтvl9u9nи  Для изучения основ схемотехники. Для тех, кто горит желанием начать получать...РЕД СОФТДействияОтслеживайте этапы делопроизводств и формируйте отчеты в ЦС «Взыскатель». ЦС «Взыскатель» - решение, созданное РЕД СОФТ. Сервис обеспечивает эффективное взаимодействие с ФССП России, зарегистрирован в Реестре российского ПО и совместим с отечественными ОС. Все документы подписываются квалифицированной электронной подписью, данные проходят по защищенным каналам связи, форматы документов соответствуют требованиям ФССП России, а конвертация данных в XML происходит автоматически. Сервис позволяет вести учет и контроль большого количества исполнительных производств в одном интерфейсе, что особенно важно для организаций с большим объемом взысканий.  Пользователи ЦС «Взыскатель» могут фильтровать производства по различным критериям (номер производства, дата возбуждения, сумма долга, регион, статус и т. д.), отслеживать ключевые этапы по каждому делороизводству (подача заявления, получение ответа, применение мер взыскания), формировать отчеты и сводки по портфелю в целом или по отдельным сегментам, настраивать уведомления о важных событиях (истечение сроков, изменение статуса и т. д.). Узнать больше про работу сервиса: digital-claimer.ru/ #редсофт #цсвзыскательПоказать ещё10Отправить реакцию «Лайк»Выбор реакции3 д назадКиноПёсВерифицированоВерифицированоПодписатьсяДействияДакота Джонсон сыграет Мэрилин Монро — и совпадение оказалось просто невероятным  Дакота Джонсон появится в образе Мэрилин Монро в новом короткометражном фильме «Эффект плоти», который снимает Мэгги Джилленхол к 100-летию легендарной актрисы Но самое интересное выяснилось уже после появления первых кадров — Дакота и Мэрилин, оказывается, очень дальние родственницы Генеалогическое исследование показало, что их родословные пересекаются еще в XVII веке — общими предками актрис считаются английские переселенцы Ричард и Чарити Тайдингс, обосновавшиеся в Мэриленде больше 350 лет назад Причем Джонсон сыграет Монро именно в возрасте 36 лет — столько Мэрилин было на момент ее смерти в 1962 году А другую версию Монро сыграет 93-летняя Эллен Берстин — она покажет, какой могла бы стать Мэрилин, если бы прожила долгую жизнь После такого родственного совпадения кастинг Дакоты выглядит уже совсем по-другому  Как вам Джонсон в образе Мэрилин — похожа?Показать ещё1/4Следующий слайд17,4KОтправить реакцию «Лайк»Выбор реакции1,6K3,3K4 д назад
+Anna Andreeva+7 ••• ••• •• 49Управление аккаунтом Голоса 0Вход по QR‑коду Настройки Тема: Системная Помощь Выйти Добавить аккаунт
+ЗакрытьОнлайн школа резьбы по дереву | Евгений ДанилюкПодписатьсяДействия Записали очередной мастер-класс по вырезанию рыбки одним ножом.  Рассказал всё максимально подробно, начиная с того, как сделать шаблон, даже если вы не умеете рисовать. Как перенести шаблон на дерево. Как вырезать. Планирую также рассказать, как покрыть красками (если хочется сделать в цвете, например, рыбу-клоуна).  В скором времени мастер-класс появится для донов. Вот такую рыбку может резать новичок, при условии прохождения урока про базовые резы.В качестве упражнения мы даем мастер-классы по резьбе разных предметов, начиная от самых простых, постепенно увеличивая сложность.  Целью ставлю, чтобы ученик мог вырезать всё, что захочет сам.1/2Следующий слайдОценили 315 человекЛайкОтправить реакцию «Лайк»Выбор реакции374 д назадСначала интересныеВиктор ГончарПожаловатьсяЭто золотая рыбка, исполняет желания.9 авг в 22:22ОтветитьПоделиться1Поставить лайкПоставить лайкОнлайн школа резьбы по дереву | Евгений Данилюк·АвторПожаловатьсяВиктор, это рыба-клоун! Но да, ходят слухи, что если сделать самому такую рыбку (любую), нашептать ей желание и отпустить в реку, то желание исполнится! 10 авг в 8:27ОтветитьПоделиться1Поставить лайкПоставить лайкАлексей ЩукоПожаловаться9 авг в 20:39ОтветитьПоделиться3Поставить лайкПоставить лайкАлександр ПановПожаловатьсяКрасивая рыбка9 авг в 21:24ОтветитьПоделиться1Поставить лайкПоставить лайкОнлайн школа резьбы по дереву | Евгений Данилюк·АвторПожаловатьсяАлександр, спасибо!10 авг в 8:25ОтветитьПоделитьсяКирилл СидельниковПожаловатьсяОсталось пожарить картошку и сервировать а может и с квасом получится 12 авг в 12:57ОтветитьПоделиться1Поставить лайкПоставить лайкОнлайн школа резьбы по дереву | Евгений Данилюк·АвторПожаловатьсяКирилл, можно и закоптить... В собственных стружках... 12 авг в 13:07ОтветитьПоделитьсяВалерий НиколаевичПожаловатьсяИ где можно посмотреть запись мастер класс по рыбки?10 авг в 16:25ОтветитьПоделитьсяОнлайн школа резьбы по дереву | Евгений Данилюк·АвторПожаловатьсяВалерий, будет позже. Вряд ли вам захочется смотреть с перерывами и нашими бытовыми моментами все 4 часа... Поэтому мы обрежем, смонтируем, отредактируем шумы машин, самолетов, газонокосилок и ор детей соседей... И постараемся сжать до часа - полутора. Но на это уйдет пару недель. Тем более сейчас занимаюсь монтажом урока по заточке.
+
+Чтобы вы понимали, на монтаж 1 минуты ролика уходит примерно 5-10 минут...
+20 минутный ролик - это примерно 3,5 часа обработки. Не считая времени на подготовку ролика и его запись.
+
+Поэтому, на все хорошее нужно время.
+
+Выполняйте пока остальные домашки.
+
+ Я пока от всех увидел 2 камня и 1 лисичку...Показать ещё10 авг в 17:35ОтветитьПоделиться1Поставить лайкПоставить лайкАлексей ВеселовПожаловатьсяПомню как то тоже вырезал рыбу ! Типо фугу. Короче - башка как мяч и хвост плавники .  Но один глаз как у пирата забинтован ! А в губах трубка !  Подарил одному знакомому на днюху !! Он ржал весь вечер и сразу орределил для этого местечко возле ящика10 авг в 13:09ОтветитьПоделиться1Поставить лайкПоставить лайкЮрий НовиковПожаловаться12 авг в 18:09ОтветитьПоделитьсяНаписать комментарий...ПрикрепитьФотографияДобавить эмодзи или стикерОтправить
+
+[06] DATE_TIME
+Found: No
+Reason: Not found
+Text: N/A
+Datetime attr: N/A
+Title attr: N/A
+Selector: N/A
+
+[07] ROOT_CONTEXT
+Title: Лента новостей
+URL: https://vk.ru/feed?w=wall-234325978_1730
+Title Selector: #feed-page-title
+
+[08] COMMENT_URL
+Current URL: https://vk.ru/feed?w=wall-234325978_1730
+(No specific comment anchor detected automatically)
+
+[09] TRIANGLE_ANCHOR
+1. Position: After name
+   Element: DIV
+   Selector: #-234325978_1737 > div.vkit-9swaGy > div.vkit-aBWtJI > div.vkuiFlex__host.vkuiFlex__alignCenter > h4.vkuiFlex__host.vkuiFlex__alignCenter > a.vkit-b0dQw7.vkit-eqBxtI > div.vkit-ewZ0L2.vkit-VbEObC
+   Parent: #-234325978_1737 > div.vkit-9swaGy > div.vkit-aBWtJI > div.vkuiFlex__host.vkuiFlex__alignCenter > h4.vkuiFlex__host.vkuiFlex__alignCenter > a.vkit-b0dQw7.vkit-eqBxtI
+   Description: Insert immediately after the author name element
+
+2. Position: Before name
+   Element: DIV
+   Selector: #-234325978_1737 > div.vkit-9swaGy > div.vkit-aBWtJI > div.vkuiFlex__host.vkuiFlex__alignCenter > h4.vkuiFlex__host.vkuiFlex__alignCenter > a.vkit-b0dQw7.vkit-eqBxtI > div.vkit-ewZ0L2.vkit-VbEObC
+   Parent: #-234325978_1737 > div.vkit-9swaGy > div.vkit-aBWtJI > div.vkuiFlex__host.vkuiFlex__alignCenter > h4.vkuiFlex__host.vkuiFlex__alignCenter > a.vkit-b0dQw7.vkit-eqBxtI
+   Description: Insert immediately before the author name element
+
+3. Position: In header area
+   Element: svg
+   Selector: html:nth-child(1) > body.redesign_web.no_stl > svg
+   Parent: html:nth-child(1) > body.redesign_web.no_stl
+   Description: Insert in the header area of the comment/post
+
+[10] PAGE_BEHAVIOR
+SPA Indicators: Framework script: react.4b5ee18f.js?1, history.pushState available
+History API: Yes
+Dynamic Load (3s): Not detected
+
+[11] SHADOW_DOM
+Has Shadow: No
+Reason: No shadowRoot detected on element or ancestors
+
+[12] CONTEXT_MENU
+(Manual inspection required - see separate scenario)
+
+[13] RAW_HTML
+<div class="vkit-ewZ0L2 vkit-VbEObC vkit-5ara8E vkuiHeadline__densityCompact vkuiHeadline__level1 vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight2 vkuiTypography__accent vkuiRootComponent__host" data-testid="comment-owner" mode="primary">Онлайн школа резьбы по дереву | Евгений Данилюк</div>
+
+[14] SELECTORS
+Primary: div[data-testid]
+Reason: Has classes: vkit-ewZ0L2, vkit-VbEObC, vkit-5ara8E; Has data attribute: data-testid
+
+[15] NOTES
+- Entity candidates should be manually verified
+- Event container may need adjustment
+- Date format should be validated
+- Triangle anchor position #1 is recommended default
+
+=== END REPORT ===

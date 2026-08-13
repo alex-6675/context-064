@@ -1,0 +1,127 @@
+=== PORTAL INSPECTION ===
+
+PORTAL: vk.ru
+PAGE_TYPE: Unknown (manual inspection)
+URL: https://vk.ru/market/product/red-naomi-224180397-9236009
+DATE: 13.08.2026
+TIME: 23:00:22
+ENTITY_TYPE: Author/Persona (inferred)
+ENTITY_NAME: Достоинства
+EVENT_TYPE: Comment/Post (inferred)
+SOURCE_CONTEXT: Ред Наоми
+
+=== END HEADER ===
+
+[01] PAGE
+URL: https://vk.ru/market/product/red-naomi-224180397-9236009
+Hostname: vk.ru
+Title: Ред Наоми - купить за 350 руб. на ВК Маркет
+
+[02] SELECTED_ENTITY
+Tag: SPAN
+ID: none
+Class: vkuiFootnote__host vkuiFootnote__densityCompact vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight2 vkuiTypography__accent vkuiRootComponent__host
+Selector: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart > div.vkit-X9tW1f > div:nth-child(5) > div:nth-child(1) > span.vkuiFootnote__host.vkuiFootnote__densityCompact
+Text: Достоинства
+Attributes:
+  - class: vkuiFootnote__host vkuiFootnote__densityCompact vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight2 vkuiTypography__accent vkuiRootComponent__host
+
+[03] ENTITY_CANDIDATES
+1. Type: PARENT_DATA_ATTR
+   Value: market-item-review
+   Source: Parent DIV[data-testid]
+   Depth: 4
+
+2. Type: PARENT_DATA_ATTR
+   Value: 175479535
+   Source: Parent DIV[data-reviewid]
+   Depth: 4
+
+
+[04] EVENT_CONTAINER
+Selector: #popup-sticker-market-react-container > section.vkit-lbf332.vkit-YlUNtX
+Reason: Probable container with text and author
+Depth: 6
+Preview: <section class="vkit-lbf332 vkit-YlUNtX vkit-0h2gYX vkitInternalGroupCard vkuiInternalGroup vkuiGroup__host vkuiGroup__viewWidthSmallTabletPlus vkuiGroup__modeCard vkuiInternalGroup--mode-card vkuiGroup__paddingM vkuiRootComponent__host" data-testid="market_item_feedback"><div data-testid="headerlay
+
+[05] EVENT_TEXT
+Found: Yes
+Reason: Extracted from container
+Text: Отзывы 1Комментарии 0
+5,0·Средняя оценкаНаписать отзыв
+Евдокия Додон·Оценка товараПожаловатьсяДостоинстваОдин из самых красивых.19 фев в 23:31
+
+[06] DATE_TIME
+Found: Yes
+Reason: Text pattern match
+Text: Евдокия Додон·Оценка товараПожаловатьсяДостоинстваОдин из самых красивых.19 фев в 23:31
+Datetime attr: N/A
+Title attr: N/A
+Selector: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart > div.vkit-X9tW1f
+
+[07] ROOT_CONTEXT
+Title: Ред Наоми
+URL: https://vk.ru/market/product/red-naomi-224180397-9236009
+Title Selector: #popup-sticker-market-react-container > section.vkit-lbf332.vkit-YlUNtX > div.vkuiDiv__host.vkuiRootComponent__host > div.vkuiFlex__host.vkuiFlex__alignStart > div.Product__stickyContentContainer--DR4ER.Product__productInfoContainer--9157w > div:nth-child(1) > div.vkui-padding-inline-system.vkui-padding-block > h1.vkit-ewZ0L2.vkit-VbEObC
+
+[08] COMMENT_URL
+Current URL: https://vk.ru/market/product/red-naomi-224180397-9236009
+(No specific comment anchor detected automatically)
+
+[09] TRIANGLE_ANCHOR
+1. Position: After name
+   Element: SPAN
+   Selector: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart > div.vkit-X9tW1f > div:nth-child(5) > div:nth-child(1) > span.vkuiFootnote__host.vkuiFootnote__densityCompact
+   Parent: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart > div.vkit-X9tW1f > div:nth-child(5) > div:nth-child(1)
+   Description: Insert immediately after the author name element
+
+2. Position: Before name
+   Element: SPAN
+   Selector: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart > div.vkit-X9tW1f > div:nth-child(5) > div:nth-child(1) > span.vkuiFootnote__host.vkuiFootnote__densityCompact
+   Parent: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart > div.vkit-X9tW1f > div:nth-child(5) > div:nth-child(1)
+   Description: Insert immediately before the author name element
+
+3. Position: Replace next sibling
+   Element: DIV
+   Selector: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart > div.vkit-X9tW1f > div:nth-child(5) > div:nth-child(1) > div.vkit-S4nqJ8
+   Parent: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart > div.vkit-X9tW1f > div:nth-child(5) > div:nth-child(1)
+   Description: Replace or insert where next sibling exists
+
+4. Position: In header area
+   Element: DIV
+   Selector: #popup-sticker-market-react-container > section.vkit-lbf332.vkit-YlUNtX > div.vkit-kqcsqj.vkitInternalHeaderLayout
+   Parent: #popup-sticker-market-react-container > section.vkit-lbf332.vkit-YlUNtX
+   Description: Insert in the header area of the comment/post
+
+5. Position: Near date/time
+   Element: DIV
+   Selector: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart > div.vkit-X9tW1f
+   Parent: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart
+   Description: Insert near the date/time element
+
+[10] PAGE_BEHAVIOR
+SPA Indicators: Framework script: react.4b5ee18f.js?1, history.pushState available
+History API: Yes
+Dynamic Load (3s): Not detected
+
+[11] SHADOW_DOM
+Has Shadow: No
+Reason: No shadowRoot detected on element or ancestors
+
+[12] CONTEXT_MENU
+(Manual inspection required - see separate scenario)
+
+[13] RAW_HTML
+<span class="vkuiFootnote__host vkuiFootnote__densityCompact vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight2 vkuiTypography__accent vkuiRootComponent__host">Достоинства</span>
+
+[14] SELECTORS
+Primary: #review-224180397_9236009_175479535_short-list > div.vkuiFlex__host.vkuiFlex__alignStart > div.vkit-X9tW1f > div:nth-child(5) > div:nth-child(1) > span.vkuiFootnote__host.vkuiFootnote__densityCompact
+Reason: Has classes: vkuiFootnote__host, vkuiFootnote__densityCompact, vkuiTypography__host; Generated path from DOM tree
+
+[15] NOTES
+- Entity candidates should be manually verified
+- Event container may need adjustment
+- Date format should be validated
+- Triangle anchor position #1 is recommended default
+
+=== END REPORT ===
